@@ -7073,3 +7073,31 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [03Dec2024 20:11:08.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Stay dead]
 [03Dec2024 20:26:48.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 was slain by EL_banano003
 [03Dec2024 20:27:28.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_banano003 has made the advancement [Stone Age]
+[03Dec2024 20:28:21.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_banano003 has made the advancement [Getting an Upgrade]
+[03Dec2024 20:28:28.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_banano003 has made the advancement [Dungeon Now Loading]
+[03Dec2024 20:29:07.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 was slain by Zombie
+[03Dec2024 20:29:08.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_banano003 was slain by Zombie
+[03Dec2024 20:29:21.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_banano003 fell from a high place
+[03Dec2024 20:29:55.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 was slain by Fallen Chaos Knight
+[03Dec2024 20:29:55.683] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[03Dec2024 20:29:55.687] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[03Dec2024 20:29:55.688] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[03Dec2024 20:29:55.689] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[03Dec2024 20:29:55.689] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 1
+[03Dec2024 20:31:44.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_banano003 has made the advancement [Piece of Chaos]
+[03Dec2024 20:31:46.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_banano003 has made the advancement [Dark Metallurgy]
+[03Dec2024 20:33:30.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_banano003 has completed the challenge [Cannibal]
+[03Dec2024 20:34:25.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_banano003 has made the advancement [Simple Dungeon Room]
+[03Dec2024 20:35:07.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 was shot by Skeleton
+[03Dec2024 20:35:25.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 was slain by Siamese Skeletons
+[03Dec2024 20:35:34.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made B3njaxx_11 a server operator
+[03Dec2024 20:35:37.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_banano003 has made the advancement [Monster Hunter]
+[03Dec2024 20:35:46.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Teleported B3njaxx_11 to EL_banano003]
+[03Dec2024 20:36:03.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_banano003 was slain by Spider
+[03Dec2024 20:36:08.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Teleported EL_banano003 to B3njaxx_11]
+[03Dec2024 20:36:12.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Teleported EL_banano003 to B3njaxx_11]
+[03Dec2024 20:36:34.196] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Fisk of the Sand'/10718, l='ServerLevel[world]', x=-54.65, y=40.88, z=-246.57] died: Fisk of the Sand was slain by B3njaxx_11
+[03Dec2024 20:37:00.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 was shot by Skeleton
+[03Dec2024 20:37:07.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Teleported B3njaxx_11 to EL_banano003]
+[03Dec2024 20:37:38.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_banano003 was slain by Spider
+[03Dec2024 20:37:46.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Teleported EL_banano003 to B3njaxx_11]
