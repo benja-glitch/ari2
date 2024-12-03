@@ -7071,3 +7071,5 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [03Dec2024 20:07:04.320] [Server thread/INFO] [spawnermod/]: Sending config to player.
 [03Dec2024 20:09:52.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_banano003 was slain by Revenant
 [03Dec2024 20:11:08.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Stay dead]
+[03Dec2024 20:26:48.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 was slain by EL_banano003
+[03Dec2024 20:27:28.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_banano003 has made the advancement [Stone Age]
