@@ -5,30 +5,6 @@
     },
     "done": true
   },
-  "mores:root": {
-    "criteria": {
-      "crafting_table": "2024-12-03 19:42:03 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/scroll_of_returning": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-03 19:37:50 +0000"
-    },
-    "done": false
-  },
-  "paraglider:root": {
-    "criteria": {
-      "crafting_table": "2024-12-03 19:42:03 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/using/ragnarok": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-03 19:37:50 +0000"
-    },
-    "done": false
-  },
   "biomeswevegone:biomeswevegone/root": {
     "criteria": {
       "tick": "2024-12-03 19:37:49 +0000"
@@ -50,18 +26,6 @@
   "create:root": {
     "criteria": {
       "0": "2024-12-03 19:37:49 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/root": {
-    "criteria": {
-      "useitem": "2024-12-03 19:38:38 +0000"
-    },
-    "done": true
-  },
-  "rpgsmw:assassin_class": {
-    "criteria": {
-      "assassin_class_0": "2024-12-03 19:41:23 +0000"
     },
     "done": true
   },
@@ -95,12 +59,6 @@
     },
     "done": true
   },
-  "incendium:technical/using/trailblazer": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-03 19:37:50 +0000"
-    },
-    "done": false
-  },
   "travelersbackpack:standard_from_custom": {
     "criteria": {
       "has_the_recipe": "2024-12-03 19:37:49 +0000"
@@ -125,30 +83,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:snowy_plains": "2024-12-03 19:37:50 +0000"
-    },
-    "done": false
-  },
-  "biomeswevegone:biomeswevegone/husbandry/root": {
-    "criteria": {
-      "consumed_item": "2024-12-03 19:38:38 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/using/shield": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-03 19:37:50 +0000"
-    },
-    "done": false
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2024-12-03 19:38:38 +0000"
-    },
-    "done": true
-  },
   "born_in_chaos_v1:bornin_chaos": {
     "criteria": {
       "bornin_chaos_0": "2024-12-03 19:37:49 +0000"
@@ -158,12 +92,6 @@
   "betterdeserttemples:root": {
     "criteria": {
       "always": "2024-12-03 19:37:49 +0000"
-    },
-    "done": true
-  },
-  "aquamirae:adventure/root": {
-    "criteria": {
-      "crafting_table": "2024-12-03 19:42:03 +0000"
     },
     "done": true
   },
@@ -185,6 +113,99 @@
     },
     "done": true
   },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2024-12-03 19:37:49 +0000"
+    },
+    "done": true
+  },
+  "integrated_villages:integrated_villages_root": {
+    "criteria": {
+      "always": "2024-12-03 19:37:49 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-03 19:37:50 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-03 19:37:50 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-03 19:37:50 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_slopes": "2024-12-03 19:44:01 +0000",
+      "minecraft:snowy_plains": "2024-12-03 19:37:50 +0000",
+      "minecraft:dripstone_caves": "2024-12-03 19:54:02 +0000",
+      "minecraft:ice_spikes": "2024-12-03 19:44:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-03 19:37:50 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:parent": {
+    "criteria": {
+      "load_in_world": "2024-12-03 19:37:50 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2024-12-03 19:38:38 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-03 19:38:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-03 19:38:38 +0000"
+    },
+    "done": true
+  },
+  "rpgsmw:assassin_class": {
+    "criteria": {
+      "assassin_class_0": "2024-12-03 19:41:23 +0000"
+    },
+    "done": true
+  },
+  "mores:root": {
+    "criteria": {
+      "crafting_table": "2024-12-03 19:42:03 +0000"
+    },
+    "done": true
+  },
+  "paraglider:root": {
+    "criteria": {
+      "crafting_table": "2024-12-03 19:42:03 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2024-12-03 19:42:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-12-03 19:42:03 +0000"
@@ -203,21 +224,57 @@
     },
     "done": true
   },
-  "regions_unexplored:parent": {
+  "minecraft:story/mine_stone": {
     "criteria": {
-      "load_in_world": "2024-12-03 19:37:50 +0000"
+      "get_stone": "2024-12-03 19:42:25 +0000"
     },
     "done": true
   },
-  "incendium:technical/new_player": {
+  "minecraft:story/upgrade_tools": {
     "criteria": {
-      "requirement": "2024-12-03 19:37:49 +0000"
+      "stone_pickaxe": "2024-12-03 19:43:00 +0000"
     },
     "done": true
   },
-  "integrated_villages:integrated_villages_root": {
+  "evilcraft:fart": {
     "criteria": {
-      "always": "2024-12-03 19:37:49 +0000"
+      "criteria_0": "2024-12-03 19:44:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-12-03 19:45:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-03 19:55:39 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:root": {
+    "criteria": {
+      "criteria_0": "2024-12-03 19:50:56 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:cannibal": {
+    "criteria": {
+      "criteria_0": "2024-12-03 19:56:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-12-03 19:55:23 +0000"
+    },
+    "done": true
+  },
+  "mores:acquire_hardware": {
+    "criteria": {
+      "iron": "2024-12-03 19:55:23 +0000"
     },
     "done": true
   },
