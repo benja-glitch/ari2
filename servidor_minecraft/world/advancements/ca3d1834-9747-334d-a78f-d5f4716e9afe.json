@@ -148,7 +148,9 @@
       "minecraft:snowy_slopes": "2024-12-03 20:46:56 +0000",
       "minecraft:frozen_river": "2024-12-03 20:29:09 +0000",
       "minecraft:snowy_plains": "2024-12-03 19:57:40 +0000",
-      "minecraft:ice_spikes": "2024-12-03 20:53:49 +0000"
+      "minecraft:jagged_peaks": "2024-12-03 21:02:16 +0000",
+      "minecraft:ice_spikes": "2024-12-03 20:53:49 +0000",
+      "minecraft:frozen_peaks": "2024-12-03 21:01:29 +0000"
     },
     "done": false
   },
@@ -176,6 +178,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_mushroom_village": {
+    "criteria": {
+      "location0": "2024-12-03 21:03:30 +0000"
+    },
+    "done": true
+  },
   "paraglider:root": {
     "criteria": {
       "crafting_table": "2024-12-03 20:28:28 +0000"
@@ -191,6 +199,12 @@
   "rpgsmw:paladin_class": {
     "criteria": {
       "paladin_class_0": "2024-12-03 20:43:51 +0000"
+    },
+    "done": true
+  },
+  "mores:obtain_steel": {
+    "criteria": {
+      "obtain_steel_ingot": "2024-12-03 20:57:17 +0000"
     },
     "done": true
   },
@@ -212,6 +226,12 @@
     },
     "done": true
   },
+  "mores:obtain_all": {
+    "criteria": {
+      "obtain_steel_ingot": "2024-12-03 20:57:17 +0000"
+    },
+    "done": false
+  },
   "evilcraft:evil_source": {
     "criteria": {
       "criteria_0": "2024-12-03 20:38:46 +0000"
@@ -221,6 +241,9 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "frozen_pine_taiga": "2024-12-03 20:51:44 +0000",
+      "maple_forest": "2024-12-03 21:02:54 +0000",
+      "mountains": "2024-12-03 21:02:17 +0000",
+      "pine_slopes": "2024-12-03 21:02:44 +0000",
       "icy_heights": "2024-12-03 20:53:13 +0000"
     },
     "done": false
@@ -257,9 +280,22 @@
   },
   "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
     "criteria": {
+      "apple": "2024-12-03 20:57:18 +0000",
       "golden_apple": "2024-12-03 20:38:50 +0000"
     },
     "done": false
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-03 21:04:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-12-03 21:00:38 +0000"
+    },
+    "done": true
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
@@ -272,6 +308,9 @@
   "regions_unexplored:pioneer": {
     "criteria": {
       "frozen_pine_taiga": "2024-12-03 20:51:44 +0000",
+      "maple_forest": "2024-12-03 21:02:54 +0000",
+      "mountains": "2024-12-03 21:02:17 +0000",
+      "pine_slopes": "2024-12-03 21:02:44 +0000",
       "icy_heights": "2024-12-03 20:53:13 +0000"
     },
     "done": false
@@ -285,6 +324,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-03 20:35:54 +0000",
+      "minecraft:piglin_brute": "2024-12-03 21:04:58 +0000",
       "minecraft:spider": "2024-12-03 20:35:37 +0000",
       "minecraft:silverfish": "2024-12-03 20:40:03 +0000",
       "minecraft:zombie": "2024-12-03 20:35:40 +0000"
@@ -309,6 +349,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:explosive_temper": {
+    "criteria": {
+      "explosive_temper_0": "2024-12-03 20:59:54 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:dark_metallurgy": {
     "criteria": {
       "dark_metallurgy_0": "2024-12-03 20:31:46 +0000"
@@ -318,7 +364,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2024-12-03 20:55:25 +0000",
-      "rotten_flesh": "2024-12-03 20:34:44 +0000"
+      "rotten_flesh": "2024-12-03 20:34:44 +0000",
+      "suspicious_stew": "2024-12-03 21:06:25 +0000"
     },
     "done": false
   },
@@ -340,6 +387,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:hatman": {
+    "criteria": {
+      "hatman_0": "2024-12-03 20:57:43 +0000"
+    },
+    "done": false
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-12-03 20:28:28 +0000"
@@ -352,9 +405,21 @@
     },
     "done": true
   },
+  "mores:acquire_hardware": {
+    "criteria": {
+      "iron": "2024-12-03 21:00:38 +0000"
+    },
+    "done": true
+  },
   "dungeonnowloading:story/root": {
     "criteria": {
       "obtain_crafting_table": "2024-12-03 20:28:28 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:husbandry/sus_stew": {
+    "criteria": {
+      "stew": "2024-12-03 21:06:25 +0000"
     },
     "done": true
   },
