@@ -7581,3 +7581,38 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [03Dec2024 22:37:44.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Creative Mode]
 [03Dec2024 22:38:00.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
 [03Dec2024 22:38:05.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was slain by Zombie
+[03Dec2024 22:39:30.801] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Yomach the Toxic'/50920, l='ServerLevel[world]', x=-2857.53, y=29.00, z=122.52] died: Yomach the Toxic was slain by B3njaxx_11
+[03Dec2024 22:40:33.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [How long's this been here?]
+[03Dec2024 22:40:36.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Magery]
+[03Dec2024 22:41:24.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was slain by Zombie
+[03Dec2024 22:42:31.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was slain by Zombie
+[03Dec2024 22:43:09.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 was slain by Zombie
+[03Dec2024 22:43:09.794] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[03Dec2024 22:43:09.794] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[03Dec2024 22:43:09.794] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[03Dec2024 22:43:09.795] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[03Dec2024 22:43:09.795] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 2 | client: 2
+[03Dec2024 22:43:14.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Creative Mode]
+[03Dec2024 22:43:16.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
+[03Dec2024 22:43:23.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Successfully restored B3njaxx_11's items]
+[03Dec2024 22:43:29.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has made the advancement [Who You Gonna Call?]
+[03Dec2024 22:43:52.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Creative Mode]
+[03Dec2024 22:43:52.953] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5824ms or 116 ticks behind
+[03Dec2024 22:44:18.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Teleported Tomas_michele to B3njaxx_11]
+[03Dec2024 22:44:20.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
+[03Dec2024 22:44:23.973] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=32, y=-31, z=449}
+[03Dec2024 22:44:48.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Creative Mode]
+[03Dec2024 22:45:43.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Teleported B3njaxx_11 to Tomas_michele]
+[03Dec2024 22:46:07.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Spectator Mode]
+[03Dec2024 22:47:38.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Creative Mode]
+[03Dec2024 22:47:56.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Teleported B3njaxx_11 to Tomas_michele]
+[03Dec2024 22:48:00.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Spectator Mode]
+[03Dec2024 22:48:01.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Creative Mode]
+[03Dec2024 22:48:02.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
+[03Dec2024 22:48:16.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Creative Mode]
+[03Dec2024 22:48:17.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Spectator Mode]
+[03Dec2024 22:48:37.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Creative Mode]
+[03Dec2024 22:48:43.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
+[03Dec2024 22:48:57.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele fell from a high place
+[03Dec2024 22:49:20.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 was struck by lightning whilst fighting Ewart the Cold
+[03Dec2024 22:49:22.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was shot by Ewart the Cold

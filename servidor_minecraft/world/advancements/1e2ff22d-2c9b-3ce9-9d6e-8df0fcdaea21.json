@@ -351,6 +351,7 @@
       "frozen_pine_taiga": "2024-12-03 20:51:44 +0000",
       "maple_forest": "2024-12-03 21:02:52 +0000",
       "mountains": "2024-12-03 21:01:38 +0000",
+      "cold_river": "2024-12-03 22:39:20 +0000",
       "pine_slopes": "2024-12-03 21:02:38 +0000",
       "gravel_beach": "2024-12-03 21:44:56 +0000",
       "icy_heights": "2024-12-03 20:52:55 +0000"
@@ -429,6 +430,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2024-12-03 22:40:36 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
       "biomeswevegone:coconino_meadow": "2024-12-03 21:34:48 +0000",
@@ -453,6 +460,7 @@
       "frozen_pine_taiga": "2024-12-03 20:51:44 +0000",
       "maple_forest": "2024-12-03 21:02:52 +0000",
       "mountains": "2024-12-03 21:01:38 +0000",
+      "cold_river": "2024-12-03 22:39:20 +0000",
       "pine_slopes": "2024-12-03 21:02:38 +0000",
       "gravel_beach": "2024-12-03 21:44:56 +0000",
       "icy_heights": "2024-12-03 20:52:55 +0000"
@@ -462,6 +470,12 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2024-12-03 21:16:31 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_rotten": {
+    "criteria": {
+      "requirement": "2024-12-03 22:40:33 +0000"
     },
     "done": true
   },

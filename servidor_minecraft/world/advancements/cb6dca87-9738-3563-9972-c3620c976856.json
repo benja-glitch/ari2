@@ -65,6 +65,15 @@
     },
     "done": false
   },
+  "regions_unexplored:regions_explored": {
+    "criteria": {
+      "autumnal_maple_forest": "2024-12-03 22:40:28 +0000",
+      "frozen_tundra": "2024-12-03 22:46:08 +0000",
+      "frozen_pine_taiga": "2024-12-03 22:47:03 +0000",
+      "cold_river": "2024-12-03 22:42:48 +0000"
+    },
+    "done": false
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2024-12-03 22:25:54 +0000"
@@ -153,6 +162,7 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
+      "biomeswevegone:shattered_glacier": "2024-12-03 22:44:44 +0000",
       "biomeswevegone:crimson_tundra": "2024-12-03 22:21:33 +0000"
     },
     "done": false
@@ -168,6 +178,15 @@
       "choose_your_class_0": "2024-12-03 22:15:33 +0000"
     },
     "done": true
+  },
+  "regions_unexplored:pioneer": {
+    "criteria": {
+      "autumnal_maple_forest": "2024-12-03 22:40:28 +0000",
+      "frozen_tundra": "2024-12-03 22:46:08 +0000",
+      "frozen_pine_taiga": "2024-12-03 22:47:03 +0000",
+      "cold_river": "2024-12-03 22:42:48 +0000"
+    },
+    "done": false
   },
   "incendium:technical/using/trailblazer": {
     "criteria": {
@@ -189,7 +208,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:skeleton": "2024-12-03 22:25:20 +0000"
+      "minecraft:skeleton": "2024-12-03 22:25:20 +0000",
+      "minecraft:zombie": "2024-12-03 22:37:50 +0000"
     },
     "done": false
   },
@@ -246,6 +266,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-03 22:43:29 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:explosive_temper": {
     "criteria": {
       "explosive_temper_0": "2024-12-03 22:25:16 +0000"
@@ -254,6 +280,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "bread": "2024-12-03 22:40:35 +0000",
       "golden_apple": "2024-12-03 22:22:18 +0000"
     },
     "done": false
