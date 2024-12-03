@@ -7329,3 +7329,182 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [03Dec2024 21:36:45.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 fell from a high place
 [03Dec2024 21:38:12.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_banano003 was blown up by B3njaxx_11
 [03Dec2024 21:38:12.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 blew up
+[03Dec2024 21:39:19.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Tavern Village]
+[03Dec2024 21:39:20.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_banano003 has made the advancement [Tavern Village]
+[03Dec2024 21:43:42.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Teleported EL_banano003 to B3njaxx_11]
+[03Dec2024 21:44:00.002] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EL_banano003 lost connection: Disconnected
+[03Dec2024 21:44:00.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_banano003 left the game
+[03Dec2024 21:48:10.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Mine? Mine? Mine?]
+[03Dec2024 21:48:38.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Creative Mode]
+[03Dec2024 21:48:57.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [My Name is Nobody]
+[03Dec2024 21:49:00.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
+[03Dec2024 21:49:39.304] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EL_banano003[/127.78.17.184:47851] logged in with entity id 36699 at (-1270.300000011921, 124.0, -924.3000000119209)
+[03Dec2024 21:49:39.306] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to EL_banano003
+[03Dec2024 21:49:39.306] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to EL_banano003
+[03Dec2024 21:49:39.307] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to EL_banano003
+[03Dec2024 21:49:39.307] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to EL_banano003
+[03Dec2024 21:49:39.310] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to EL_banano003
+[03Dec2024 21:49:39.313] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to EL_banano003
+[03Dec2024 21:49:39.314] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to EL_banano003
+[03Dec2024 21:49:39.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_banano003 joined the game
+[03Dec2024 21:49:39.388] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[03Dec2024 21:49:44.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Teleported EL_banano003 to B3njaxx_11]
+[03Dec2024 21:50:19.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_banano003 was blown up by Corpse Maggot
+[03Dec2024 21:50:23.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Teleported EL_banano003 to B3njaxx_11]
+[03Dec2024 21:50:26.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Teleported EL_banano003 to B3njaxx_11]
+[03Dec2024 21:50:30.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Teleported EL_banano003 to B3njaxx_11]
+[03Dec2024 21:50:37.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Teleported EL_banano003 to B3njaxx_11]
+[03Dec2024 21:51:20.161] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EL_banano003 lost connection: Disconnected
+[03Dec2024 21:51:20.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_banano003 left the game
+[03Dec2024 21:51:56.375] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-105, 13], pos: BlockPos{x=-1679, y=-26, z=208}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[03Dec2024 21:51:56.376] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-105, 13], pos: BlockPos{x=-1678, y=-26, z=208}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[03Dec2024 21:51:56.376] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-105, 13], pos: BlockPos{x=-1677, y=-26, z=208}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[03Dec2024 21:51:56.376] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-106, 13], pos: BlockPos{x=-1681, y=-23, z=208}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[03Dec2024 21:53:30.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Who You Gonna Call?]
+[03Dec2024 21:53:32.987] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:33.085] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:33.184] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:33.286] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:33.384] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:33.484] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:33.583] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:33.684] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:33.785] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:33.887] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:33.986] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:34.084] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:34.185] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:34.285] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:34.385] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:34.485] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:34.583] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:34.684] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:34.785] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:34.887] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:34.984] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:35.086] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:35.183] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:35.286] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:35.389] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:35.486] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:35.584] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:35.683] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:35.786] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:35.884] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:35.986] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:36.085] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:36.184] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:36.285] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:36.385] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:36.484] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:36.584] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:36.685] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:36.783] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:36.884] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:36.985] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:37.084] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:37.186] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:37.285] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:37.386] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:37.484] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:37.586] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:37.686] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:37.785] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:37.884] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:37.986] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:38.086] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:38.187] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:38.287] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:38.383] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:38.484] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:38.585] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:38.683] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:38.787] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:38.884] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:38.984] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:39.084] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:39.185] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:39.285] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:39.385] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:39.485] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:39.587] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:39.684] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:39.785] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:39.886] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:40.000] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:40.086] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:40.184] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:40.283] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:40.385] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:40.484] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:40.583] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:40.687] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:40.788] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:40.884] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:40.984] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:41.085] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:41.185] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:41.287] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:41.386] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:41.484] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:41.585] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:41.684] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:41.785] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:41.884] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:41.985] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:42.088] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:42.184] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:42.284] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:42.386] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:42.483] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:42.584] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:42.688] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:42.784] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:42.886] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:42.986] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:43.086] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:43.183] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:53:43.283] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 21:54:13.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [The Lighthouse]
+[03Dec2024 21:55:05.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Creative Mode]
+[03Dec2024 21:55:06.092] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1717, y=65, z=-313} BlockPos{x=-1553, y=72, z=-521}
+[03Dec2024 21:57:24.974] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EL_banano003[/127.78.17.184:39835] logged in with entity id 41560 at (-1493.1630468581852, 79.0, -367.660568041013)
+[03Dec2024 21:57:24.976] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to EL_banano003
+[03Dec2024 21:57:24.977] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to EL_banano003
+[03Dec2024 21:57:24.977] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to EL_banano003
+[03Dec2024 21:57:24.977] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to EL_banano003
+[03Dec2024 21:57:24.980] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to EL_banano003
+[03Dec2024 21:57:24.982] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to EL_banano003
+[03Dec2024 21:57:24.982] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to EL_banano003
+[03Dec2024 21:57:25.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_banano003 joined the game
+[03Dec2024 21:57:25.018] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[03Dec2024 21:58:46.643] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EL_banano003 lost connection: Disconnected
+[03Dec2024 21:58:46.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_banano003 left the game
+[03Dec2024 22:08:10.330] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EL_banano003[/127.78.17.184:41113] logged in with entity id 42833 at (-1493.1630468581852, 79.0, -367.660568041013)
+[03Dec2024 22:08:10.333] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to EL_banano003
+[03Dec2024 22:08:10.333] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to EL_banano003
+[03Dec2024 22:08:10.333] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to EL_banano003
+[03Dec2024 22:08:10.334] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to EL_banano003
+[03Dec2024 22:08:10.335] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to EL_banano003
+[03Dec2024 22:08:10.337] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to EL_banano003
+[03Dec2024 22:08:10.337] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to EL_banano003
+[03Dec2024 22:08:10.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_banano003 joined the game
+[03Dec2024 22:08:10.369] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[03Dec2024 22:08:31.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Teleported EL_banano003 to B3njaxx_11]
+[03Dec2024 22:08:44.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> a
+[03Dec2024 22:09:02.442] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: B3njaxx_11 moved too quickly! -0.6181347831550283,-2.0782464825821023,-10.605527336923501
+[03Dec2024 22:09:36.491] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EL_banano003 lost connection: Disconnected
+[03Dec2024 22:09:36.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_banano003 left the game
+[03Dec2024 22:15:33.943] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tomas_michele[/127.78.17.184:39063] logged in with entity id 46374 at (-31.5, 113.0, -37.5)
+[03Dec2024 22:15:33.945] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Tomas_michele
+[03Dec2024 22:15:33.945] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Tomas_michele
+[03Dec2024 22:15:33.946] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Tomas_michele
+[03Dec2024 22:15:33.946] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Tomas_michele
+[03Dec2024 22:15:33.948] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Tomas_michele
+[03Dec2024 22:15:33.950] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Tomas_michele
+[03Dec2024 22:15:33.950] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Tomas_michele
+[03Dec2024 22:15:33.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele joined the game
+[03Dec2024 22:15:33.993] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[03Dec2024 22:15:33.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has reached the goal [Choose Your Class]
+[03Dec2024 22:15:34.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has made the advancement [Ice and Fire]
+[03Dec2024 22:18:15.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was slain by Frigid Zombie
