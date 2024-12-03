@@ -7616,3 +7616,55 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [03Dec2024 22:48:57.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele fell from a high place
 [03Dec2024 22:49:20.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 was struck by lightning whilst fighting Ewart the Cold
 [03Dec2024 22:49:22.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was shot by Ewart the Cold
+[03Dec2024 22:49:43.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was shot by Ewart the Cold
+[03Dec2024 22:49:53.853] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stray['Ewart the Cold'/61207, l='ServerLevel[world]', x=273.70, y=71.00, z=-489.52] died: Ewart the Cold was slain by B3njaxx_11
+[03Dec2024 22:50:46.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Creative Mode]
+[03Dec2024 22:50:47.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Spectator Mode]
+[03Dec2024 22:50:49.002] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tomas_michele moved too quickly! 4.5781681976870345,3.0,-8.514850507742722
+[03Dec2024 22:50:59.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Labyrinth]
+[03Dec2024 22:52:30.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was slain by Ghost
+[03Dec2024 22:52:38.397] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: B3njaxx_11 moved too quickly! -2.111894993152873,7.424999624476847,-6.705211475754368
+[03Dec2024 22:53:20.862] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: B3njaxx_11 moved too quickly! -6.465724813185034,-3.0999854176224915,8.229745102274933
+[03Dec2024 22:53:29.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was slain by Frostmaw
+[03Dec2024 22:53:29.311] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[03Dec2024 22:53:29.312] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[03Dec2024 22:53:29.312] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[03Dec2024 22:53:29.312] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[03Dec2024 22:53:29.312] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 1
+[03Dec2024 22:53:50.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Teleported B3njaxx_11 to Tomas_michele]
+[03Dec2024 22:53:52.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
+[03Dec2024 22:54:05.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was frozen to death by Frostmaw
+[03Dec2024 22:54:15.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Spectator Mode]
+[03Dec2024 22:54:21.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Creative Mode]
+[03Dec2024 22:54:37.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was frozen to death by Frostmaw
+[03Dec2024 22:54:47.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
+[03Dec2024 22:54:49.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was slain by Frostmaw
+[03Dec2024 22:54:51.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 was slain by Frostmaw
+[03Dec2024 22:54:51.844] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[03Dec2024 22:54:51.844] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[03Dec2024 22:54:51.844] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[03Dec2024 22:54:51.844] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[03Dec2024 22:54:51.844] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 2 | client: 2
+[03Dec2024 22:55:13.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was slain by Frostmaw
+[03Dec2024 22:55:28.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 was slain by Frostmaw
+[03Dec2024 22:55:39.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was slain by Frostmaw
+[03Dec2024 22:55:44.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was slain by Frostmaw
+[03Dec2024 22:55:50.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has made the advancement [How long's this been here?]
+[03Dec2024 22:55:52.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has made the advancement [Magery]
+[03Dec2024 22:55:56.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was slain by Frostmaw
+[03Dec2024 22:56:26.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has completed the challenge [Cannibal]
+[03Dec2024 22:56:29.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 was slain by Frostmaw
+[03Dec2024 22:56:30.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was slain by Frostmaw
+[03Dec2024 22:56:31.223] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[03Dec2024 22:56:31.223] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[03Dec2024 22:56:31.223] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[03Dec2024 22:56:31.224] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[03Dec2024 22:56:31.224] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 1
+[03Dec2024 22:56:45.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was slain by Frostmaw
+[03Dec2024 22:56:50.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 was slain by Frostmaw
+[03Dec2024 22:57:13.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was slain by Frostmaw
+[03Dec2024 22:57:29.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was slain by Frostmaw
+[03Dec2024 22:57:41.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 was slain by Frostmaw
+[03Dec2024 22:58:34.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has completed the challenge [Rude Awakening]
+[03Dec2024 22:59:03.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele froze to death
+[03Dec2024 22:59:27.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Applied enchantment Unbreaking III to B3njaxx_11's item]
