@@ -7101,3 +7101,29 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [03Dec2024 20:37:07.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Teleported B3njaxx_11 to EL_banano003]
 [03Dec2024 20:37:38.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_banano003 was slain by Spider
 [03Dec2024 20:37:46.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Teleported EL_banano003 to B3njaxx_11]
+[03Dec2024 20:38:02.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 was shot by Skeleton
+[03Dec2024 20:38:08.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Teleported B3njaxx_11 to EL_banano003]
+[03Dec2024 20:38:13.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Piece of Chaos]
+[03Dec2024 20:38:13.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Dark Metallurgy]
+[03Dec2024 20:38:34.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Look at my horse]
+[03Dec2024 20:38:46.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_banano003 has made the advancement [A True Source of Evil]
+[03Dec2024 20:39:30.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_banano003 has completed the challenge [It Spreads]
+[03Dec2024 20:41:02.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Milka Oreo]
+[03Dec2024 20:41:07.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [False Water]
+[03Dec2024 20:42:41.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_banano003 has made the advancement [First Age]
+[03Dec2024 20:43:19.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_banano003 has made the advancement [Quicksilver]
+[03Dec2024 20:43:21.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_banano003 was slain by Corpse Fly
+[03Dec2024 20:43:21.676] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[03Dec2024 20:43:21.676] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[03Dec2024 20:43:21.676] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 obituary
+[03Dec2024 20:43:21.676] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[03Dec2024 20:43:21.676] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[03Dec2024 20:43:28.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Teleported EL_banano003 to B3njaxx_11]
+[03Dec2024 20:43:38.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_banano003 has made the advancement [Alex's Mobs]
+[03Dec2024 20:43:51.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_banano003 has completed the challenge [Paladin Class]
+[03Dec2024 20:46:43.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_banano003 drowned
+[03Dec2024 20:47:06.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_banano003 was slain by Zatlah
+[03Dec2024 20:47:07.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Teleported EL_banano003 to B3njaxx_11]
+[03Dec2024 20:47:21.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_banano003 was slain by Gusnow
+[03Dec2024 20:47:21.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Teleported EL_banano003 to B3njaxx_11]
+[03Dec2024 20:47:28.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Teleported EL_banano003 to B3njaxx_11]

@@ -145,6 +145,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2024-12-03 20:46:56 +0000",
       "minecraft:frozen_river": "2024-12-03 20:29:09 +0000",
       "minecraft:snowy_plains": "2024-12-03 19:57:40 +0000"
     },
@@ -180,6 +181,18 @@
     },
     "done": true
   },
+  "rpgsmw:paladin_class": {
+    "criteria": {
+      "paladin_class_0": "2024-12-03 20:43:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2024-12-03 20:39:30 +0000"
+    },
+    "done": true
+  },
   "evilcraft:root": {
     "criteria": {
       "criteria_0": "2024-12-03 20:27:11 +0000"
@@ -189,6 +202,12 @@
   "dungeonnowloading:story/labyrinth/loot_simple_dungeon": {
     "criteria": {
       "loot_simple_dungeon": "2024-12-03 20:34:25 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:evil_source": {
+    "criteria": {
+      "criteria_0": "2024-12-03 20:38:46 +0000"
     },
     "done": true
   },
@@ -210,6 +229,30 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2024-12-03 20:43:38 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:first_age": {
+    "criteria": {
+      "criteria_0": "2024-12-03 20:42:41 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
+    "criteria": {
+      "golden_apple": "2024-12-03 20:38:50 +0000"
+    },
+    "done": false
+  },
+  "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
+    "criteria": {
+      "biomeswevegone:shattered_glacier": "2024-12-03 20:39:30 +0000"
+    },
+    "done": false
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2024-12-03 20:09:52 +0000"
@@ -220,9 +263,16 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-03 20:35:54 +0000",
       "minecraft:spider": "2024-12-03 20:35:37 +0000",
+      "minecraft:silverfish": "2024-12-03 20:40:03 +0000",
       "minecraft:zombie": "2024-12-03 20:35:40 +0000"
     },
     "done": false
+  },
+  "biomeswevegone:biomeswevegone/adventure/root": {
+    "criteria": {
+      "biomeswevegone:shattered_glacier": "2024-12-03 20:39:30 +0000"
+    },
+    "done": true
   },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
@@ -251,6 +301,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-12-03 20:33:30 +0000"
+    },
+    "done": true
+  },
+  "mores:obtain_silver_ore": {
+    "criteria": {
+      "obtain_silver_ore": "2024-12-03 20:43:19 +0000"
     },
     "done": true
   },
