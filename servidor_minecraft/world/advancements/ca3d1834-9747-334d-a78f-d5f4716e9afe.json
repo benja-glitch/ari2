@@ -147,7 +147,8 @@
     "criteria": {
       "minecraft:snowy_slopes": "2024-12-03 20:46:56 +0000",
       "minecraft:frozen_river": "2024-12-03 20:29:09 +0000",
-      "minecraft:snowy_plains": "2024-12-03 19:57:40 +0000"
+      "minecraft:snowy_plains": "2024-12-03 19:57:40 +0000",
+      "minecraft:ice_spikes": "2024-12-03 20:53:49 +0000"
     },
     "done": false
   },
@@ -181,6 +182,12 @@
     },
     "done": true
   },
+  "repurposed_structures:villages": {
+    "criteria": {
+      "in_village_mountains": "2024-12-03 20:53:10 +0000"
+    },
+    "done": false
+  },
   "rpgsmw:paladin_class": {
     "criteria": {
       "paladin_class_0": "2024-12-03 20:43:51 +0000"
@@ -210,6 +217,13 @@
       "criteria_0": "2024-12-03 20:38:46 +0000"
     },
     "done": true
+  },
+  "regions_unexplored:regions_explored": {
+    "criteria": {
+      "frozen_pine_taiga": "2024-12-03 20:51:44 +0000",
+      "icy_heights": "2024-12-03 20:53:13 +0000"
+    },
+    "done": false
   },
   "minecraft:story/mine_stone": {
     "criteria": {
@@ -249,7 +263,16 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
-      "biomeswevegone:shattered_glacier": "2024-12-03 20:39:30 +0000"
+      "biomeswevegone:frosted_coniferous_forest": "2024-12-03 20:51:04 +0000",
+      "biomeswevegone:shattered_glacier": "2024-12-03 20:39:30 +0000",
+      "biomeswevegone:crimson_tundra": "2024-12-03 20:50:19 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:pioneer": {
+    "criteria": {
+      "frozen_pine_taiga": "2024-12-03 20:51:44 +0000",
+      "icy_heights": "2024-12-03 20:53:13 +0000"
     },
     "done": false
   },
@@ -294,6 +317,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "bread": "2024-12-03 20:55:25 +0000",
       "rotten_flesh": "2024-12-03 20:34:44 +0000"
     },
     "done": false

@@ -255,6 +255,12 @@
     },
     "done": true
   },
+  "repurposed_structures:villages": {
+    "criteria": {
+      "in_village_mountains": "2024-12-03 20:56:23 +0000"
+    },
+    "done": false
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2024-12-03 19:58:13 +0000"
@@ -273,6 +279,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2024-12-03 20:55:28 +0000"
+    },
+    "done": true
+  },
   "evilcraft:root": {
     "criteria": {
       "criteria_0": "2024-12-03 19:50:56 +0000"
@@ -284,6 +296,13 @@
       "eat_chocolate": "2024-12-03 20:41:02 +0000"
     },
     "done": true
+  },
+  "regions_unexplored:regions_explored": {
+    "criteria": {
+      "frozen_pine_taiga": "2024-12-03 20:51:44 +0000",
+      "icy_heights": "2024-12-03 20:52:55 +0000"
+    },
+    "done": false
   },
   "evilcraft:cannibal": {
     "criteria": {
@@ -311,7 +330,16 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
-      "biomeswevegone:shattered_glacier": "2024-12-03 20:37:58 +0000"
+      "biomeswevegone:frosted_coniferous_forest": "2024-12-03 20:51:00 +0000",
+      "biomeswevegone:shattered_glacier": "2024-12-03 20:37:58 +0000",
+      "biomeswevegone:crimson_tundra": "2024-12-03 20:50:16 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:pioneer": {
+    "criteria": {
+      "frozen_pine_taiga": "2024-12-03 20:51:44 +0000",
+      "icy_heights": "2024-12-03 20:52:55 +0000"
     },
     "done": false
   },
@@ -355,9 +383,22 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "bread": "2024-12-03 20:48:02 +0000",
       "rotten_flesh": "2024-12-03 20:36:56 +0000"
     },
     "done": false
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_ice_dragon": "2024-12-03 20:55:51 +0000"
+    },
+    "done": true
+  },
+  "mores:obtain_silver_ore": {
+    "criteria": {
+      "obtain_silver_ore": "2024-12-03 20:48:19 +0000"
+    },
+    "done": true
   },
   "graveyard:graveyard/corruption": {
     "criteria": {

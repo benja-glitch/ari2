@@ -7127,3 +7127,56 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [03Dec2024 20:47:21.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_banano003 was slain by Gusnow
 [03Dec2024 20:47:21.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Teleported EL_banano003 to B3njaxx_11]
 [03Dec2024 20:47:28.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Teleported EL_banano003 to B3njaxx_11]
+[03Dec2024 20:48:19.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Quicksilver]
+[03Dec2024 20:51:26.919] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of B3njaxx_11) moved too quickly! -3.9332517682935304,0.0,-9.406533955841041
+[03Dec2024 20:51:26.920] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of B3njaxx_11) moved too quickly! -4.3993131603395454,0.0,-10.477289735532395
+[03Dec2024 20:51:26.921] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of B3njaxx_11) moved too quickly! -4.89365660742186,0.0,-11.512992467546496
+[03Dec2024 20:51:26.921] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of B3njaxx_11) moved too quickly! -5.415099117596185,0.0,-12.512748262654554
+[03Dec2024 20:51:26.923] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of B3njaxx_11) moved too quickly! -5.962716830609054,0.0,-13.476379985031258
+[03Dec2024 20:51:26.923] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of B3njaxx_11) moved too quickly! -6.53588031799859,0.0,-14.404371823522979
+[03Dec2024 20:51:26.923] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of B3njaxx_11) moved too quickly! -7.134258428647854,0.0,-15.297843486724332
+[03Dec2024 20:51:26.924] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of B3njaxx_11) moved too quickly! -7.757783541650781,0.0,-16.158528974718934
+[03Dec2024 20:51:26.998] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of B3njaxx_11) moved too quickly! -5.62323574343867,0.0,-9.477628528769287
+[03Dec2024 20:51:26.998] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of B3njaxx_11) moved too quickly! -6.284074410281164,0.0,-10.264349353341231
+[03Dec2024 20:51:27.450] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of B3njaxx_11) moved too quickly! 9.985594884525767,0.0,14.66557972737155
+[03Dec2024 20:51:27.450] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of B3njaxx_11) moved too quickly! 9.985594884525767,0.0,14.66557972737155
+[03Dec2024 20:51:27.450] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of B3njaxx_11) moved too quickly! 9.985594884525767,0.0,14.66557972737155
+[03Dec2024 20:51:27.450] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of B3njaxx_11) moved too quickly! 9.985594884525767,0.0,14.66557972737155
+[03Dec2024 20:51:27.450] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of B3njaxx_11) moved too quickly! 9.985594884525767,0.0,14.66557972737155
+[03Dec2024 20:51:27.450] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of B3njaxx_11) moved too quickly! 9.985594884525767,0.0,14.66557972737155
+[03Dec2024 20:51:27.451] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of B3njaxx_11) moved too quickly! 9.985594884525767,0.0,14.66557972737155
+[03Dec2024 20:51:27.451] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of B3njaxx_11) moved too quickly! 9.985594884525767,0.0,14.66557972737155
+[03Dec2024 20:51:27.451] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of B3njaxx_11) moved too quickly! 9.40885524478142,0.0,13.996210694718911
+[03Dec2024 20:51:27.451] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of B3njaxx_11) moved too quickly! 8.838783810543646,0.0,13.34137639026028
+[03Dec2024 20:51:29.012] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-27, -44], pos: BlockPos{x=-432, y=-56, z=-691}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[03Dec2024 20:51:29.012] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-27, -44], pos: BlockPos{x=-432, y=-56, z=-692}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[03Dec2024 20:51:29.012] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-27, -44], pos: BlockPos{x=-432, y=-56, z=-693}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[03Dec2024 20:51:29.013] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-27, -44], pos: BlockPos{x=-432, y=-53, z=-689}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[03Dec2024 20:52:14.541] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/16507, l='ServerLevel[world]', x=-503.00, y=134.00, z=-739.31] died, message: 'Villager suffocated in a wall'
+[03Dec2024 20:52:17.004] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
+[03Dec2024 20:52:58.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 was slain by Dread Beast
+[03Dec2024 20:53:10.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 was slain by Dread Knight
+[03Dec2024 20:53:17.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Creative Mode]
+[03Dec2024 20:53:18.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_banano003 fell from a high place
+[03Dec2024 20:53:56.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Teleported EL_banano003 to B3njaxx_11]
+[03Dec2024 20:54:16.785] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/17427, l='ServerLevel[world]', x=-516.73, y=136.00, z=-781.73] died, message: 'Villager was slain by Husk'
+[03Dec2024 20:54:36.406] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/17560, l='ServerLevel[world]', x=-509.35, y=144.00, z=-797.67] died, message: 'Villager was slain by Husk'
+[03Dec2024 20:55:22.742] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/17459, l='ServerLevel[world]', x=-506.30, y=130.00, z=-739.70] died, message: 'Villager was slain by Zombie Villager'
+[03Dec2024 20:55:28.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has completed the challenge [It Spreads]
+[03Dec2024 20:55:51.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Dragonslayer]
+[03Dec2024 20:56:32.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
+[03Dec2024 20:56:36.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 was pierced by Necromancer's icicle
+[03Dec2024 20:56:37.157] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[03Dec2024 20:56:37.157] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[03Dec2024 20:56:37.158] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[03Dec2024 20:56:37.158] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[03Dec2024 20:56:37.158] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 2 | client: 2
+[03Dec2024 20:56:37.834] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[03Dec2024 20:56:37.834] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[03Dec2024 20:56:37.834] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[03Dec2024 20:56:37.834] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[03Dec2024 20:56:37.834] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 2 | client: 2
+[03Dec2024 20:56:48.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 was slain by Dread Knight
+[03Dec2024 20:56:52.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Creative Mode]
+[03Dec2024 20:57:16.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
+[03Dec2024 20:57:17.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_banano003 has made the advancement [Hephaestos]
