@@ -7508,3 +7508,58 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [03Dec2024 22:15:33.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has reached the goal [Choose Your Class]
 [03Dec2024 22:15:34.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has made the advancement [Ice and Fire]
 [03Dec2024 22:18:15.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was slain by Frigid Zombie
+[03Dec2024 22:20:32.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has made the advancement [Sweet Dreams]
+[03Dec2024 22:20:36.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was shot by Frigid Skeleton
+[03Dec2024 22:22:02.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Teleported Tomas_michele to B3njaxx_11]
+[03Dec2024 22:22:18.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
+[03Dec2024 22:22:23.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was slain by Bulldrogioth
+[03Dec2024 22:22:29.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> wd
+[03Dec2024 22:22:49.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was slain by Bulldrogioth
+[03Dec2024 22:23:11.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 was slain by Bulldrogioth
+[03Dec2024 22:23:11.249] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[03Dec2024 22:23:11.249] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[03Dec2024 22:23:11.249] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[03Dec2024 22:23:11.249] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[03Dec2024 22:23:11.250] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 2 | client: 2
+[03Dec2024 22:23:13.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was slain by Bulldrogioth
+[03Dec2024 22:23:22.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was slain by Bulldrogioth
+[03Dec2024 22:23:36.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 was slain by Bulldrogioth
+[03Dec2024 22:23:37.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was slain by Ghoul
+[03Dec2024 22:23:59.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 was slain by Bulldrogioth
+[03Dec2024 22:23:59.642] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[03Dec2024 22:23:59.642] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[03Dec2024 22:23:59.642] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[03Dec2024 22:23:59.642] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[03Dec2024 22:23:59.642] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 2 | client: 2
+[03Dec2024 22:24:08.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was slain by Bulldrogioth
+[03Dec2024 22:24:43.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has made the advancement [Source of Evil]
+[03Dec2024 22:25:15.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has made the advancement [Suit Up]
+[03Dec2024 22:25:15.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has made the advancement [Berrily Alive]
+[03Dec2024 22:25:15.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has made the advancement [Acquire Hardware]
+[03Dec2024 22:25:15.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has made the advancement [First Age]
+[03Dec2024 22:25:15.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has made the advancement [Hephaestos]
+[03Dec2024 22:25:16.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has reached the goal [Explosive Temper]
+[03Dec2024 22:25:20.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has made the advancement [Monster Hunter]
+[03Dec2024 22:25:29.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele blew up
+[03Dec2024 22:25:54.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has made the advancement [Stone Age]
+[03Dec2024 22:26:15.716] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6437ms or 128 ticks behind
+[03Dec2024 22:26:15.738] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tomas_michele moved too quickly! -8.366093565741721,4.921599998474122,2.7681460879156816
+[03Dec2024 22:26:29.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Creative Mode]
+[03Dec2024 22:26:29.266] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tomas_michele moved too quickly! -9.667502461137019,1.504799122994072,-2.1955675619602175
+[03Dec2024 22:26:35.214] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4535ms or 90 ticks behind
+[03Dec2024 22:26:36.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was blown up by Skeleton
+[03Dec2024 22:26:57.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has completed the challenge [Paladin Class]
+[03Dec2024 22:27:01.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has made the advancement [Alex's Mobs]
+[03Dec2024 22:27:03.562] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: B3njaxx_11 moved too quickly! -0.500367394150544,-9.373755372152601,3.755527185690397
+[03Dec2024 22:27:14.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Goblin's Tyranny]
+[03Dec2024 22:28:06.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
+[03Dec2024 22:28:09.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> wd
+[03Dec2024 22:28:12.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Teleported Tomas_michele to B3njaxx_11]
+[03Dec2024 22:28:13.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tomas_michele> wa
+[03Dec2024 22:28:21.675] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2801, y=96, z=149} BlockPos{x=-2800, y=95, z=149}
+[03Dec2024 22:28:24.623] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2799, y=99, z=152} BlockPos{x=-2800, y=98, z=153}
+[03Dec2024 22:28:24.667] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2799, y=99, z=152} BlockPos{x=-2800, y=98, z=153}
+[03Dec2024 22:28:24.742] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2800, y=101, z=155} BlockPos{x=-2800, y=98, z=153}
+[03Dec2024 22:28:24.771] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2800, y=101, z=155} BlockPos{x=-2800, y=98, z=153}
+[03Dec2024 22:28:28.816] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2792, y=102, z=159} BlockPos{x=-2793, y=101, z=158}
+[03Dec2024 22:28:29.803] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2794, y=103, z=156} BlockPos{x=-2791, y=102, z=157}

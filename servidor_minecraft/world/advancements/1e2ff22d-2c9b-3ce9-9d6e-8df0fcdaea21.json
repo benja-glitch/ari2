@@ -331,6 +331,12 @@
     },
     "done": true
   },
+  "goblins_tyranny:goblins_encounter_success": {
+    "criteria": {
+      "goblins_encounter_success_0": "2024-12-03 22:27:14 +0000"
+    },
+    "done": true
+  },
   "mores:eat_chocolate": {
     "criteria": {
       "eat_chocolate": "2024-12-03 20:41:02 +0000"
