@@ -17,11 +17,35 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-03 23:13:23 +0000"
+    },
+    "done": false
+  },
+  "repurposed_structures:villages": {
+    "criteria": {
+      "in_village_mountains": "2024-12-03 23:09:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-03 23:13:23 +0000"
+    },
+    "done": false
+  },
   "biomeswevegone:biomeswevegone/husbandry/berrily_alive": {
     "criteria": {
       "blue_berry": "2024-12-03 22:25:15 +0000"
     },
     "done": true
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-03 23:13:23 +0000"
+    },
+    "done": false
   },
   "incendium:technical/using/ragnarok": {
     "criteria": {
@@ -105,11 +129,23 @@
     },
     "done": true
   },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-03 23:13:23 +0000"
+    },
+    "done": false
+  },
   "alexsmobs:alexsmobs/root": {
     "criteria": {
       "useitem": "2024-12-03 22:27:01 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-03 23:13:23 +0000"
+    },
+    "done": false
   },
   "dungeons_arise:find_small_blimp": {
     "criteria": {
@@ -154,6 +190,13 @@
     },
     "done": true
   },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2024-12-03 23:13:58 +0000",
+      "log_spam_fixer": "2024-12-03 23:13:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-12-03 22:25:15 +0000"
@@ -166,6 +209,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:food_fight": {
+    "criteria": {
+      "food_fight_0": "2024-12-03 23:04:43 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/spell_book_equip": {
     "criteria": {
       "requirement": "2024-12-03 22:55:52 +0000"
@@ -174,6 +223,7 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
+      "biomeswevegone:frosted_coniferous_forest": "2024-12-03 23:07:01 +0000",
       "biomeswevegone:shattered_glacier": "2024-12-03 22:44:44 +0000",
       "biomeswevegone:crimson_tundra": "2024-12-03 22:21:33 +0000"
     },
@@ -232,6 +282,12 @@
     },
     "done": false
   },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2024-12-03 23:00:59 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:standard_from_custom": {
     "criteria": {
       "has_the_recipe": "2024-12-03 22:15:34 +0000"
@@ -268,6 +324,12 @@
     },
     "done": true
   },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-03 23:13:23 +0000"
+    },
+    "done": false
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2024-12-03 22:27:21 +0000",
@@ -285,6 +347,12 @@
     },
     "done": true
   },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-03 23:13:23 +0000"
+    },
+    "done": false
+  },
   "iceandfire:iceandfire/kill_ghost": {
     "criteria": {
       "killed_fire_dragon": "2024-12-03 22:43:29 +0000"
@@ -297,6 +365,18 @@
     },
     "done": true
   },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-03 23:13:23 +0000"
+    },
+    "done": false
+  },
+  "mores:eat_cobalt_apple": {
+    "criteria": {
+      "requirement": "2024-12-03 23:06:18 +0000"
+    },
+    "done": true
+  },
   "repurposed_structures:witch_huts": {
     "criteria": {
       "in_witch_hut_dark_forest": "2024-12-03 22:48:28 +0000"
@@ -306,7 +386,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2024-12-03 22:40:35 +0000",
-      "golden_apple": "2024-12-03 22:22:18 +0000"
+      "golden_apple": "2024-12-03 22:22:18 +0000",
+      "rotten_flesh": "2024-12-03 23:08:23 +0000"
     },
     "done": false
   },
@@ -321,6 +402,12 @@
       "consumed_item": "2024-12-03 22:22:18 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-03 23:13:23 +0000"
+    },
+    "done": false
   },
   "born_in_chaos_v1:bornin_chaos": {
     "criteria": {
@@ -381,6 +468,18 @@
       "requirement": "2024-12-03 22:15:34 +0000"
     },
     "done": true
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-03 23:13:23 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-03 23:13:23 +0000"
+    },
+    "done": false
   },
   "integrated_villages:integrated_villages_root": {
     "criteria": {

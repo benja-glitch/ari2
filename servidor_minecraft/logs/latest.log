@@ -7668,3 +7668,47 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [03Dec2024 22:58:34.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has completed the challenge [Rude Awakening]
 [03Dec2024 22:59:03.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele froze to death
 [03Dec2024 22:59:27.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Applied enchantment Unbreaking III to B3njaxx_11's item]
+[03Dec2024 22:59:52.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 withered away whilst fighting Nightmare Stalker
+[03Dec2024 23:00:01.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Teleported B3njaxx_11 to Tomas_michele]
+[03Dec2024 23:00:23.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was slain by Nightmare Stalker
+[03Dec2024 23:00:39.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Successfully restored B3njaxx_11's items]
+[03Dec2024 23:00:59.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has reached the goal [Fighting Nightmares]
+[03Dec2024 23:01:00.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele froze to death
+[03Dec2024 23:01:00.250] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[03Dec2024 23:01:00.250] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 7 is dual wielding: false
+[03Dec2024 23:01:00.251] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 obituary
+[03Dec2024 23:01:00.251] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[03Dec2024 23:01:00.251] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[03Dec2024 23:02:39.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has reached the goal [Fighting Nightmares]
+[03Dec2024 23:02:53.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele froze to death
+[03Dec2024 23:02:54.025] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[03Dec2024 23:02:54.025] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 4 is dual wielding: false
+[03Dec2024 23:02:54.025] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 obituary
+[03Dec2024 23:02:54.025] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[03Dec2024 23:02:54.025] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[03Dec2024 23:03:40.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 was pierced by Necromancer's icicle
+[03Dec2024 23:03:42.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was slain by Zombie
+[03Dec2024 23:04:09.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was slain by Nightmare Stalker
+[03Dec2024 23:04:37.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> aa
+[03Dec2024 23:04:43.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has made the advancement [Food Fight]
+[03Dec2024 23:04:52.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> ea
+[03Dec2024 23:05:02.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Creative Mode]
+[03Dec2024 23:05:17.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was slain by Restless Spirit
+[03Dec2024 23:05:17.727] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[03Dec2024 23:05:17.727] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[03Dec2024 23:05:17.727] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 obituary
+[03Dec2024 23:05:17.727] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[03Dec2024 23:05:17.727] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[03Dec2024 23:06:18.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has made the advancement [The Grand Escape]
+[03Dec2024 23:07:50.645] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: B3njaxx_11 lost connection: Timed out
+[03Dec2024 23:07:50.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 left the game
+[03Dec2024 23:07:50.712] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Dec2024 23:12:22.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was slain by Spider
+[03Dec2024 23:12:22.273] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[03Dec2024 23:12:22.273] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 11 is dual wielding: false
+[03Dec2024 23:12:22.273] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 obituary
+[03Dec2024 23:12:22.273] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[03Dec2024 23:12:22.273] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[03Dec2024 23:13:58.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele fell from a high place
+[03Dec2024 23:14:07.487] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tomas_michele lost connection: Disconnected
+[03Dec2024 23:14:07.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele left the game
