@@ -7038,3 +7038,34 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [03Dec2024 19:55:23.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Acquire Hardware]
 [03Dec2024 19:55:39.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Isn't It Iron Pick]
 [03Dec2024 19:56:15.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has completed the challenge [Cannibal]
+[03Dec2024 19:57:39.647] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EL_banano003[/127.78.17.184:57175] logged in with entity id 4421 at (-23.5, 112.0, -34.5)
+[03Dec2024 19:57:39.650] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to EL_banano003
+[03Dec2024 19:57:39.650] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to EL_banano003
+[03Dec2024 19:57:39.651] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to EL_banano003
+[03Dec2024 19:57:39.651] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to EL_banano003
+[03Dec2024 19:57:39.654] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to EL_banano003
+[03Dec2024 19:57:39.657] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to EL_banano003
+[03Dec2024 19:57:39.657] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to EL_banano003
+[03Dec2024 19:57:39.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_banano003 joined the game
+[03Dec2024 19:57:39.724] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[03Dec2024 19:57:39.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_banano003 has reached the goal [Choose Your Class]
+[03Dec2024 19:57:39.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_banano003 has made the advancement [Ice and Fire]
+[03Dec2024 19:58:13.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Not Today, Thank You]
+[03Dec2024 19:58:18.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 was shot by Frigid Skeleton
+[03Dec2024 19:59:45.889] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EL_banano003 lost connection: Disconnected
+[03Dec2024 19:59:45.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_banano003 left the game
+[03Dec2024 20:00:03.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Monster Hunter]
+[03Dec2024 20:01:42.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 was blown up by Skeleton Creeper
+[03Dec2024 20:02:50.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 was slain by Troll
+[03Dec2024 20:04:13.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 was blown up by Skeleton Creeper
+[03Dec2024 20:05:21.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Source of Evil]
+[03Dec2024 20:07:04.275] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EL_banano003[/127.78.17.184:54929] logged in with entity id 7172 at (-19.365837854945493, 112.3122737884017, -36.83633163274363)
+[03Dec2024 20:07:04.277] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to EL_banano003
+[03Dec2024 20:07:04.277] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to EL_banano003
+[03Dec2024 20:07:04.277] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to EL_banano003
+[03Dec2024 20:07:04.277] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to EL_banano003
+[03Dec2024 20:07:04.280] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to EL_banano003
+[03Dec2024 20:07:04.282] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to EL_banano003
+[03Dec2024 20:07:04.282] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to EL_banano003
+[03Dec2024 20:07:04.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_banano003 joined the game
+[03Dec2024 20:07:04.320] [Server thread/INFO] [spawnermod/]: Sending config to player.
