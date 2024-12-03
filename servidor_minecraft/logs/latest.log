@@ -7563,3 +7563,21 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [03Dec2024 22:28:24.771] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2800, y=101, z=155} BlockPos{x=-2800, y=98, z=153}
 [03Dec2024 22:28:28.816] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2792, y=102, z=159} BlockPos{x=-2793, y=101, z=158}
 [03Dec2024 22:28:29.803] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2794, y=103, z=156} BlockPos{x=-2791, y=102, z=157}
+[03Dec2024 22:29:14.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Successfully restored Tomas_michele's items]
+[03Dec2024 22:29:50.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was doomed to fall by B3njaxx_11
+[03Dec2024 22:29:58.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Successfully restored Tomas_michele's items]
+[03Dec2024 22:30:04.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Teleported Tomas_michele to B3njaxx_11]
+[03Dec2024 22:36:05.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [When in Rome]
+[03Dec2024 22:36:22.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was slain by Corpse Fish
+[03Dec2024 22:36:47.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has made the advancement [When in Rome]
+[03Dec2024 22:37:16.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was slain by Skeleton
+[03Dec2024 22:37:22.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 was slain by Zombie
+[03Dec2024 22:37:22.797] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[03Dec2024 22:37:22.797] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[03Dec2024 22:37:22.797] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[03Dec2024 22:37:22.798] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[03Dec2024 22:37:22.798] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 2 | client: 2
+[03Dec2024 22:37:35.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 was slain by Zombie
+[03Dec2024 22:37:44.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Creative Mode]
+[03Dec2024 22:38:00.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
+[03Dec2024 22:38:05.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was slain by Zombie
