@@ -1630,3 +1630,27 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [04Dec2024 22:53:23.402] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to B3njaxx_11
 [04Dec2024 22:53:23.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 joined the game
 [04Dec2024 22:53:23.464] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[04Dec2024 22:55:06.423] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:ancient_city took 74 ms
+[04Dec2024 22:55:23.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Teleported B3njaxx_11 to -8607.500000, 89.010122, -6719.500000]
+[04Dec2024 22:55:23.251] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6700ms or 134 ticks behind
+[04Dec2024 22:57:00.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [The Forgotten Story]
+[04Dec2024 22:57:48.435] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-523, -428], pos: BlockPos{x=-8368, y=-28, z=-6838}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[04Dec2024 22:57:48.436] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-523, -428], pos: BlockPos{x=-8368, y=-28, z=-6839}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[04Dec2024 22:57:48.436] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-523, -428], pos: BlockPos{x=-8368, y=-28, z=-6840}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[04Dec2024 22:57:48.437] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-523, -428], pos: BlockPos{x=-8368, y=-25, z=-6836}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[04Dec2024 22:58:31.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Creative Mode]
+[04Dec2024 22:58:34.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
+[04Dec2024 23:01:26.561] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/7623, l='ServerLevel[world]', x=-8555.59, y=201.00, z=-6720.95] died, message: 'Fisherman was slain by Door Knight'
+[04Dec2024 23:01:52.258] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/7618, l='ServerLevel[world]', x=-8552.32, y=202.00, z=-6676.56] died, message: 'Fisherman was slain by Door Knight'
+[04Dec2024 23:04:09.411] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: B3njaxx_11 lost connection: Timed out
+[04Dec2024 23:04:09.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 left the game
+[04Dec2024 23:04:40.738] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: B3njaxx_11[/127.93.153.199:51393] logged in with entity id 8827 at (-8573.908079069524, 216.0, -6698.874337107926)
+[04Dec2024 23:04:40.740] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to B3njaxx_11
+[04Dec2024 23:04:40.741] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to B3njaxx_11
+[04Dec2024 23:04:40.741] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to B3njaxx_11
+[04Dec2024 23:04:40.741] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to B3njaxx_11
+[04Dec2024 23:04:40.743] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to B3njaxx_11
+[04Dec2024 23:04:40.745] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to B3njaxx_11
+[04Dec2024 23:04:40.745] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to B3njaxx_11
+[04Dec2024 23:04:40.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 joined the game
+[04Dec2024 23:04:40.787] [Server thread/INFO] [spawnermod/]: Sending config to player.
