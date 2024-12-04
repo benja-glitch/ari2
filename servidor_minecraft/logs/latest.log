@@ -1577,3 +1577,56 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [04Dec2024 22:42:30.408] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element towns_and_towers:village_forest took 1584 ms
 [04Dec2024 22:42:43.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Teleported B3njaxx_11 to -6735.500000, 108.338125, -6047.500000]
 [04Dec2024 22:42:43.181] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8280ms or 165 ticks behind
+[04Dec2024 22:44:49.108] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element towns_and_towers:village_jungle took 1626 ms
+[04Dec2024 22:45:03.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Teleported B3njaxx_11 to -3599.500000, 82.036697, -11503.500000]
+[04Dec2024 22:45:03.273] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11371ms or 227 ticks behind
+[04Dec2024 22:45:16.685] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: B3njaxx_11 moved too quickly! 2.465935851415452,-6.677107669045256,-7.398416027761414
+[04Dec2024 22:45:27.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> awe
+[04Dec2024 22:48:57.909] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: B3njaxx_11 lost connection: Timed out
+[04Dec2024 22:48:57.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 left the game
+[04Dec2024 22:49:52.343] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: B3njaxx_11[/127.93.153.199:49781] logged in with entity id 5821 at (-3608.4505574014515, 66.77806496834162, -11546.074336022895)
+[04Dec2024 22:49:52.345] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to B3njaxx_11
+[04Dec2024 22:49:52.346] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to B3njaxx_11
+[04Dec2024 22:49:52.346] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to B3njaxx_11
+[04Dec2024 22:49:52.346] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to B3njaxx_11
+[04Dec2024 22:49:52.349] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to B3njaxx_11
+[04Dec2024 22:49:52.351] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to B3njaxx_11
+[04Dec2024 22:49:52.351] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to B3njaxx_11
+[04Dec2024 22:49:52.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 joined the game
+[04Dec2024 22:49:52.403] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[04Dec2024 22:50:33.313] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element towns_and_towers:village_sunflower_plains took 235 ms
+[04Dec2024 22:50:43.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Teleported B3njaxx_11 to -9039.500000, 66.778065, -6607.500000]
+[04Dec2024 22:50:43.874] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6723ms or 134 ticks behind
+[04Dec2024 22:51:08.009] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/6117, l='ServerLevel[world]', x=-9027.70, y=72.94, z=-6571.24] died, message: 'Farmer was burnt to a crisp whilst fighting Fire Dragon'
+[04Dec2024 22:51:14.013] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: B3njaxx_11 lost connection: Timed out
+[04Dec2024 22:51:14.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 left the game
+[04Dec2024 22:51:37.000] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: B3njaxx_11[/127.93.153.199:35547] logged in with entity id 6334 at (-9043.393306947708, 77.42147058057, -6596.344475886454)
+[04Dec2024 22:51:37.002] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to B3njaxx_11
+[04Dec2024 22:51:37.002] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to B3njaxx_11
+[04Dec2024 22:51:37.003] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to B3njaxx_11
+[04Dec2024 22:51:37.003] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to B3njaxx_11
+[04Dec2024 22:51:37.006] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to B3njaxx_11
+[04Dec2024 22:51:37.009] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to B3njaxx_11
+[04Dec2024 22:51:37.009] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to B3njaxx_11
+[04Dec2024 22:51:37.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 joined the game
+[04Dec2024 22:51:37.058] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[04Dec2024 22:51:37.962] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/6422, l='ServerLevel[world]', x=-9025.45, y=72.42, z=-6577.46] died, message: 'Farmer burned to death'
+[04Dec2024 22:52:00.464] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/6434, l='ServerLevel[world]', x=-9007.58, y=67.00, z=-6599.40] died, message: 'Farmer was burnt to a crisp whilst fighting Fire Dragon'
+[04Dec2024 22:52:09.713] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/6356, l='ServerLevel[world]', x=-9029.23, y=68.00, z=-6597.99] died, message: 'Armorer was incinerated by Fire Dragon'
+[04Dec2024 22:52:10.410] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6341, l='ServerLevel[world]', x=-9002.70, y=67.00, z=-6587.10] died, message: 'Villager was burnt to a crisp whilst fighting Fire Dragon'
+[04Dec2024 22:52:12.807] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/6349, l='ServerLevel[world]', x=-9035.77, y=69.00, z=-6598.50] died, message: 'Leatherworker walked into fire whilst fighting Fire Dragon'
+[04Dec2024 22:52:13.162] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/6346, l='ServerLevel[world]', x=-9031.21, y=68.00, z=-6605.51] died, message: 'Weaponsmith was incinerated by Fire Dragon'
+[04Dec2024 22:52:13.312] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/6354, l='ServerLevel[world]', x=-9033.58, y=68.00, z=-6608.52] died, message: 'Toolsmith was turned into KFC by Fire Dragon'
+[04Dec2024 22:52:32.057] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/6345, l='ServerLevel[world]', x=-9026.97, y=65.97, z=-6621.24] died, message: 'Farmer was slain by Fire Dragon'
+[04Dec2024 22:52:37.162] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: B3njaxx_11 lost connection: Timed out
+[04Dec2024 22:52:37.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 left the game
+[04Dec2024 22:53:23.393] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: B3njaxx_11[/127.93.153.199:45887] logged in with entity id 6828 at (-9043.393306947708, 77.42147058057, -6596.344475886454)
+[04Dec2024 22:53:23.395] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to B3njaxx_11
+[04Dec2024 22:53:23.396] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to B3njaxx_11
+[04Dec2024 22:53:23.397] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to B3njaxx_11
+[04Dec2024 22:53:23.397] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to B3njaxx_11
+[04Dec2024 22:53:23.399] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to B3njaxx_11
+[04Dec2024 22:53:23.402] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to B3njaxx_11
+[04Dec2024 22:53:23.402] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to B3njaxx_11
+[04Dec2024 22:53:23.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 joined the game
+[04Dec2024 22:53:23.464] [Server thread/INFO] [spawnermod/]: Sending config to player.
