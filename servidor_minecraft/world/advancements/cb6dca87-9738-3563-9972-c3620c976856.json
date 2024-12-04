@@ -105,10 +105,13 @@
     "criteria": {
       "minecraft:snowy_slopes": "2024-12-03 22:27:21 +0000",
       "minecraft:frozen_river": "2024-12-03 22:20:13 +0000",
+      "minecraft:savanna_plateau": "2024-12-04 23:22:37 +0000",
       "minecraft:stony_peaks": "2024-12-04 23:18:37 +0000",
       "minecraft:river": "2024-12-03 22:36:37 +0000",
       "minecraft:snowy_plains": "2024-12-03 22:15:34 +0000",
+      "minecraft:dripstone_caves": "2024-12-04 23:32:25 +0000",
       "minecraft:forest": "2024-12-03 22:26:36 +0000",
+      "minecraft:deep_dark": "2024-12-04 23:38:21 +0000",
       "minecraft:plains": "2024-12-03 22:22:03 +0000"
     },
     "done": false
@@ -188,8 +191,10 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
+      "biomeswevegone:araucaria_savanna": "2024-12-04 23:38:03 +0000",
       "biomeswevegone:frosted_coniferous_forest": "2024-12-03 23:07:01 +0000",
       "biomeswevegone:shattered_glacier": "2024-12-03 22:44:44 +0000",
+      "biomeswevegone:baobab_savanna": "2024-12-04 23:37:04 +0000",
       "biomeswevegone:crimson_tundra": "2024-12-03 22:21:33 +0000"
     },
     "done": false
@@ -208,9 +213,11 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "potato": "2024-12-04 23:29:17 +0000",
       "bread": "2024-12-03 22:40:35 +0000",
       "golden_apple": "2024-12-03 22:22:18 +0000",
-      "rotten_flesh": "2024-12-03 23:08:23 +0000"
+      "rotten_flesh": "2024-12-03 23:08:23 +0000",
+      "carrot": "2024-12-04 23:35:56 +0000"
     },
     "done": false
   },
@@ -252,6 +259,7 @@
   },
   "mores:obtain_all": {
     "criteria": {
+      "obtain_topaz_gem": "2024-12-04 23:35:30 +0000",
       "obtain_steel_ingot": "2024-12-03 22:25:15 +0000"
     },
     "done": false
@@ -296,6 +304,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-03 22:25:20 +0000",
+      "minecraft:creeper": "2024-12-04 23:27:54 +0000",
       "minecraft:witch": "2024-12-03 22:48:25 +0000",
       "minecraft:zombie": "2024-12-03 22:37:50 +0000"
     },
@@ -348,6 +357,7 @@
       "autumnal_maple_forest": "2024-12-03 22:40:28 +0000",
       "frozen_tundra": "2024-12-03 22:46:08 +0000",
       "frozen_pine_taiga": "2024-12-03 22:47:03 +0000",
+      "deciduous_forest": "2024-12-04 23:22:07 +0000",
       "cold_river": "2024-12-03 22:42:48 +0000"
     },
     "done": false
@@ -357,6 +367,7 @@
       "autumnal_maple_forest": "2024-12-03 22:40:28 +0000",
       "frozen_tundra": "2024-12-03 22:46:08 +0000",
       "frozen_pine_taiga": "2024-12-03 22:47:03 +0000",
+      "deciduous_forest": "2024-12-04 23:22:07 +0000",
       "cold_river": "2024-12-03 22:42:48 +0000"
     },
     "done": false
@@ -415,9 +426,111 @@
     },
     "done": false
   },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2024-12-04 23:38:21 +0000"
+    },
+    "done": true
+  },
+  "mores:root": {
+    "criteria": {
+      "crafting_table": "2024-12-04 23:29:31 +0000"
+    },
+    "done": true
+  },
+  "paraglider:root": {
+    "criteria": {
+      "crafting_table": "2024-12-04 23:29:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-04 23:29:53 +0000"
+    },
+    "done": true
+  },
+  "mores:craft_full_steel_gear": {
+    "criteria": {
+      "csp": "2024-12-04 23:29:44 +0000"
+    },
+    "done": false
+  },
+  "soulsweapons:verglas": {
+    "criteria": {
+      "item": "2024-12-04 23:32:44 +0000"
+    },
+    "done": true
+  },
+  "deep_dark_regrowth:the_forgotten_story": {
+    "criteria": {
+      "the_forgotten_story": "2024-12-04 23:38:21 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:double_trouble": {
+    "criteria": {
+      "double_trouble_0": "2024-12-04 23:28:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-04 23:39:06 +0000"
+    },
+    "done": true
+  },
+  "mores:obtain_topaz": {
+    "criteria": {
+      "obtain_topaz_gem": "2024-12-04 23:35:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-12-04 23:38:23 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:moonstone": {
+    "criteria": {
+      "item": "2024-12-04 23:35:20 +0000"
+    },
+    "done": true
+  },
+  "mores:obtain_tin_ore": {
+    "criteria": {
+      "obtain_tin_ore": "2024-12-04 23:33:19 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2024-12-04 23:29:31 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_monasteries": {
     "criteria": {
       "location0": "2024-12-04 23:20:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-04 23:29:31 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:root": {
+    "criteria": {
+      "crafting_table": "2024-12-04 23:29:31 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/root": {
+    "criteria": {
+      "obtain_crafting_table": "2024-12-04 23:29:31 +0000"
     },
     "done": true
   },

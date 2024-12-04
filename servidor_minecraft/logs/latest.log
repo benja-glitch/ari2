@@ -1689,3 +1689,43 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [04Dec2024 23:23:37.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 joined the game
 [04Dec2024 23:23:37.290] [Server thread/INFO] [spawnermod/]: Sending config to player.
 [04Dec2024 23:24:16.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> aweaweaweaweaw
+[04Dec2024 23:25:11.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 was blown up by Creeper
+[04Dec2024 23:25:12.103] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[04Dec2024 23:25:12.105] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 4 is dual wielding: false
+[04Dec2024 23:25:12.106] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[04Dec2024 23:25:12.107] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[04Dec2024 23:25:12.107] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 2 | client: 2
+[04Dec2024 23:25:30.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was shot by Skeleton
+[04Dec2024 23:26:00.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Junior Summoner]
+[04Dec2024 23:26:36.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was blown up by Creeper
+[04Dec2024 23:28:02.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has made the advancement [Double Trouble]
+[04Dec2024 23:29:00.081] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-521, -419], pos: BlockPos{x=-8336, y=-23, z=-6699}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[04Dec2024 23:29:00.082] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-521, -419], pos: BlockPos{x=-8336, y=-23, z=-6698}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[04Dec2024 23:29:00.082] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-521, -419], pos: BlockPos{x=-8336, y=-23, z=-6697}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[04Dec2024 23:29:00.082] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-521, -419], pos: BlockPos{x=-8336, y=-20, z=-6701}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[04Dec2024 23:29:31.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has made the advancement [Dungeon Now Loading]
+[04Dec2024 23:29:53.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has made the advancement [Isn't It Iron Pick]
+[04Dec2024 23:30:49.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele hit the ground too hard
+[04Dec2024 23:31:10.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Very Balt Of You]
+[04Dec2024 23:31:40.821] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8499, y=192, z=-6572} BlockPos{x=-8499, y=191, z=-6570}
+[04Dec2024 23:32:10.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Even Worse Than Copper]
+[04Dec2024 23:32:25.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Teleported Tomas_michele to B3njaxx_11]
+[04Dec2024 23:32:44.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has made the advancement [False Water]
+[04Dec2024 23:33:19.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has made the advancement [Even Worse Than Copper]
+[04Dec2024 23:35:18.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Full Moon in a Pocket]
+[04Dec2024 23:35:20.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has made the advancement [Full Moon in a Pocket]
+[04Dec2024 23:35:30.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has made the advancement [Topazzler]
+[04Dec2024 23:35:33.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Topazzler]
+[04Dec2024 23:36:38.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [First Age]
+[04Dec2024 23:38:08.663] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: B3njaxx_11 lost connection: Timed out
+[04Dec2024 23:38:08.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 left the game
+[04Dec2024 23:38:21.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has made the advancement [The Forgotten Story]
+[04Dec2024 23:38:23.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has made the advancement [Sneak 100]
+[04Dec2024 23:39:06.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has made the advancement [Take Aim]
+[04Dec2024 23:40:54.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was slain by Fallen Chaos Knight
+[04Dec2024 23:44:48.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was slain by Door Knight
+[04Dec2024 23:44:48.777] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[04Dec2024 23:44:48.778] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[04Dec2024 23:44:48.778] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[04Dec2024 23:44:48.778] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[04Dec2024 23:44:48.778] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 1

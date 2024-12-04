@@ -20130,3 +20130,134 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [04Dec2024 23:23:51.735] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:guide_post/cold/whole
 [04Dec2024 23:23:51.740] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:guide_post/warm/whole
 [04Dec2024 23:24:16.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> aweaweaweaweaw
+[04Dec2024 23:25:11.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 was blown up by Creeper
+[04Dec2024 23:25:12.103] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[04Dec2024 23:25:12.105] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 4 is dual wielding: false
+[04Dec2024 23:25:12.106] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[04Dec2024 23:25:12.107] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[04Dec2024 23:25:12.107] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 2 | client: 2
+[04Dec2024 23:25:13.747] [Server thread/DEBUG] [twilightforest/]: Player B3njaxx_11 (1e2ff22d-2c9b-3ce9-9d6e-8df0fcdaea21) respawned and received items held in storage
+[04Dec2024 23:25:30.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was shot by Skeleton
+[04Dec2024 23:25:32.116] [Server thread/DEBUG] [twilightforest/]: Player Tomas_michele (cb6dca87-9738-3563-9972-c3620c976856) respawned and received items held in storage
+[04Dec2024 23:26:00.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Junior Summoner]
+[04Dec2024 23:26:12.369] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 23:26:12.398] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 23:26:36.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was blown up by Creeper
+[04Dec2024 23:26:38.122] [Server thread/DEBUG] [twilightforest/]: Player Tomas_michele (cb6dca87-9738-3563-9972-c3620c976856) respawned and received items held in storage
+[04Dec2024 23:28:02.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has made the advancement [Double Trouble]
+[04Dec2024 23:28:55.605] [IO-Worker-67/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-73
+[04Dec2024 23:28:55.605] [IO-Worker-69/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-72
+[04Dec2024 23:28:59.457] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_07
+[04Dec2024 23:29:00.081] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-521, -419], pos: BlockPos{x=-8336, y=-23, z=-6699}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[04Dec2024 23:29:00.082] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-521, -419], pos: BlockPos{x=-8336, y=-23, z=-6698}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[04Dec2024 23:29:00.082] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-521, -419], pos: BlockPos{x=-8336, y=-23, z=-6697}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[04Dec2024 23:29:00.082] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-521, -419], pos: BlockPos{x=-8336, y=-20, z=-6701}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[04Dec2024 23:29:31.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has made the advancement [Dungeon Now Loading]
+[04Dec2024 23:29:53.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has made the advancement [Isn't It Iron Pick]
+[04Dec2024 23:30:08.747] [IO-Worker-67/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-74
+[04Dec2024 23:30:09.959] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/meadow/meadow_shrub_canopy1
+[04Dec2024 23:30:12.982] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/bush/trunk_bush1
+[04Dec2024 23:30:12.983] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/bush/canopy_bush1
+[04Dec2024 23:30:28.247] [Worker-Main-3/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/baobab/baobab_tree_trunk2 is being run through DFU (hash 15469b7037c2a631ff59c8e88a7929fd7ee4614f9a271e1d870f1bf3658f8f9f), this will cause launch time delays
+[04Dec2024 23:30:28.250] [Worker-Main-3/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/baobab/baobab_tree_canopy2 is being run through DFU (hash 70b7d17ada1ced77949b9bc7953e91a2a62d1f34679c7557d564afd0bf7ee36b), this will cause launch time delays
+[04Dec2024 23:30:33.411] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=-8834, y=-43, z=-6606} at Chest with:betterdungeons:skeleton_dungeon/chests/common
+[04Dec2024 23:30:49.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele hit the ground too hard
+[04Dec2024 23:30:50.590] [IO-Worker-69/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-75
+[04Dec2024 23:30:51.920] [Server thread/DEBUG] [twilightforest/]: Player Tomas_michele (cb6dca87-9738-3563-9972-c3620c976856) respawned and received items held in storage
+[04Dec2024 23:31:10.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Very Balt Of You]
+[04Dec2024 23:31:12.421] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 23:31:12.460] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 23:31:40.821] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8499, y=192, z=-6572} BlockPos{x=-8499, y=191, z=-6570}
+[04Dec2024 23:31:57.687] [IO-Worker-69/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-76
+[04Dec2024 23:32:10.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Even Worse Than Copper]
+[04Dec2024 23:32:25.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Teleported Tomas_michele to B3njaxx_11]
+[04Dec2024 23:32:44.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has made the advancement [False Water]
+[04Dec2024 23:33:19.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has made the advancement [Even Worse Than Copper]
+[04Dec2024 23:35:03.596] [IO-Worker-75/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-77
+[04Dec2024 23:35:18.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Full Moon in a Pocket]
+[04Dec2024 23:35:20.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has made the advancement [Full Moon in a Pocket]
+[04Dec2024 23:35:30.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has made the advancement [Topazzler]
+[04Dec2024 23:35:33.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Topazzler]
+[04Dec2024 23:35:35.288] [Worker-Main-16/DEBUG] [ModernFix/]: Structure gamma_beasts:arbol_cerezo2 is being run through DFU (hash 95bbfed16d9b0f62ebed608eae877743bae623394fa01fe8e82c73114ed454b5), this will cause launch time delays
+[04Dec2024 23:35:41.975] [IO-Worker-77/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-78
+[04Dec2024 23:36:12.369] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 23:36:12.399] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 23:36:38.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [First Age]
+[04Dec2024 23:36:54.470] [IO-Worker-76/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-79
+[04Dec2024 23:36:56.798] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/catacombs_origin
+[04Dec2024 23:36:56.802] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_straight_trapped
+[04Dec2024 23:36:56.803] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_tee_2
+[04Dec2024 23:36:56.804] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_1
+[04Dec2024 23:36:56.805] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/hallway_connector
+[04Dec2024 23:36:56.806] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_2
+[04Dec2024 23:36:56.807] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_zigzag
+[04Dec2024 23:36:56.808] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_1
+[04Dec2024 23:36:56.808] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_2
+[04Dec2024 23:36:56.811] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/ravager_prison
+[04Dec2024 23:36:56.814] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dormitories_2
+[04Dec2024 23:36:56.814] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/wall_crypt
+[04Dec2024 23:36:56.815] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_spiral_stairs
+[04Dec2024 23:36:56.816] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/boiler
+[04Dec2024 23:36:56.817] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_arch
+[04Dec2024 23:36:56.820] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/balcony
+[04Dec2024 23:36:56.821] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/end_hallway_wall
+[04Dec2024 23:36:56.822] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/end_room_wall
+[04Dec2024 23:36:56.823] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/double_storage
+[04Dec2024 23:36:56.824] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/trap_jail
+[04Dec2024 23:36:56.825] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/trap_pitfall
+[04Dec2024 23:36:56.826] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/study_platform
+[04Dec2024 23:38:08.663] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: B3njaxx_11 lost connection: Timed out
+[04Dec2024 23:38:08.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 left the game
+[04Dec2024 23:38:08.779] [IO-Worker-77/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-80
+[04Dec2024 23:38:21.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has made the advancement [The Forgotten Story]
+[04Dec2024 23:38:23.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has made the advancement [Sneak 100]
+[04Dec2024 23:39:06.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has made the advancement [Take Aim]
+[04Dec2024 23:40:46.719] [IO-Worker-78/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-81
+[04Dec2024 23:40:54.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was slain by Fallen Chaos Knight
+[04Dec2024 23:40:55.520] [IO-Worker-77/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-82
+[04Dec2024 23:40:55.520] [IO-Worker-76/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-83
+[04Dec2024 23:40:55.555] [IO-Worker-77/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-84
+[04Dec2024 23:40:55.692] [Server thread/DEBUG] [twilightforest/]: Player Tomas_michele (cb6dca87-9738-3563-9972-c3620c976856) respawned and received items held in storage
+[04Dec2024 23:41:12.319] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 23:41:12.349] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 23:42:28.624] [IO-Worker-84/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-85
+[04Dec2024 23:43:29.366] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/wreckage_ocean/wreckage_1
+[04Dec2024 23:43:29.375] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:other/desert_temple_mimic/pyramid_main
+[04Dec2024 23:43:46.405] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:memorial_tree/memorial_tree_01
+[04Dec2024 23:43:48.516] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:altar/altar_01
+[04Dec2024 23:43:54.892] [Worker-Main-16/DEBUG] [ModernFix/]: Structure hopo:portal8 is being run through DFU (hash 2c9437842d1ef069d3bd8710696a7e4b3e5ae28e25adcbad4d6d2de170dfeb27), this will cause launch time delays
+[04Dec2024 23:43:55.347] [Worker-Main-17/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/baobab/baobab_tree_trunk1 is being run through DFU (hash f402ca93b4304ad8df9708ad54176e9468f30f9c8ab2988ef8076215a48056c5), this will cause launch time delays
+[04Dec2024 23:43:55.350] [Worker-Main-17/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/baobab/baobab_tree_canopy1 is being run through DFU (hash e363cc8a2032f5408f7b2cc61606d6f9f639c4fc954fe92173e5751398cfc49e), this will cause launch time delays
+[04Dec2024 23:43:57.160] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_08
+[04Dec2024 23:43:58.571] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[04Dec2024 23:43:58.579] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[04Dec2024 23:43:58.593] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_1
+[04Dec2024 23:43:58.609] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[04Dec2024 23:43:58.620] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[04Dec2024 23:43:58.625] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[04Dec2024 23:43:58.780] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior216
+[04Dec2024 23:44:00.579] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mangrove_hut
+[04Dec2024 23:44:07.114] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:medium_graveyard/medium_graveyard_01
+[04Dec2024 23:44:07.225] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:ruins/ruins_01
+[04Dec2024 23:44:07.328] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_03
+[04Dec2024 23:44:13.316] [IO-Worker-85/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-86
+[04Dec2024 23:44:14.541] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:mini_ferma
+[04Dec2024 23:44:16.678] [Worker-Main-17/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/jacaranda/jacaranda_trunk_1 is being run through DFU (hash b780329f44521fcc59ba4679f3c23ce9a460be3c1b9e4d021d21aa205b89e9fb), this will cause launch time delays
+[04Dec2024 23:44:16.679] [Worker-Main-17/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/jacaranda/jacaranda_canopy_1 is being run through DFU (hash 3a0d922623ddd136a1a2b39595b4cddb805bfdb8ce67b3fa6bb6a0644b59d635), this will cause launch time delays
+[04Dec2024 23:44:16.681] [Worker-Main-17/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/jacaranda/jacaranda_trunk_4 is being run through DFU (hash 1891e83d03767c73f4b29ddbc03027ceab9c13616cb4a9801110a6527dacb6bf), this will cause launch time delays
+[04Dec2024 23:44:16.682] [Worker-Main-17/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/jacaranda/jacaranda_canopy_4 is being run through DFU (hash e7078df42a5a0144dff749e0860e81649bbf62035b386e3d70e64e4713929e57), this will cause launch time delays
+[04Dec2024 23:44:23.722] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:mushroom_grave/mushroom_grave_03
+[04Dec2024 23:44:24.293] [Worker-Main-17/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=-8949, y=4, z=-7073} at Barrel with:minecraft:chests/abandoned_mineshaft
+[04Dec2024 23:44:24.903] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_04
+[04Dec2024 23:44:27.035] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:witchboss at BlockPos{x=-9108, y=-51, z=-6881} at Chest with:minecraft:chests/simple_dungeon
+[04Dec2024 23:44:30.963] [Worker-Main-17/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/jacaranda/jacaranda_trunk_3 is being run through DFU (hash b780329f44521fcc59ba4679f3c23ce9a460be3c1b9e4d021d21aa205b89e9fb), this will cause launch time delays
+[04Dec2024 23:44:30.964] [Worker-Main-17/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/jacaranda/jacaranda_canopy_3 is being run through DFU (hash e487162f8a00a0650c220b60a6da442f1f69f4c69c11f8c624b410ac3d34df31), this will cause launch time delays
+[04Dec2024 23:44:36.746] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/shelter/tunnel_top
+[04Dec2024 23:44:48.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was slain by Door Knight
+[04Dec2024 23:44:48.777] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[04Dec2024 23:44:48.778] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[04Dec2024 23:44:48.778] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[04Dec2024 23:44:48.778] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[04Dec2024 23:44:48.778] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 1
+[04Dec2024 23:44:49.772] [IO-Worker-76/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-87
+[04Dec2024 23:44:50.031] [Server thread/DEBUG] [twilightforest/]: Player Tomas_michele (cb6dca87-9738-3563-9972-c3620c976856) respawned and received items held in storage

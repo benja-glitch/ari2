@@ -334,19 +334,23 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "honey_bottle": "2024-12-04 23:27:19 +0000",
       "baked_potato": "2024-12-03 21:05:49 +0000",
       "porkchop": "2024-12-03 21:03:36 +0000",
       "bread": "2024-12-03 20:48:02 +0000",
-      "rotten_flesh": "2024-12-03 20:36:56 +0000"
+      "rotten_flesh": "2024-12-03 20:36:56 +0000",
+      "salmon": "2024-12-04 23:27:12 +0000"
     },
     "done": false
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
+      "biomeswevegone:araucaria_savanna": "2024-12-04 23:36:57 +0000",
       "biomeswevegone:coconino_meadow": "2024-12-03 21:34:48 +0000",
       "biomeswevegone:maple_taiga": "2024-12-03 21:17:50 +0000",
       "biomeswevegone:frosted_coniferous_forest": "2024-12-03 20:51:00 +0000",
       "biomeswevegone:shattered_glacier": "2024-12-03 20:37:58 +0000",
+      "biomeswevegone:baobab_savanna": "2024-12-04 23:36:58 +0000",
       "biomeswevegone:crimson_tundra": "2024-12-03 20:50:16 +0000"
     },
     "done": false
@@ -416,6 +420,7 @@
       "frozen_pine_taiga": "2024-12-03 20:51:44 +0000",
       "maple_forest": "2024-12-03 21:02:52 +0000",
       "mountains": "2024-12-03 21:01:38 +0000",
+      "deciduous_forest": "2024-12-04 23:28:47 +0000",
       "cold_river": "2024-12-03 22:39:20 +0000",
       "pine_slopes": "2024-12-03 21:02:38 +0000",
       "gravel_beach": "2024-12-03 21:44:56 +0000",
@@ -433,6 +438,7 @@
       "frozen_pine_taiga": "2024-12-03 20:51:44 +0000",
       "maple_forest": "2024-12-03 21:02:52 +0000",
       "mountains": "2024-12-03 21:01:38 +0000",
+      "deciduous_forest": "2024-12-04 23:28:47 +0000",
       "cold_river": "2024-12-03 22:39:20 +0000",
       "pine_slopes": "2024-12-03 21:02:38 +0000",
       "gravel_beach": "2024-12-03 21:44:56 +0000",
@@ -658,75 +664,117 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-04 23:21:12 +0000"
+      "log_spam_fixer": "2024-12-04 23:37:12 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-04 23:21:12 +0000"
+      "log_spam_fixer": "2024-12-04 23:37:12 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-12-04 23:21:12 +0000"
+      "log_spam_fixer": "2024-12-04 23:37:12 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-04 23:21:12 +0000"
+      "log_spam_fixer": "2024-12-04 23:37:12 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-12-04 23:21:12 +0000"
+      "log_spam_fixer": "2024-12-04 23:37:12 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-12-04 23:21:12 +0000"
+      "log_spam_fixer": "2024-12-04 23:37:12 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-04 23:21:12 +0000"
+      "log_spam_fixer": "2024-12-04 23:37:12 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-04 23:21:12 +0000"
+      "log_spam_fixer": "2024-12-04 23:37:12 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-12-04 23:21:12 +0000"
+      "log_spam_fixer": "2024-12-04 23:37:12 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-04 23:21:12 +0000"
+      "log_spam_fixer": "2024-12-04 23:37:12 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-04 23:21:12 +0000"
+      "log_spam_fixer": "2024-12-04 23:37:12 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-12-04 23:21:12 +0000"
+      "log_spam_fixer": "2024-12-04 23:37:12 +0000"
     },
     "done": false
+  },
+  "mores:obtain_all": {
+    "criteria": {
+      "obtain_topaz_gem": "2024-12-04 23:35:33 +0000"
+    },
+    "done": false
+  },
+  "evilcraft:first_age": {
+    "criteria": {
+      "criteria_0": "2024-12-04 23:36:38 +0000"
+    },
+    "done": true
+  },
+  "mores:obtain_topaz": {
+    "criteria": {
+      "obtain_topaz_gem": "2024-12-04 23:35:33 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:moonstone": {
+    "criteria": {
+      "item": "2024-12-04 23:35:18 +0000"
+    },
+    "done": true
+  },
+  "mores:obtain_tin_ore": {
+    "criteria": {
+      "obtain_tin_ore": "2024-12-04 23:32:10 +0000"
+    },
+    "done": true
+  },
+  "mores:obtain_cobalt_ore": {
+    "criteria": {
+      "obtain_cobalt_ore": "2024-12-04 23:31:10 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2024-12-04 23:26:00 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
