@@ -1654,3 +1654,38 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [04Dec2024 23:04:40.745] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to B3njaxx_11
 [04Dec2024 23:04:40.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 joined the game
 [04Dec2024 23:04:40.787] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[04Dec2024 23:15:15.051] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tomas_michele[/127.78.17.184:46599] logged in with entity id 10668 at (-159.42406540422104, 63.0, -625.7643315615715)
+[04Dec2024 23:15:15.053] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Tomas_michele
+[04Dec2024 23:15:15.053] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Tomas_michele
+[04Dec2024 23:15:15.054] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Tomas_michele
+[04Dec2024 23:15:15.054] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Tomas_michele
+[04Dec2024 23:15:15.056] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Tomas_michele
+[04Dec2024 23:15:15.059] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Tomas_michele
+[04Dec2024 23:15:15.060] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Tomas_michele
+[04Dec2024 23:15:15.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele joined the game
+[04Dec2024 23:15:15.093] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[04Dec2024 23:16:14.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Creative Mode]
+[04Dec2024 23:18:36.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Teleported Tomas_michele to B3njaxx_11]
+[04Dec2024 23:19:24.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
+[04Dec2024 23:20:12.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> swaawe
+[04Dec2024 23:20:40.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> zzzzzzzzzzzzzz
+[04Dec2024 23:20:42.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> zzzzzzzzzzzz
+[04Dec2024 23:20:43.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> zzzzzzzzzzz
+[04Dec2024 23:20:44.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> zzzzzzzzzzzzzzzzzzzzzz
+[04Dec2024 23:20:45.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tomas_michele> zzzz
+[04Dec2024 23:20:46.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> zzz
+[04Dec2024 23:21:00.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 was slain by Dragon
+[04Dec2024 23:21:28.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was slain by Dragon
+[04Dec2024 23:21:42.610] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: B3njaxx_11 lost connection: Timed out
+[04Dec2024 23:21:42.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 left the game
+[04Dec2024 23:23:37.217] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: B3njaxx_11[/127.93.153.199:53651] logged in with entity id 12505 at (-8574.670285749608, 203.0, -6680.300000011921)
+[04Dec2024 23:23:37.219] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to B3njaxx_11
+[04Dec2024 23:23:37.220] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to B3njaxx_11
+[04Dec2024 23:23:37.220] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to B3njaxx_11
+[04Dec2024 23:23:37.220] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to B3njaxx_11
+[04Dec2024 23:23:37.222] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to B3njaxx_11
+[04Dec2024 23:23:37.224] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to B3njaxx_11
+[04Dec2024 23:23:37.225] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to B3njaxx_11
+[04Dec2024 23:23:37.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 joined the game
+[04Dec2024 23:23:37.290] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[04Dec2024 23:24:16.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> aweaweaweaweaw
