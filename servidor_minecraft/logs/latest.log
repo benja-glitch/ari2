@@ -2092,3 +2092,21 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [05Dec2024 19:10:03.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Spectator Mode]
 [05Dec2024 19:10:45.440] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tomas_michele lost connection: Disconnected
 [05Dec2024 19:10:45.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele left the game
+[05Dec2024 19:17:12.632] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tomas_michele[/127.78.17.184:42299] logged in with entity id 58150 at (-8563.27984786709, 50.16741657954451, -6681.780638081484)
+[05Dec2024 19:17:12.635] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Tomas_michele
+[05Dec2024 19:17:12.635] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Tomas_michele
+[05Dec2024 19:17:12.636] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Tomas_michele
+[05Dec2024 19:17:12.636] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Tomas_michele
+[05Dec2024 19:17:12.638] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Tomas_michele
+[05Dec2024 19:17:12.641] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Tomas_michele
+[05Dec2024 19:17:12.641] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Tomas_michele
+[05Dec2024 19:17:12.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele joined the game
+[05Dec2024 19:17:12.713] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[05Dec2024 19:18:25.848] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/58396, l='ServerLevel[world]', x=-8624.46, y=195.00, z=-6693.70] died, message: 'Villager was slain by B3njaxx_11'
+[05Dec2024 19:18:51.695] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/58261, l='ServerLevel[world]', x=-8603.30, y=195.00, z=-6695.70] died, message: 'Villager was slain by B3njaxx_11'
+[05Dec2024 19:18:58.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
+[05Dec2024 19:19:46.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Creative Mode]
+[05Dec2024 19:19:50.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Spectator Mode]
+[05Dec2024 19:20:01.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Applied effect Hero of the Village to 2 targets]
+[05Dec2024 19:21:06.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Survival Mode]
+[05Dec2024 19:21:34.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Teleported Tomas_michele to B3njaxx_11]
