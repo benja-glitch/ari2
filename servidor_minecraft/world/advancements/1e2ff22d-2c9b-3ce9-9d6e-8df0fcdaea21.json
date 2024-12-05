@@ -907,6 +907,12 @@
     },
     "done": true
   },
+  "deep_dark_regrowth:unbreaking_one_million": {
+    "criteria": {
+      "unbreaking_one_million": "2024-12-05 18:17:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2024-12-05 15:54:20 +0000"

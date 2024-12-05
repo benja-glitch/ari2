@@ -21039,3 +21039,20 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [05Dec2024 18:09:31.614] [IO-Worker-102/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-108
 [05Dec2024 18:09:31.670] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Dec2024 18:09:31.700] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 18:11:14.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Creative Mode]
+[05Dec2024 18:11:27.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Survival Mode]
+[05Dec2024 18:11:31.390] [IO-Worker-102/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-109
+[05Dec2024 18:13:54.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Creative Mode]
+[05Dec2024 18:14:20.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Survival Mode]
+[05Dec2024 18:14:21.738] [IO-Worker-102/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-110
+[05Dec2024 18:14:31.650] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 18:14:31.683] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 18:15:35.937] [IO-Worker-102/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-111
+[05Dec2024 18:17:07.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Gave 64 [Unbreakability Seal] to B3njaxx_11]
+[05Dec2024 18:17:34.093] [IO-Worker-102/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-112
+[05Dec2024 18:17:44.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has reached the goal [Unbreaking One Million!!]
+[05Dec2024 18:18:27.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Creative Mode]
+[05Dec2024 18:19:31.635] [IO-Worker-112/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-113
+[05Dec2024 18:19:31.678] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 18:19:31.709] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 18:20:57.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> a

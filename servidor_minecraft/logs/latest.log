@@ -1995,3 +1995,11 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [05Dec2024 18:06:10.170] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Tomas_michele
 [05Dec2024 18:06:10.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele joined the game
 [05Dec2024 18:06:10.225] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[05Dec2024 18:11:14.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Creative Mode]
+[05Dec2024 18:11:27.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Survival Mode]
+[05Dec2024 18:13:54.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Creative Mode]
+[05Dec2024 18:14:20.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Survival Mode]
+[05Dec2024 18:17:07.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Gave 64 [Unbreakability Seal] to B3njaxx_11]
+[05Dec2024 18:17:44.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has reached the goal [Unbreaking One Million!!]
+[05Dec2024 18:18:27.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Creative Mode]
+[05Dec2024 18:20:57.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> a
