@@ -1700,3 +1700,12 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [05Dec2024 16:25:09.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Survival Mode]
 [05Dec2024 16:25:30.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Successfully restored Tomas_michele's items]
 [05Dec2024 16:29:06.707] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tomas_michele moved too quickly! -10.045492252742406,0.43026858820994107,1.709959249149506
+[05Dec2024 16:32:18.687] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tomas_michele lost connection: Disconnected
+[05Dec2024 16:32:18.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele left the game
+[05Dec2024 16:34:54.887] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8523, y=-51, z=-6752} BlockPos{x=-8524, y=-52, z=-6751}
+[05Dec2024 16:36:03.002] [Worker-Main-33/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-523, -420], pos: BlockPos{x=-8353, y=-23, z=-6716}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[05Dec2024 16:36:03.002] [Worker-Main-33/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-523, -420], pos: BlockPos{x=-8353, y=-23, z=-6715}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[05Dec2024 16:36:03.003] [Worker-Main-33/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-523, -420], pos: BlockPos{x=-8353, y=-23, z=-6714}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[05Dec2024 16:36:03.005] [Worker-Main-33/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-523, -420], pos: BlockPos{x=-8353, y=-20, z=-6718}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[05Dec2024 16:37:58.336] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8516, y=-51, z=-6701} BlockPos{x=-8515, y=-52, z=-6702}
+[05Dec2024 16:39:31.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Bitcoin]
