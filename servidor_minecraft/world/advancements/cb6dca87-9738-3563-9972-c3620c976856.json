@@ -361,6 +361,8 @@
       "frozen_tundra": "2024-12-03 22:46:08 +0000",
       "frozen_pine_taiga": "2024-12-03 22:47:03 +0000",
       "deciduous_forest": "2024-12-04 23:22:07 +0000",
+      "glistering_meadow": "2024-12-05 00:17:36 +0000",
+      "infernal_holt": "2024-12-05 00:17:24 +0000",
       "cold_river": "2024-12-03 22:42:48 +0000"
     },
     "done": false
@@ -441,6 +443,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-05 00:15:27 +0000"
+    },
+    "done": true
+  },
   "paraglider:root": {
     "criteria": {
       "crafting_table": "2024-12-04 23:29:31 +0000"
@@ -465,9 +473,27 @@
     },
     "done": true
   },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2024-12-05 00:17:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-05 00:17:23 +0000"
+    },
+    "done": true
+  },
   "deep_dark_regrowth:the_forgotten_story": {
     "criteria": {
       "the_forgotten_story": "2024-12-04 23:38:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-05 00:17:23 +0000"
     },
     "done": true
   },
@@ -482,6 +508,13 @@
       "shot_arrow": "2024-12-04 23:39:06 +0000"
     },
     "done": true
+  },
+  "regions_unexplored:eternal_expedition": {
+    "criteria": {
+      "infernal_holt": "2024-12-05 00:17:24 +0000",
+      "glistering_meadow": "2024-12-05 00:17:36 +0000"
+    },
+    "done": false
   },
   "mores:obtain_topaz": {
     "criteria": {
@@ -504,6 +537,12 @@
   "mores:obtain_tin_ore": {
     "criteria": {
       "obtain_tin_ore": "2024-12-04 23:33:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-12-05 00:19:53 +0000"
     },
     "done": true
   },
