@@ -1709,3 +1709,10 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [05Dec2024 16:36:03.005] [Worker-Main-33/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-523, -420], pos: BlockPos{x=-8353, y=-20, z=-6718}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
 [05Dec2024 16:37:58.336] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8516, y=-51, z=-6701} BlockPos{x=-8515, y=-52, z=-6702}
 [05Dec2024 16:39:31.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Bitcoin]
+[05Dec2024 16:47:16.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Spectator Mode]
+[05Dec2024 16:47:39.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
+[05Dec2024 16:48:58.469] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8559, y=-51, z=-6698} BlockPos{x=-8561, y=-52, z=-6699}
+[05Dec2024 16:48:58.499] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8559, y=-51, z=-6698} BlockPos{x=-8561, y=-52, z=-6699}
+[05Dec2024 16:48:58.539] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8559, y=-51, z=-6698} BlockPos{x=-8561, y=-52, z=-6699}
+[05Dec2024 16:48:58.570] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8560, y=-51, z=-6697} BlockPos{x=-8561, y=-52, z=-6699}
+[05Dec2024 16:48:58.618] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8560, y=-51, z=-6697} BlockPos{x=-8561, y=-52, z=-6699}

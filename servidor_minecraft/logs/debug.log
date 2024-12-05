@@ -18515,3 +18515,20 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [05Dec2024 16:39:31.605] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Dec2024 16:39:31.634] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [05Dec2024 16:39:31.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Bitcoin]
+[05Dec2024 16:41:22.806] [IO-Worker-63/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-67
+[05Dec2024 16:44:31.603] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 16:44:31.632] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 16:44:31.656] [IO-Worker-67/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-68
+[05Dec2024 16:45:49.389] [Worker-Main-33/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-33 shutdown
+[05Dec2024 16:46:00.134] [Worker-Main-17/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-69
+[05Dec2024 16:47:09.941] [IO-Worker-68/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-70
+[05Dec2024 16:47:09.941] [IO-Worker-67/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-71
+[05Dec2024 16:47:16.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Spectator Mode]
+[05Dec2024 16:47:39.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
+[05Dec2024 16:48:58.469] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8559, y=-51, z=-6698} BlockPos{x=-8561, y=-52, z=-6699}
+[05Dec2024 16:48:58.499] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8559, y=-51, z=-6698} BlockPos{x=-8561, y=-52, z=-6699}
+[05Dec2024 16:48:58.539] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8559, y=-51, z=-6698} BlockPos{x=-8561, y=-52, z=-6699}
+[05Dec2024 16:48:58.570] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8560, y=-51, z=-6697} BlockPos{x=-8561, y=-52, z=-6699}
+[05Dec2024 16:48:58.618] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8560, y=-51, z=-6697} BlockPos{x=-8561, y=-52, z=-6699}
+[05Dec2024 16:49:31.602] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 16:49:31.633] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
