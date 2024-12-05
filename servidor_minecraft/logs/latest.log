@@ -1794,3 +1794,161 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [05Dec2024 17:08:59.175] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Tomas_michele
 [05Dec2024 17:08:59.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele joined the game
 [05Dec2024 17:08:59.224] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[05Dec2024 17:11:22.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> aaa
+[05Dec2024 17:12:26.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> a
+[05Dec2024 17:12:55.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Creative Mode]
+[05Dec2024 17:13:17.394] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8707, y=-47, z=-6744} BlockPos{x=-8708, y=-47, z=-6743}
+[05Dec2024 17:13:26.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Survival Mode]
+[05Dec2024 17:14:40.621] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8670, y=-47, z=-6810} BlockPos{x=-8669, y=-48, z=-6811}
+[05Dec2024 17:14:40.622] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8670, y=-47, z=-6810} BlockPos{x=-8669, y=-48, z=-6811}
+[05Dec2024 17:14:40.653] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8670, y=-47, z=-6810} BlockPos{x=-8669, y=-48, z=-6811}
+[05Dec2024 17:14:40.713] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8670, y=-47, z=-6810} BlockPos{x=-8669, y=-48, z=-6811}
+[05Dec2024 17:14:52.412] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8670, y=-45, z=-6802} BlockPos{x=-8669, y=-44, z=-6801}
+[05Dec2024 17:14:52.503] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8670, y=-45, z=-6802} BlockPos{x=-8669, y=-44, z=-6801}
+[05Dec2024 17:14:52.544] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8670, y=-45, z=-6802} BlockPos{x=-8669, y=-44, z=-6801}
+[05Dec2024 17:14:52.596] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8670, y=-45, z=-6802} BlockPos{x=-8669, y=-44, z=-6801}
+[05Dec2024 17:14:57.344] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8670, y=-49, z=-6787} BlockPos{x=-8669, y=-50, z=-6787}
+[05Dec2024 17:15:16.768] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8662, y=-50, z=-6782} BlockPos{x=-8661, y=-51, z=-6783}
+[05Dec2024 17:15:16.813] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8662, y=-50, z=-6782} BlockPos{x=-8661, y=-51, z=-6783}
+[05Dec2024 17:15:16.871] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8661, y=-49, z=-6782} BlockPos{x=-8661, y=-51, z=-6783}
+[05Dec2024 17:15:16.912] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8661, y=-49, z=-6782} BlockPos{x=-8661, y=-51, z=-6783}
+[05Dec2024 17:15:16.972] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8661, y=-49, z=-6782} BlockPos{x=-8661, y=-51, z=-6783}
+[05Dec2024 17:15:17.044] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8661, y=-49, z=-6782} BlockPos{x=-8661, y=-51, z=-6783}
+[05Dec2024 17:15:22.909] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8662, y=-50, z=-6780} BlockPos{x=-8662, y=-51, z=-6779}
+[05Dec2024 17:15:25.552] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8668, y=-51, z=-6781} BlockPos{x=-8668, y=-52, z=-6782}
+[05Dec2024 17:15:25.600] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8668, y=-51, z=-6781} BlockPos{x=-8668, y=-52, z=-6782}
+[05Dec2024 17:15:25.613] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8668, y=-51, z=-6781} BlockPos{x=-8668, y=-52, z=-6782}
+[05Dec2024 17:15:25.673] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8668, y=-51, z=-6781} BlockPos{x=-8668, y=-52, z=-6782}
+[05Dec2024 17:15:25.710] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8668, y=-51, z=-6781} BlockPos{x=-8668, y=-52, z=-6782}
+[05Dec2024 17:15:53.393] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8665, y=-50, z=-6748} BlockPos{x=-8666, y=-51, z=-6747}
+[05Dec2024 17:15:53.422] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8665, y=-50, z=-6748} BlockPos{x=-8666, y=-51, z=-6747}
+[05Dec2024 17:18:00.469] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8627, y=-50, z=-6781} BlockPos{x=-8628, y=-52, z=-6782}
+[05Dec2024 17:18:00.517] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8627, y=-50, z=-6781} BlockPos{x=-8628, y=-52, z=-6782}
+[05Dec2024 17:18:00.570] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8627, y=-50, z=-6781} BlockPos{x=-8628, y=-52, z=-6782}
+[05Dec2024 17:18:03.153] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8630, y=-50, z=-6781} BlockPos{x=-8631, y=-52, z=-6781}
+[05Dec2024 17:18:35.570] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8635, y=-45, z=-6784} BlockPos{x=-8636, y=-48, z=-6784}
+[05Dec2024 17:18:35.603] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8635, y=-45, z=-6784} BlockPos{x=-8636, y=-48, z=-6784}
+[05Dec2024 17:18:46.517] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8629, y=-51, z=-6780} BlockPos{x=-8629, y=-53, z=-6780}
+[05Dec2024 17:18:46.569] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8629, y=-51, z=-6780} BlockPos{x=-8629, y=-53, z=-6780}
+[05Dec2024 17:18:46.652] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8629, y=-51, z=-6780} BlockPos{x=-8629, y=-53, z=-6780}
+[05Dec2024 17:19:40.662] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8647, y=-46, z=-6778} BlockPos{x=-8648, y=-48, z=-6777}
+[05Dec2024 17:19:46.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Spectator Mode]
+[05Dec2024 17:19:57.971] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8640, y=-51, z=-6783} BlockPos{x=-8641, y=-52, z=-6783}
+[05Dec2024 17:19:58.014] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8640, y=-51, z=-6783} BlockPos{x=-8641, y=-52, z=-6783}
+[05Dec2024 17:19:58.101] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8640, y=-51, z=-6783} BlockPos{x=-8641, y=-52, z=-6783}
+[05Dec2024 17:19:58.144] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8640, y=-51, z=-6783} BlockPos{x=-8641, y=-52, z=-6783}
+[05Dec2024 17:19:58.163] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8640, y=-51, z=-6783} BlockPos{x=-8641, y=-52, z=-6783}
+[05Dec2024 17:19:58.224] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8640, y=-51, z=-6783} BlockPos{x=-8641, y=-52, z=-6783}
+[05Dec2024 17:19:58.261] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8640, y=-51, z=-6783} BlockPos{x=-8641, y=-52, z=-6783}
+[05Dec2024 17:19:58.322] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8640, y=-51, z=-6783} BlockPos{x=-8641, y=-52, z=-6783}
+[05Dec2024 17:20:05.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Survival Mode]
+[05Dec2024 17:20:47.402] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8447, y=136, z=-6700} BlockPos{x=-8444, y=135, z=-6701}
+[05Dec2024 17:20:47.404] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8447, y=136, z=-6701} BlockPos{x=-8446, y=135, z=-6701}
+[05Dec2024 17:21:19.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> aa
+[05Dec2024 17:21:29.547] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8635, y=-50, z=-6798} BlockPos{x=-8635, y=-51, z=-6799}
+[05Dec2024 17:21:30.003] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8634, y=-50, z=-6802} BlockPos{x=-8632, y=-51, z=-6803}
+[05Dec2024 17:22:01.298] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8430, y=139, z=-6693} BlockPos{x=-8430, y=141, z=-6692}
+[05Dec2024 17:22:24.804] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8431, y=139, z=-6671} BlockPos{x=-8430, y=138, z=-6670}
+[05Dec2024 17:22:37.355] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8427, y=138, z=-6676} BlockPos{x=-8426, y=139, z=-6675}
+[05Dec2024 17:22:41.405] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8412, y=139, z=-6676} BlockPos{x=-8411, y=139, z=-6676}
+[05Dec2024 17:23:40.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was shot by Skeleton
+[05Dec2024 17:23:40.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Spectator Mode]
+[05Dec2024 17:24:16.648] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tomas_michele moved too quickly! -9.366935881336758,-2.9060623548416533,-5.0553302484795495
+[05Dec2024 17:24:20.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 was slain by Warden
+[05Dec2024 17:24:20.692] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for B3njaxx_11 with unique ID travelersbackpack.standard_05.12.2024-17.24.20.dat
+[05Dec2024 17:24:20.772] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tomas_michele moved too quickly! -3.227057020378197,10.495239762728843,-3.2832332397738355
+[05Dec2024 17:24:20.825] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[05Dec2024 17:24:20.825] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[05Dec2024 17:24:20.825] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[05Dec2024 17:24:20.825] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[05Dec2024 17:24:20.825] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 2 | client: 2
+[05Dec2024 17:24:21.012] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[05Dec2024 17:24:21.013] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[05Dec2024 17:24:21.013] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[05Dec2024 17:24:21.013] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[05Dec2024 17:24:21.013] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 2 | client: 2
+[05Dec2024 17:24:31.805] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tomas_michele moved too quickly! 8.512845355016907,-8.999921932148709,-1.1489164799504579
+[05Dec2024 17:24:32.353] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tomas_michele moved too quickly! 0.0,-10.67267524009398,0.0
+[05Dec2024 17:24:35.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Creative Mode]
+[05Dec2024 17:24:40.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Survival Mode]
+[05Dec2024 17:24:44.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Spectator Mode]
+[05Dec2024 17:25:02.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has reached the goal [Quite Different!]
+[05Dec2024 17:25:20.958] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tomas_michele moved too quickly! -9.475904662378525,8.227791686943057,-10.22573056146939
+[05Dec2024 17:25:36.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Survival Mode]
+[05Dec2024 17:25:53.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
+[05Dec2024 17:26:22.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> aaa
+[05Dec2024 17:26:31.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tomas_michele> por????????
+[05Dec2024 17:26:38.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> q paso
+[05Dec2024 17:27:00.546] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tomas_michele lost connection: Disconnected
+[05Dec2024 17:27:00.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele left the game
+[05Dec2024 17:27:18.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Creative Mode]
+[05Dec2024 17:27:42.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Spectator Mode]
+[05Dec2024 17:27:58.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Creative Mode]
+[05Dec2024 17:28:20.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Spectator Mode]
+[05Dec2024 17:28:22.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
+[05Dec2024 17:30:18.040] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8592, y=-47, z=-6814} BlockPos{x=-8593, y=-48, z=-6815}
+[05Dec2024 17:30:24.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Spectator Mode]
+[05Dec2024 17:30:25.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
+[05Dec2024 17:30:26.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Creative Mode]
+[05Dec2024 17:30:52.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
+[05Dec2024 17:31:15.072] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8587, y=-47, z=-6814} BlockPos{x=-8590, y=-49, z=-6813}
+[05Dec2024 17:31:15.117] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8587, y=-47, z=-6814} BlockPos{x=-8590, y=-49, z=-6813}
+[05Dec2024 17:31:15.194] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8587, y=-47, z=-6814} BlockPos{x=-8590, y=-49, z=-6813}
+[05Dec2024 17:31:15.207] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8587, y=-47, z=-6814} BlockPos{x=-8590, y=-49, z=-6813}
+[05Dec2024 17:31:21.389] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8589, y=-47, z=-6820} BlockPos{x=-8591, y=-48, z=-6820}
+[05Dec2024 17:31:33.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Gave 10000 experience points to B3njaxx_11]
+[05Dec2024 17:32:16.418] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8605, y=-51, z=-6798} BlockPos{x=-8605, y=-52, z=-6797}
+[05Dec2024 17:32:16.454] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8605, y=-51, z=-6798} BlockPos{x=-8605, y=-52, z=-6797}
+[05Dec2024 17:32:16.509] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8605, y=-51, z=-6798} BlockPos{x=-8605, y=-52, z=-6797}
+[05Dec2024 17:32:16.590] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8605, y=-51, z=-6798} BlockPos{x=-8605, y=-52, z=-6797}
+[05Dec2024 17:32:16.616] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8605, y=-51, z=-6798} BlockPos{x=-8605, y=-52, z=-6797}
+[05Dec2024 17:32:29.939] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8588, y=-47, z=-6804} BlockPos{x=-8587, y=-48, z=-6804}
+[05Dec2024 17:32:29.957] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8588, y=-47, z=-6804} BlockPos{x=-8587, y=-48, z=-6804}
+[05Dec2024 17:32:30.018] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8588, y=-47, z=-6804} BlockPos{x=-8587, y=-48, z=-6804}
+[05Dec2024 17:32:30.090] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8588, y=-47, z=-6804} BlockPos{x=-8587, y=-48, z=-6804}
+[05Dec2024 17:32:30.109] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8588, y=-47, z=-6804} BlockPos{x=-8587, y=-48, z=-6804}
+[05Dec2024 17:32:59.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Creative Mode]
+[05Dec2024 17:33:11.618] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tomas_michele[/127.78.17.184:50609] logged in with entity id 34046 at (-8457.300000011921, 119.0, -6698.390885763904)
+[05Dec2024 17:33:11.620] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Tomas_michele
+[05Dec2024 17:33:11.621] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Tomas_michele
+[05Dec2024 17:33:11.621] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Tomas_michele
+[05Dec2024 17:33:11.621] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Tomas_michele
+[05Dec2024 17:33:11.624] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Tomas_michele
+[05Dec2024 17:33:11.626] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Tomas_michele
+[05Dec2024 17:33:11.626] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Tomas_michele
+[05Dec2024 17:33:11.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele joined the game
+[05Dec2024 17:33:11.676] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[05Dec2024 17:33:22.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
+[05Dec2024 17:33:47.407] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8600, y=-50, z=-6782} BlockPos{x=-8600, y=-51, z=-6780}
+[05Dec2024 17:33:47.468] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8600, y=-50, z=-6782} BlockPos{x=-8600, y=-51, z=-6780}
+[05Dec2024 17:33:47.513] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8600, y=-50, z=-6782} BlockPos{x=-8600, y=-51, z=-6780}
+[05Dec2024 17:33:47.574] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8600, y=-50, z=-6782} BlockPos{x=-8600, y=-51, z=-6780}
+[05Dec2024 17:35:46.252] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8556, y=-51, z=-6738} BlockPos{x=-8557, y=-52, z=-6738}
+[05Dec2024 17:35:46.320] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8556, y=-51, z=-6738} BlockPos{x=-8557, y=-52, z=-6738}
+[05Dec2024 17:35:46.366] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8556, y=-51, z=-6738} BlockPos{x=-8557, y=-52, z=-6738}
+[05Dec2024 17:35:50.608] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8562, y=-51, z=-6750} BlockPos{x=-8564, y=-52, z=-6750}
+[05Dec2024 17:36:19.693] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8545, y=-51, z=-6734} BlockPos{x=-8544, y=-52, z=-6733}
+[05Dec2024 17:36:19.708] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8545, y=-51, z=-6734} BlockPos{x=-8544, y=-52, z=-6733}
+[05Dec2024 17:36:19.753] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8544, y=-51, z=-6736} BlockPos{x=-8544, y=-52, z=-6733}
+[05Dec2024 17:36:19.813] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8544, y=-51, z=-6736} BlockPos{x=-8544, y=-52, z=-6733}
+[05Dec2024 17:36:19.896] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8544, y=-51, z=-6736} BlockPos{x=-8544, y=-52, z=-6733}
+[05Dec2024 17:36:19.948] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8544, y=-51, z=-6736} BlockPos{x=-8544, y=-52, z=-6733}
+[05Dec2024 17:36:19.957] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8544, y=-51, z=-6736} BlockPos{x=-8544, y=-52, z=-6733}
+[05Dec2024 17:36:20.008] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8544, y=-51, z=-6736} BlockPos{x=-8544, y=-52, z=-6733}
+[05Dec2024 17:36:59.862] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8598, y=-50, z=-6722} BlockPos{x=-8597, y=-51, z=-6722}
+[05Dec2024 17:37:00.196] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8595, y=-50, z=-6718} BlockPos{x=-8597, y=-51, z=-6719}
+[05Dec2024 17:37:06.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Creative Mode]
+[05Dec2024 17:37:06.697] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8447, y=116, z=-6699} BlockPos{x=-8449, y=116, z=-6703}
+[05Dec2024 17:37:17.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Spectator Mode]
+[05Dec2024 17:37:23.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Survival Mode]
+[05Dec2024 17:38:35.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Spectator Mode]
+[05Dec2024 17:38:42.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
+[05Dec2024 17:38:50.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Spectator Mode]
+[05Dec2024 17:38:52.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Creative Mode]
+[05Dec2024 17:39:39.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Spectator Mode]
+[05Dec2024 17:39:40.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
+[05Dec2024 17:39:45.852] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8608, y=-34, z=-6722} BlockPos{x=-8608, y=-35, z=-6721}
+[05Dec2024 17:39:46.445] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8608, y=-34, z=-6725} BlockPos{x=-8608, y=-35, z=-6724}
+[05Dec2024 17:39:46.613] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8608, y=-34, z=-6726} BlockPos{x=-8608, y=-35, z=-6725}
+[05Dec2024 17:39:47.024] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8608, y=-34, z=-6728} BlockPos{x=-8608, y=-35, z=-6727}
+[05Dec2024 17:39:55.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Creative Mode]

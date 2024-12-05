@@ -931,6 +931,12 @@
     },
     "done": true
   },
+  "blue_skies:everdawn/think_different": {
+    "criteria": {
+      "have_sword": "2024-12-05 17:25:02 +0000"
+    },
+    "done": true
+  },
   "mores:smelt_more": {
     "criteria": {
       "smelt_cobalt_ore": "2024-12-05 16:12:33 +0000"
