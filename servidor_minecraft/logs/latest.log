@@ -2110,3 +2110,15 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [05Dec2024 19:20:01.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Applied effect Hero of the Village to 2 targets]
 [05Dec2024 19:21:06.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Survival Mode]
 [05Dec2024 19:21:34.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Teleported Tomas_michele to B3njaxx_11]
+[05Dec2024 19:22:56.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Creative Mode]
+[05Dec2024 19:23:17.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has made the advancement [Enlightenment]
+[05Dec2024 19:23:37.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Survival Mode]
+[05Dec2024 19:23:48.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Creative Mode]
+[05Dec2024 19:23:59.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Survival Mode]
+[05Dec2024 19:25:33.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has made the advancement [What a Deal!]
+[05Dec2024 19:27:52.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Gave 100 experience points to Tomas_michele]
+[05Dec2024 19:28:12.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> aa
+[05Dec2024 19:28:31.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Enlightenment]
+[05Dec2024 19:30:29.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Spectator Mode]
+[05Dec2024 19:30:48.796] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tomas_michele moved too quickly! 5.960748666277141,-8.722005236181303,-0.35093976769258006
+[05Dec2024 19:30:58.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Survival Mode]

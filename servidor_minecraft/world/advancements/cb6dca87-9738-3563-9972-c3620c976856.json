@@ -743,5 +743,17 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_villager": {
+    "criteria": {
+      "requirement": "2024-12-05 19:23:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-05 19:25:33 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
