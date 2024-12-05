@@ -1759,3 +1759,38 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [05Dec2024 16:57:44.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Creative Mode]
 [05Dec2024 16:58:28.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has completed the challenge [Phantom Thief]
 [05Dec2024 16:58:31.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
+[05Dec2024 17:00:17.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was slain by Corpse Fly
+[05Dec2024 17:03:43.765] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8582, y=-51, z=-6623} BlockPos{x=-8583, y=-52, z=-6622}
+[05Dec2024 17:03:58.450] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8580, y=-51, z=-6622} BlockPos{x=-8580, y=-52, z=-6623}
+[05Dec2024 17:04:58.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [This Is My Swamp]
+[05Dec2024 17:05:14.390] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tomas_michele lost connection: Timed out
+[05Dec2024 17:05:14.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele left the game
+[05Dec2024 17:05:23.389] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8629, y=-52, z=-6635} BlockPos{x=-8629, y=-54, z=-6635}
+[05Dec2024 17:05:23.417] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8629, y=-52, z=-6635} BlockPos{x=-8629, y=-54, z=-6635}
+[05Dec2024 17:05:23.491] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8629, y=-52, z=-6635} BlockPos{x=-8629, y=-54, z=-6635}
+[05Dec2024 17:05:24.739] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8631, y=-53, z=-6633} BlockPos{x=-8632, y=-54, z=-6634}
+[05Dec2024 17:06:44.170] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tomas_michele[/127.78.17.184:40393] logged in with entity id 24638 at (-8570.889420137484, 216.0, -6689.300000011921)
+[05Dec2024 17:06:44.172] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Tomas_michele
+[05Dec2024 17:06:44.173] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Tomas_michele
+[05Dec2024 17:06:44.173] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Tomas_michele
+[05Dec2024 17:06:44.173] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Tomas_michele
+[05Dec2024 17:06:44.175] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Tomas_michele
+[05Dec2024 17:06:44.177] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Tomas_michele
+[05Dec2024 17:06:44.178] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Tomas_michele
+[05Dec2024 17:06:44.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele joined the game
+[05Dec2024 17:06:44.256] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[05Dec2024 17:08:01.192] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8634, y=-51, z=-6672} BlockPos{x=-8634, y=-52, z=-6670}
+[05Dec2024 17:08:01.213] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8634, y=-51, z=-6672} BlockPos{x=-8634, y=-52, z=-6670}
+[05Dec2024 17:08:01.274] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8634, y=-51, z=-6672} BlockPos{x=-8634, y=-52, z=-6670}
+[05Dec2024 17:08:29.389] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tomas_michele lost connection: Timed out
+[05Dec2024 17:08:29.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele left the game
+[05Dec2024 17:08:59.167] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tomas_michele[/127.78.17.184:32835] logged in with entity id 25154 at (-8583.240905053652, 216.9375, -6696.177101171459)
+[05Dec2024 17:08:59.169] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Tomas_michele
+[05Dec2024 17:08:59.170] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Tomas_michele
+[05Dec2024 17:08:59.170] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Tomas_michele
+[05Dec2024 17:08:59.171] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Tomas_michele
+[05Dec2024 17:08:59.173] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Tomas_michele
+[05Dec2024 17:08:59.175] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Tomas_michele
+[05Dec2024 17:08:59.175] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Tomas_michele
+[05Dec2024 17:08:59.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele joined the game
+[05Dec2024 17:08:59.224] [Server thread/INFO] [spawnermod/]: Sending config to player.

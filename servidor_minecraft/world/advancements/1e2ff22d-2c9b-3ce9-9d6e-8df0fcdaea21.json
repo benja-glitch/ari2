@@ -709,6 +709,7 @@
       "obtain_topaz_gem": "2024-12-04 23:35:33 +0000",
       "obtain_tourmaline": "2024-12-04 23:49:25 +0000",
       "obtain_ruby_gem": "2024-12-04 23:57:39 +0000",
+      "obtain_moissanite_gem": "2024-12-05 17:04:58 +0000",
       "obtain_sapphire_gem": "2024-12-05 00:34:16 +0000",
       "obtain_steel_ingot": "2024-12-05 16:12:05 +0000",
       "obtain_turquoise_gem": "2024-12-05 16:39:31 +0000"
@@ -951,6 +952,12 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2024-12-05 15:44:20 +0000"
+    },
+    "done": true
+  },
+  "mores:obtain_moissanite": {
+    "criteria": {
+      "obtain_moissanite_ore": "2024-12-05 17:04:58 +0000"
     },
     "done": true
   },
