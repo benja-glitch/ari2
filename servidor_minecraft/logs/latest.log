@@ -100,3 +100,32 @@
 [05Dec2024 00:53:01.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Spectator Mode]
 [05Dec2024 00:54:06.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Creative Mode]
 [05Dec2024 00:54:08.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
+[05Dec2024 00:56:54.718] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tomas_michele[/127.78.17.184:49699] logged in with entity id 40682 at (-1162.699999988079, 67.0, -938.5380841163252)
+[05Dec2024 00:56:54.720] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Tomas_michele
+[05Dec2024 00:56:54.721] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Tomas_michele
+[05Dec2024 00:56:54.721] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Tomas_michele
+[05Dec2024 00:56:54.721] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Tomas_michele
+[05Dec2024 00:56:54.724] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Tomas_michele
+[05Dec2024 00:56:54.728] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Tomas_michele
+[05Dec2024 00:56:54.728] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Tomas_michele
+[05Dec2024 00:56:54.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele joined the game
+[05Dec2024 00:56:54.787] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[05Dec2024 01:00:06.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Creative Mode]
+[05Dec2024 01:00:07.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Spectator Mode]
+[05Dec2024 01:00:51.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele fell from a high place
+[05Dec2024 01:00:57.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Creative Mode]
+[05Dec2024 01:01:29.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has reached the goal [A Metropolis of Restless Souls]
+[05Dec2024 01:02:25.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Spectator Mode]
+[05Dec2024 01:02:27.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
+[05Dec2024 01:03:28.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tomas_michele> [name:"Muerte 22:00:36 12-04-2024", x:-9312, y:53, z:-7040, dim:minecraft:the_nether]
+[05Dec2024 01:05:43.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Teleported Tomas_michele to -9311.500000, 53.000000, -7039.500000]
+[05Dec2024 01:05:43.424] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2573ms or 51 ticks behind
+[05Dec2024 01:05:43.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Teleported Tomas_michele to -9311.500000, 53.000000, -7039.500000]
+[05Dec2024 01:05:43.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has made the advancement [Darude - Firestorm]
+[05Dec2024 01:05:43.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has made the advancement [Strange Biomes]
+[05Dec2024 01:05:50.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele suffocated in a wall
+[05Dec2024 01:06:09.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set Tomas_michele's game mode to Spectator Mode]
+[05Dec2024 01:06:10.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tomas_michele> [name:"Muerte 22:00:36 12-04-2024", x:-9312, y:53, z:-7040, dim:minecraft:the_nether]
+[05Dec2024 01:06:11.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Teleported Tomas_michele to -9311.500000, 53.000000, -7039.500000]
+[05Dec2024 01:06:28.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set Tomas_michele's game mode to Survival Mode]
+[05Dec2024 01:06:37.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set Tomas_michele's game mode to Spectator Mode]

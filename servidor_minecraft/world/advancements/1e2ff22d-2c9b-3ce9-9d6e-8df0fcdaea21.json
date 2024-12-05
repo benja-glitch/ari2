@@ -311,6 +311,7 @@
       "minecraft:creeper": "2024-12-03 23:01:23 +0000",
       "minecraft:wither_skeleton": "2024-12-05 00:19:54 +0000",
       "minecraft:husk": "2024-12-03 20:36:34 +0000",
+      "minecraft:cave_spider": "2024-12-05 01:01:47 +0000",
       "minecraft:piglin": "2024-12-03 21:15:17 +0000",
       "minecraft:enderman": "2024-12-03 21:24:08 +0000",
       "minecraft:stray": "2024-12-03 22:33:29 +0000",
@@ -795,6 +796,12 @@
   "irons_spellbooks:irons_spellbooks/spell_book_blaze": {
     "criteria": {
       "requirement": "2024-12-05 00:44:38 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/find_ancient_city": {
+    "criteria": {
+      "ancient_city": "2024-12-05 01:01:29 +0000"
     },
     "done": true
   },
