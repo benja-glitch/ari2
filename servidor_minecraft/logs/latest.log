@@ -1983,3 +1983,15 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [05Dec2024 17:53:33.037] [Server thread/INFO] [spawnermod/]: Sending config to player.
 [05Dec2024 17:56:33.295] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tomas_michele lost connection: Timed out
 [05Dec2024 17:56:33.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele left the game
+[05Dec2024 18:01:22.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
+[05Dec2024 18:05:30.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Gave 64 [Glow Glass Item Frame] to B3njaxx_11]
+[05Dec2024 18:06:10.163] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tomas_michele[/127.78.17.184:49285] logged in with entity id 40049 at (-8446.280339868605, 115.7531999805212, -6699.486095154634)
+[05Dec2024 18:06:10.165] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Tomas_michele
+[05Dec2024 18:06:10.166] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Tomas_michele
+[05Dec2024 18:06:10.166] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Tomas_michele
+[05Dec2024 18:06:10.166] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Tomas_michele
+[05Dec2024 18:06:10.168] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Tomas_michele
+[05Dec2024 18:06:10.170] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Tomas_michele
+[05Dec2024 18:06:10.170] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Tomas_michele
+[05Dec2024 18:06:10.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele joined the game
+[05Dec2024 18:06:10.225] [Server thread/INFO] [spawnermod/]: Sending config to player.
