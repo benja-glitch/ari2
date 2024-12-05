@@ -21114,3 +21114,222 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [05Dec2024 18:41:22.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Creative Mode]
 [05Dec2024 18:41:23.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was slain by Zombie
 [05Dec2024 18:41:25.225] [Server thread/DEBUG] [twilightforest/]: Player Tomas_michele (cb6dca87-9738-3563-9972-c3620c976856) respawned and received items held in storage
+[05Dec2024 18:42:02.125] [IO-Worker-118/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-121
+[05Dec2024 18:42:02.126] [IO-Worker-119/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-122
+[05Dec2024 18:42:11.723] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mountain_tower
+[05Dec2024 18:42:11.736] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:underground_horned_statue
+[05Dec2024 18:42:15.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Spectator Mode]
+[05Dec2024 18:42:28.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Survival Mode]
+[05Dec2024 18:42:50.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Gave 100 experience levels to Tomas_michele]
+[05Dec2024 18:42:58.677] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[05Dec2024 18:42:58.683] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_10
+[05Dec2024 18:42:58.731] [IO-Worker-121/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-123
+[05Dec2024 18:42:58.836] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/arch
+[05Dec2024 18:42:58.853] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/common
+[05Dec2024 18:42:58.863] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/spiral
+[05Dec2024 18:43:00.547] [Worker-Main-69/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=-8610, y=111, z=-6329} at Chest with:minecraft:chests/simple_dungeon
+[05Dec2024 18:43:02.873] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/bush/trunk_bush1
+[05Dec2024 18:43:02.874] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/bush/canopy_bush1
+[05Dec2024 18:43:02.874] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/generic_trunk
+[05Dec2024 18:43:02.875] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/meadow/meadow_shrub_canopy1
+[05Dec2024 18:43:03.092] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of gamma_beasts:arbol_acacia2
+[05Dec2024 18:43:06.397] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/start_pool/start_room
+[05Dec2024 18:43:06.401] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_10
+[05Dec2024 18:43:06.401] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_04
+[05Dec2024 18:43:06.402] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_06
+[05Dec2024 18:43:06.403] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_03
+[05Dec2024 18:43:06.404] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_11
+[05Dec2024 18:43:06.405] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_01
+[05Dec2024 18:43:06.407] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_08
+[05Dec2024 18:43:06.409] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_03
+[05Dec2024 18:43:06.412] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_02
+[05Dec2024 18:43:06.417] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_01
+[05Dec2024 18:43:06.420] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_03
+[05Dec2024 18:43:06.423] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_05
+[05Dec2024 18:43:06.425] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_06
+[05Dec2024 18:43:06.426] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_05
+[05Dec2024 18:43:06.428] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_01
+[05Dec2024 18:43:06.430] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_04
+[05Dec2024 18:43:06.433] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_02
+[05Dec2024 18:43:06.435] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_01
+[05Dec2024 18:43:06.437] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_03
+[05Dec2024 18:43:06.437] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_01
+[05Dec2024 18:43:06.439] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_13
+[05Dec2024 18:43:06.440] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_02
+[05Dec2024 18:43:06.443] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_01
+[05Dec2024 18:43:06.453] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_04
+[05Dec2024 18:43:06.456] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_12
+[05Dec2024 18:43:06.464] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_02
+[05Dec2024 18:43:06.470] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_02
+[05Dec2024 18:43:06.472] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_09
+[05Dec2024 18:43:06.473] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_07
+[05Dec2024 18:43:06.515] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_1
+[05Dec2024 18:43:06.726] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_6
+[05Dec2024 18:43:08.438] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/oak/large_oak_trunk1
+[05Dec2024 18:43:08.441] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/oak/large_oak_canopy1
+[05Dec2024 18:43:10.231] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/araucaria/araucaria_tree_trunk1
+[05Dec2024 18:43:10.243] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/araucaria/araucaria_tree_canopy2
+[05Dec2024 18:43:10.248] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/araucaria/araucaria_tree_canopy1
+[05Dec2024 18:43:10.886] [Worker-Main-9/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/sakura/sakura_trunk2 is being run through DFU (hash dffd4b580e1aca1e1465515ea047c610e7fa9565ce5d31d90f1c0139880a0126), this will cause launch time delays
+[05Dec2024 18:43:10.890] [Worker-Main-9/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/sakura/sakura_canopy2 is being run through DFU (hash a9391b09fb1471ff29a00eb8c79ab7279d888f20509e65d978006dc9af40d38e), this will cause launch time delays
+[05Dec2024 18:43:10.924] [Worker-Main-9/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/sakura/sakura_trunk7 is being run through DFU (hash a9ed86f8f86ff901c50531697d818d643361f25c73bef2aa3fde297f0cb1a91d), this will cause launch time delays
+[05Dec2024 18:43:10.927] [Worker-Main-9/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/sakura/sakura_canopy7 is being run through DFU (hash 9f082d86770f918d40c121bade7984b9b35d2ba53956f148bc10510fbc8390f3), this will cause launch time delays
+[05Dec2024 18:43:10.942] [Worker-Main-9/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/sakura/sakura_trunk1 is being run through DFU (hash 108a933eb8a454b2aad518f7a7f9973b9ade2e987675031f73ebff8b7f963cfb), this will cause launch time delays
+[05Dec2024 18:43:10.943] [Worker-Main-9/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/sakura/sakura_canopy1 is being run through DFU (hash b9a295a2858eb01b7835ab04d99173b2c4d63f1179854b61ff0e2ee1a9bf8aa2), this will cause launch time delays
+[05Dec2024 18:43:23.575] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_graveyard/small_graveyard_06
+[05Dec2024 18:43:23.628] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_4
+[05Dec2024 18:43:23.644] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
+[05Dec2024 18:43:24.005] [Worker-Main-69/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/sakura/sakura_trunk4 is being run through DFU (hash 799b46472670a8522aa49b535f73fe65515d76768063458afb738b42a8e2cbb4), this will cause launch time delays
+[05Dec2024 18:43:24.007] [Worker-Main-69/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/sakura/sakura_canopy4 is being run through DFU (hash 122d50d75783c7713272246b1bf59d1f4dbe84cbf0a33d3abda8f191a8ba3a0a), this will cause launch time delays
+[05Dec2024 18:43:24.613] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[05Dec2024 18:43:24.631] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_3
+[05Dec2024 18:43:29.414] [Worker-Main-17/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/sakura/sakura_trunk6 is being run through DFU (hash 5139f830be10c1b905c15b5593dc0c58ee3ed942f92c6e6720a4d4578bcb44cd), this will cause launch time delays
+[05Dec2024 18:43:29.418] [Worker-Main-17/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/sakura/sakura_canopy6 is being run through DFU (hash d8f84ed33132ceeb75cef829d03ac391c6cf23cc4a2e5775724d5d4c830a0374), this will cause launch time delays
+[05Dec2024 18:43:29.538] [Worker-Main-9/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/sakura/sakura_trunk5 is being run through DFU (hash 3f443ef8e942d24837269bd585ef1aec26d3de508fa2c8fcf254bc7264daf150), this will cause launch time delays
+[05Dec2024 18:43:29.541] [Worker-Main-9/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/sakura/sakura_canopy5 is being run through DFU (hash 884577c6ce5d5124e149276c7594ead9ce30c531478247e2b969f4e08e1543f5), this will cause launch time delays
+[05Dec2024 18:43:30.520] [Worker-Main-9/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/sakura/sakura_trunk3 is being run through DFU (hash bb5df8fa831499765edcded5ba8c38b651a64f7e7c058e56dceb2d9fe12fdad3), this will cause launch time delays
+[05Dec2024 18:43:30.521] [Worker-Main-9/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/sakura/sakura_canopy3 is being run through DFU (hash b3b02ac9100260d0d99fbe3097ae2106dba762a8cc43bff31e93c31a33d2dafe), this will cause launch time delays
+[05Dec2024 18:44:04.718] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_06
+[05Dec2024 18:44:04.938] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:desert_shrine/whole
+[05Dec2024 18:44:05.116] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:lookout_tower
+[05Dec2024 18:44:08.058] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_12
+[05Dec2024 18:44:09.221] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/oak/large_oak_trunk3
+[05Dec2024 18:44:09.226] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/oak/large_oak_canopy3
+[05Dec2024 18:44:09.602] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/prairie/prairie_shrub_canopy1
+[05Dec2024 18:44:25.944] [Worker-Main-9/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/birch/birch_boreal_trunk1 is being run through DFU (hash e9160aaaa4c79ae117205b259e12702c1be6ea308caf2632160f02454c37ee0f), this will cause launch time delays
+[05Dec2024 18:44:25.946] [Worker-Main-9/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/birch/birch_boreal_canopy1 is being run through DFU (hash 2a20b24fa7145aa6f495f709de9f5be60548a4022b7bc6cb8602258d15dc16c9), this will cause launch time delays
+[05Dec2024 18:44:26.684] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_15
+[05Dec2024 18:44:27.471] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/prairie/prairie_shrub_canopy2
+[05Dec2024 18:44:30.336] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_graveyard/small_graveyard_05
+[05Dec2024 18:44:31.758] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 18:44:31.800] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 18:44:32.067] [Worker-Main-17/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/birch/birch_yellow_boreal_trunk is being run through DFU (hash 573a03d353fe2b1f01b122001a5ee1feec1fa36f67608af5f5f67c37d090cc51), this will cause launch time delays
+[05Dec2024 18:44:32.069] [Worker-Main-17/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/birch/birch_yellow_boreal_canopy is being run through DFU (hash 226262ff485b6e18d96a93991bf63f273c8d15cc5fc262c5a5b383643f68ec24), this will cause launch time delays
+[05Dec2024 18:44:37.054] [IO-Worker-119/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-124
+[05Dec2024 18:44:38.094] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/wooded_badlands_tipi/town_centers/wooded_badlands_meeting_point_3
+[05Dec2024 18:44:38.103] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/wandering_trader_camp/town_centers/trader_meeting_point_1
+[05Dec2024 18:44:38.138] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/town_centers/jungle_meeting_point_2
+[05Dec2024 18:44:38.159] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sparse_jungle_polynesian/town_centers/sparse_jungle_meeting_point_1
+[05Dec2024 18:44:38.230] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/town_centers/birch_forest_meeting_point_1
+[05Dec2024 18:44:38.254] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/town_centers/badlands_meeting_point_1
+[05Dec2024 18:44:38.265] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/town_centers/forest_meeting_point_2
+[05Dec2024 18:44:38.276] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/town_centers/snowy_taiga_meeting_point_1
+[05Dec2024 18:44:38.310] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/beach_lighthouse/town_centers/beach_meeting_point_1
+[05Dec2024 18:44:38.324] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/tudor/town_centers/tudor_meeting_point_1
+[05Dec2024 18:44:38.329] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/iberian/town_centers/iberian_meeting_point_1
+[05Dec2024 18:44:38.336] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/swedish/town_centers/swedish_meeting_point_1
+[05Dec2024 18:44:38.353] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/swamp_boat/town_centers/swamp_b_meeting_point_1
+[05Dec2024 18:44:38.385] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/town_centers/flower_forest_meeting_point_1
+[05Dec2024 18:44:38.393] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/town_centers/old_growth_taiga_meeting_point_1
+[05Dec2024 18:44:38.411] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sunflower_plains_farm/town_centers/sunflower_plains_meeting_point_1
+[05Dec2024 18:44:38.431] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/grove_villager_outpost/town_centers/grove_meeting_point_1
+[05Dec2024 18:44:38.442] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/town_centers/meadow_meeting_point_1
+[05Dec2024 18:44:38.462] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/nilotic/base_plate
+[05Dec2024 18:44:38.477] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_slopes_inn/town_centers/snowy_slopes_meeting_point_1
+[05Dec2024 18:44:38.515] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/mushroom_fields_fantasy/town_centers/mushroom_meeting_point_1
+[05Dec2024 18:44:42.399] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[05Dec2024 18:44:42.605] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_07
+[05Dec2024 18:44:44.655] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:other/desert_temple_mimic/pyramid_main
+[05Dec2024 18:44:44.659] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/wreckage_ocean/wreckage_1
+[05Dec2024 18:45:36.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was slain by Zombie
+[05Dec2024 18:45:37.897] [IO-Worker-121/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-125
+[05Dec2024 18:45:38.156] [Server thread/DEBUG] [twilightforest/]: Player Tomas_michele (cb6dca87-9738-3563-9972-c3620c976856) respawned and received items held in storage
+[05Dec2024 18:45:50.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Spectator Mode]
+[05Dec2024 18:46:20.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Creative Mode]
+[05Dec2024 18:47:03.187] [IO-Worker-121/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-126
+[05Dec2024 18:47:03.318] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/oak/oak_canopy3
+[05Dec2024 18:47:03.399] [IO-Worker-125/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-127
+[05Dec2024 18:47:10.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Spectator Mode]
+[05Dec2024 18:47:44.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Creative Mode]
+[05Dec2024 18:48:14.963] [IO-Worker-127/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-129
+[05Dec2024 18:48:14.963] [IO-Worker-126/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-128
+[05Dec2024 18:48:14.965] [IO-Worker-126/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-130
+[05Dec2024 18:48:15.021] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_2
+[05Dec2024 18:48:15.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Spectator Mode]
+[05Dec2024 18:48:25.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Creative Mode]
+[05Dec2024 18:48:59.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Survival Mode]
+[05Dec2024 18:49:09.556] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/oak/oak_trunk1
+[05Dec2024 18:49:09.557] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/oak/oak_canopy1
+[05Dec2024 18:49:31.654] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 18:49:31.681] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 18:49:59.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Teleported Tomas_michele to B3njaxx_11]
+[05Dec2024 18:50:36.321] [IO-Worker-127/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-131
+[05Dec2024 18:50:44.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Successfully restored Tomas_michele's items]
+[05Dec2024 18:50:53.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Creative Mode]
+[05Dec2024 18:51:33.875] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[05Dec2024 18:51:33.877] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_0
+[05Dec2024 18:51:33.877] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_0
+[05Dec2024 18:51:33.878] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/illusioner_normal_0
+[05Dec2024 18:51:33.878] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_0
+[05Dec2024 18:51:33.878] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_2
+[05Dec2024 18:51:33.878] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_entrance
+[05Dec2024 18:51:33.878] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_1
+[05Dec2024 18:51:33.879] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_1
+[05Dec2024 18:52:06.528] [IO-Worker-130/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-132
+[05Dec2024 18:53:33.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Teleported Tomas_michele to B3njaxx_11]
+[05Dec2024 18:53:33.876] [IO-Worker-127/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-133
+[05Dec2024 18:53:33.876] [IO-Worker-130/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-134
+[05Dec2024 18:53:47.386] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/51445, l='ServerLevel[world]', x=-8565.70, y=216.00, z=-6692.18] died, message: 'Cleric was slain by Zombie Lumberjack'
+[05Dec2024 18:53:53.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has made the advancement [They Have a Cave Troll!]
+[05Dec2024 18:53:55.033] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/51419, l='ServerLevel[world]', x=-8578.34, y=216.00, z=-6694.56] died, message: 'Butcher was slain by Zombie Lumberjack'
+[05Dec2024 18:54:16.333] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/51418, l='ServerLevel[world]', x=-8579.87, y=216.00, z=-6681.32] died, message: 'Librarian was slain by Zombie Lumberjack'
+[05Dec2024 18:54:31.642] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 18:54:31.671] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 18:55:05.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Gave 180000 experience points to Tomas_michele]
+[05Dec2024 18:55:08.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Survival Mode]
+[05Dec2024 18:55:10.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Creative Mode]
+[05Dec2024 18:55:42.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Survival Mode]
+[05Dec2024 18:56:06.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was slain by Nightmare Stalker
+[05Dec2024 18:56:08.304] [Server thread/DEBUG] [twilightforest/]: Player Tomas_michele (cb6dca87-9738-3563-9972-c3620c976856) respawned and received items held in storage
+[05Dec2024 18:56:12.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was slain by Nightmare Stalker
+[05Dec2024 18:56:14.174] [Server thread/DEBUG] [twilightforest/]: Player Tomas_michele (cb6dca87-9738-3563-9972-c3620c976856) respawned and received items held in storage
+[05Dec2024 18:56:28.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele fell from a high place
+[05Dec2024 18:56:29.534] [Server thread/DEBUG] [twilightforest/]: Player Tomas_michele (cb6dca87-9738-3563-9972-c3620c976856) respawned and received items held in storage
+[05Dec2024 18:56:42.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Gave 180000 experience points to Tomas_michele]
+[05Dec2024 18:57:52.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Creative Mode]
+[05Dec2024 18:58:01.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Survival Mode]
+[05Dec2024 18:58:37.841] [IO-Worker-134/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-135
+[05Dec2024 18:58:53.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was slain by Nightmare Stalker
+[05Dec2024 18:58:54.962] [Server thread/DEBUG] [twilightforest/]: Player Tomas_michele (cb6dca87-9738-3563-9972-c3620c976856) respawned and received items held in storage
+[05Dec2024 18:59:09.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele withered away whilst fighting Nightmare Stalker
+[05Dec2024 18:59:10.647] [Server thread/DEBUG] [twilightforest/]: Player Tomas_michele (cb6dca87-9738-3563-9972-c3620c976856) respawned and received items held in storage
+[05Dec2024 18:59:14.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Creative Mode]
+[05Dec2024 18:59:31.589] [IO-Worker-134/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-136
+[05Dec2024 18:59:31.639] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 18:59:31.666] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 19:01:50.444] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[05Dec2024 19:01:50.445] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[05Dec2024 19:01:50.967] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_04
+[05Dec2024 19:01:51.256] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:memorial_tree/memorial_tree_01
+[05Dec2024 19:01:51.481] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:mushroom_grave/mushroom_grave_02
+[05Dec2024 19:01:53.130] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_5
+[05Dec2024 19:02:58.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Survival Mode]
+[05Dec2024 19:03:19.588] [IO-Worker-127/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-137
+[05Dec2024 19:03:19.893] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: B3njaxx_11 moved too quickly! -20.407127732436493,152.31936305846455,0.3868500457256232
+[05Dec2024 19:03:20.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele fell from a high place
+[05Dec2024 19:03:22.332] [Server thread/DEBUG] [twilightforest/]: Player Tomas_michele (cb6dca87-9738-3563-9972-c3620c976856) respawned and received items held in storage
+[05Dec2024 19:03:32.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
+[05Dec2024 19:03:53.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was doomed to fall by B3njaxx_11
+[05Dec2024 19:03:54.681] [Server thread/DEBUG] [twilightforest/]: Player Tomas_michele (cb6dca87-9738-3563-9972-c3620c976856) respawned and received items held in storage
+[05Dec2024 19:04:23.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was doomed to fall by B3njaxx_11
+[05Dec2024 19:04:25.272] [Server thread/DEBUG] [twilightforest/]: Player Tomas_michele (cb6dca87-9738-3563-9972-c3620c976856) respawned and received items held in storage
+[05Dec2024 19:04:31.641] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 19:04:31.667] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 19:04:37.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was roasted by B3njaxx_11's dragon breath
+[05Dec2024 19:04:38.630] [Server thread/DEBUG] [twilightforest/]: Player Tomas_michele (cb6dca87-9738-3563-9972-c3620c976856) respawned and received items held in storage
+[05Dec2024 19:05:37.289] [IO-Worker-134/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-138
+[05Dec2024 19:05:58.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Spectator Mode]
+[05Dec2024 19:06:03.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
+[05Dec2024 19:06:20.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Teleported B3njaxx_11 to Tomas_michele]
+[05Dec2024 19:07:06.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was pummeled by B3njaxx_11
+[05Dec2024 19:07:08.028] [Server thread/DEBUG] [twilightforest/]: Player Tomas_michele (cb6dca87-9738-3563-9972-c3620c976856) respawned and received items held in storage
+[05Dec2024 19:07:52.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> aa
+[05Dec2024 19:08:08.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Spectator Mode]
+[05Dec2024 19:08:09.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
+[05Dec2024 19:08:10.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Creative Mode]
+[05Dec2024 19:09:31.587] [IO-Worker-134/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-139
+[05Dec2024 19:09:31.634] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 19:09:31.662] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 19:10:03.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Spectator Mode]
+[05Dec2024 19:10:45.440] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tomas_michele lost connection: Disconnected
+[05Dec2024 19:10:45.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele left the game
