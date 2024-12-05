@@ -936,6 +936,12 @@
     },
     "done": true
   },
+  "deeperdarker:main/kill_warden": {
+    "criteria": {
+      "warden": "2024-12-05 16:58:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2024-12-05 15:56:50 +0000"
@@ -953,6 +959,12 @@
       "wheat": "2024-12-05 16:24:32 +0000"
     },
     "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "warden": "2024-12-05 16:58:28 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

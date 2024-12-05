@@ -1716,3 +1716,46 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [05Dec2024 16:48:58.539] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8559, y=-51, z=-6698} BlockPos{x=-8561, y=-52, z=-6699}
 [05Dec2024 16:48:58.570] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8560, y=-51, z=-6697} BlockPos{x=-8561, y=-52, z=-6699}
 [05Dec2024 16:48:58.618] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8560, y=-51, z=-6697} BlockPos{x=-8561, y=-52, z=-6699}
+[05Dec2024 16:50:00.639] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8562, y=-51, z=-6696} BlockPos{x=-8561, y=-52, z=-6695}
+[05Dec2024 16:50:01.638] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8558, y=-49, z=-6694} BlockPos{x=-8558, y=-51, z=-6694}
+[05Dec2024 16:50:01.689] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8558, y=-49, z=-6694} BlockPos{x=-8558, y=-51, z=-6694}
+[05Dec2024 16:50:35.839] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8572, y=-51, z=-6711} BlockPos{x=-8573, y=-52, z=-6709}
+[05Dec2024 16:50:37.359] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8578, y=-51, z=-6711} BlockPos{x=-8579, y=-51, z=-6710}
+[05Dec2024 16:54:36.740] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8593, y=-51, z=-6668} BlockPos{x=-8593, y=-52, z=-6666}
+[05Dec2024 16:54:36.798] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8593, y=-51, z=-6668} BlockPos{x=-8593, y=-52, z=-6666}
+[05Dec2024 16:54:36.848] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8593, y=-51, z=-6668} BlockPos{x=-8593, y=-52, z=-6666}
+[05Dec2024 16:54:36.891] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8593, y=-51, z=-6668} BlockPos{x=-8593, y=-52, z=-6666}
+[05Dec2024 16:54:36.921] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8593, y=-51, z=-6668} BlockPos{x=-8593, y=-52, z=-6666}
+[05Dec2024 16:54:42.991] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8602, y=-51, z=-6669} BlockPos{x=-8600, y=-52, z=-6666}
+[05Dec2024 16:55:01.639] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8596, y=-48, z=-6670} BlockPos{x=-8595, y=-50, z=-6671}
+[05Dec2024 16:55:03.441] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8597, y=-48, z=-6670} BlockPos{x=-8598, y=-49, z=-6670}
+[05Dec2024 16:55:58.428] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tomas_michele[/127.78.17.184:36109] logged in with entity id 21684 at (-8552.387357727408, 200.0, -6698.988798034053)
+[05Dec2024 16:55:58.430] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Tomas_michele
+[05Dec2024 16:55:58.431] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Tomas_michele
+[05Dec2024 16:55:58.431] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Tomas_michele
+[05Dec2024 16:55:58.432] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Tomas_michele
+[05Dec2024 16:55:58.434] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Tomas_michele
+[05Dec2024 16:55:58.436] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Tomas_michele
+[05Dec2024 16:55:58.436] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Tomas_michele
+[05Dec2024 16:55:58.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele joined the game
+[05Dec2024 16:55:58.502] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[05Dec2024 16:56:25.950] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8615, y=-51, z=-6653} BlockPos{x=-8616, y=-52, z=-6653}
+[05Dec2024 16:57:06.067] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8588, y=-50, z=-6639} BlockPos{x=-8588, y=-51, z=-6641}
+[05Dec2024 16:57:10.199] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8588, y=-49, z=-6639} BlockPos{x=-8587, y=-50, z=-6640}
+[05Dec2024 16:57:10.241] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8588, y=-49, z=-6639} BlockPos{x=-8587, y=-50, z=-6640}
+[05Dec2024 16:57:10.821] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8587, y=-49, z=-6637} BlockPos{x=-8586, y=-48, z=-6640}
+[05Dec2024 16:57:10.873] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8587, y=-49, z=-6637} BlockPos{x=-8586, y=-48, z=-6640}
+[05Dec2024 16:57:10.948] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8587, y=-49, z=-6637} BlockPos{x=-8586, y=-48, z=-6640}
+[05Dec2024 16:57:18.942] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8582, y=-51, z=-6634} BlockPos{x=-8584, y=-53, z=-6633}
+[05Dec2024 16:57:18.995] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8582, y=-51, z=-6634} BlockPos{x=-8584, y=-53, z=-6633}
+[05Dec2024 16:57:19.042] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8582, y=-51, z=-6634} BlockPos{x=-8584, y=-53, z=-6633}
+[05Dec2024 16:57:36.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 was slain by Warden
+[05Dec2024 16:57:36.389] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for B3njaxx_11 with unique ID travelersbackpack.standard_05.12.2024-16.57.36.dat
+[05Dec2024 16:57:36.501] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[05Dec2024 16:57:36.501] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[05Dec2024 16:57:36.502] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[05Dec2024 16:57:36.502] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[05Dec2024 16:57:36.502] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 2 | client: 2
+[05Dec2024 16:57:44.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Creative Mode]
+[05Dec2024 16:58:28.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has completed the challenge [Phantom Thief]
+[05Dec2024 16:58:31.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
