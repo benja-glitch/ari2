@@ -2003,3 +2003,30 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [05Dec2024 18:17:44.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has reached the goal [Unbreaking One Million!!]
 [05Dec2024 18:18:27.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Creative Mode]
 [05Dec2024 18:20:57.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> a
+[05Dec2024 18:21:12.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> ae
+[05Dec2024 18:21:29.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> a
+[05Dec2024 18:21:40.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> e
+[05Dec2024 18:22:08.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> e
+[05Dec2024 18:25:27.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has reached the goal [Dark Creator]
+[05Dec2024 18:26:04.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 was shot by Skeleton
+[05Dec2024 18:26:04.841] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for B3njaxx_11 with unique ID travelersbackpack.standard_05.12.2024-18.26.04.dat
+[05Dec2024 18:26:10.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Spectator Mode]
+[05Dec2024 18:26:27.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Successfully restored B3njaxx_11's items]
+[05Dec2024 18:26:33.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Creative Mode]
+[05Dec2024 18:28:26.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Spectator Mode]
+[05Dec2024 18:28:28.761] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: B3njaxx_11 moved too quickly! 5.455345245127319,50.0,-83.62152619156132
+[05Dec2024 18:28:31.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Creative Mode]
+[05Dec2024 18:28:49.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Leveling Up]
+[05Dec2024 18:29:03.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Spectator Mode]
+[05Dec2024 18:29:08.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Cover Me with Diamonds]
+[05Dec2024 18:29:08.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Creative Mode]
+[05Dec2024 18:29:35.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Immovable]
+[05Dec2024 18:29:36.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Spectator Mode]
+[05Dec2024 18:29:50.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Creative Mode]
+[05Dec2024 18:29:54.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Spectator Mode]
+[05Dec2024 18:30:00.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Creative Mode]
+[05Dec2024 18:30:08.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Gave 10000 experience points to B3njaxx_11]
+[05Dec2024 18:30:29.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Gave 10000 experience points to B3njaxx_11]
+[05Dec2024 18:30:49.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Spectator Mode]
+[05Dec2024 18:31:04.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Creative Mode]
+[05Dec2024 18:31:10.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Survival Mode]
