@@ -432,6 +432,12 @@
     },
     "done": false
   },
+  "evilcraft:fart": {
+    "criteria": {
+      "criteria_0": "2024-12-05 00:37:19 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:main/root": {
     "criteria": {
       "deep_dark": "2024-12-04 23:38:21 +0000"

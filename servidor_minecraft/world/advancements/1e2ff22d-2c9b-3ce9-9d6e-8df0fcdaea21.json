@@ -301,6 +301,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2024-12-05 00:33:45 +0000",
       "minecraft:skeleton": "2024-12-03 21:07:49 +0000",
       "minecraft:ghast": "2024-12-05 00:29:50 +0000",
       "minecraft:magma_cube": "2024-12-03 22:31:26 +0000",
@@ -698,7 +699,8 @@
     "criteria": {
       "obtain_topaz_gem": "2024-12-04 23:35:33 +0000",
       "obtain_tourmaline": "2024-12-04 23:49:25 +0000",
-      "obtain_ruby_gem": "2024-12-04 23:57:39 +0000"
+      "obtain_ruby_gem": "2024-12-04 23:57:39 +0000",
+      "obtain_sapphire_gem": "2024-12-05 00:34:16 +0000"
     },
     "done": false
   },
@@ -711,6 +713,12 @@
   "evilcraft:first_age": {
     "criteria": {
       "criteria_0": "2024-12-04 23:36:38 +0000"
+    },
+    "done": true
+  },
+  "mores:eat_silver_apple": {
+    "criteria": {
+      "requirement": "2024-12-05 00:33:52 +0000"
     },
     "done": true
   },
@@ -738,6 +746,12 @@
     },
     "done": true
   },
+  "evilcraft:evil_source": {
+    "criteria": {
+      "criteria_0": "2024-12-05 00:32:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2024-12-05 00:17:10 +0000"
@@ -747,6 +761,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2024-12-05 00:17:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-05 00:33:52 +0000"
     },
     "done": true
   },
@@ -799,6 +819,12 @@
   "mores:obtain_ruby": {
     "criteria": {
       "obtain_ruby_gem": "2024-12-04 23:57:39 +0000"
+    },
+    "done": true
+  },
+  "mores:obtain_sapphire": {
+    "criteria": {
+      "obtain_sapphire_gem": "2024-12-05 00:34:16 +0000"
     },
     "done": true
   },

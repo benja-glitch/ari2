@@ -20788,3 +20788,107 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [05Dec2024 00:35:48.272] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
 [05Dec2024 00:36:05.346] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
 [05Dec2024 00:36:05.350] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[05Dec2024 00:36:25.681] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 00:36:25.709] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 00:36:39.925] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[05Dec2024 00:36:54.374] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[05Dec2024 00:37:18.823] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[05Dec2024 00:37:19.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has completed the challenge [Learn to Fart]
+[05Dec2024 00:37:51.486] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[05Dec2024 00:38:00.970] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[05Dec2024 00:38:01.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 burned to death
+[05Dec2024 00:38:02.782] [IO-Worker-116/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-119
+[05Dec2024 00:38:03.548] [Server thread/DEBUG] [twilightforest/]: Player B3njaxx_11 (1e2ff22d-2c9b-3ce9-9d6e-8df0fcdaea21) respawned and received items held in storage
+[05Dec2024 00:38:34.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set 28 experience levels on B3njaxx_11]
+[05Dec2024 00:38:39.872] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[05Dec2024 00:38:50.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set 28 experience levels on B3njaxx_11]
+[05Dec2024 00:38:51.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Teleported Tomas_michele to B3njaxx_11]
+[05Dec2024 00:39:16.221] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[05Dec2024 00:39:43.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Gave 1000 experience points to B3njaxx_11]
+[05Dec2024 00:39:45.067] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[05Dec2024 00:39:47.220] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[05Dec2024 00:40:28.551] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[05Dec2024 00:40:39.716] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[05Dec2024 00:41:11.164] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[05Dec2024 00:41:16.362] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[05Dec2024 00:41:25.617] [IO-Worker-116/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-121
+[05Dec2024 00:41:25.617] [IO-Worker-119/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-120
+[05Dec2024 00:41:25.670] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 00:41:25.698] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 00:41:33.815] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[05Dec2024 00:41:33.820] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[05Dec2024 00:41:43.420] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[05Dec2024 00:41:46.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 was slain by Blaze
+[05Dec2024 00:41:46.099] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[05Dec2024 00:41:46.099] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[05Dec2024 00:41:46.099] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[05Dec2024 00:41:46.099] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[05Dec2024 00:41:46.099] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 2 | client: 2
+[05Dec2024 00:41:47.972] [Server thread/DEBUG] [twilightforest/]: Player B3njaxx_11 (1e2ff22d-2c9b-3ce9-9d6e-8df0fcdaea21) respawned and received items held in storage
+[05Dec2024 00:41:52.421] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[05Dec2024 00:42:31.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> aa
+[05Dec2024 00:42:38.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tomas_michele> bb
+[05Dec2024 00:42:44.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Teleported B3njaxx_11 to Tomas_michele]
+[05Dec2024 00:42:55.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was slain by Blaze
+[05Dec2024 00:42:55.827] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tomas_michele moved wrongly!
+[05Dec2024 00:42:57.459] [Server thread/DEBUG] [twilightforest/]: Player Tomas_michele (cb6dca87-9738-3563-9972-c3620c976856) respawned and received items held in storage
+[05Dec2024 00:42:57.630] [IO-Worker-109/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-122
+[05Dec2024 00:42:58.901] [IO-Worker-116/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-123
+[05Dec2024 00:42:58.907] [IO-Worker-109/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-124
+[05Dec2024 00:42:58.912] [IO-Worker-116/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-125
+[05Dec2024 00:43:13.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Teleported Tomas_michele to B3njaxx_11]
+[05Dec2024 00:43:14.216] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[05Dec2024 00:43:23.370] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[05Dec2024 00:43:27.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 was burnt to a crisp whilst fighting Blaze
+[05Dec2024 00:43:28.952] [Server thread/DEBUG] [twilightforest/]: Player B3njaxx_11 (1e2ff22d-2c9b-3ce9-9d6e-8df0fcdaea21) respawned and received items held in storage
+[05Dec2024 00:43:31.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Teleported B3njaxx_11 to -1130.500000, 75.000000, -893.500000]
+[05Dec2024 00:43:34.529] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/common/iron_golem
+[05Dec2024 00:43:36.453] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_4
+[05Dec2024 00:43:36.484] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_3
+[05Dec2024 00:43:36.491] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_1
+[05Dec2024 00:43:36.504] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_1
+[05Dec2024 00:43:36.507] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_0
+[05Dec2024 00:43:36.507] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_2
+[05Dec2024 00:43:42.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 was shot by Skeleton
+[05Dec2024 00:43:45.058] [Server thread/DEBUG] [twilightforest/]: Player B3njaxx_11 (1e2ff22d-2c9b-3ce9-9d6e-8df0fcdaea21) respawned and received items held in storage
+[05Dec2024 00:43:55.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 was slain by Blaze
+[05Dec2024 00:43:58.608] [Server thread/DEBUG] [twilightforest/]: Player B3njaxx_11 (1e2ff22d-2c9b-3ce9-9d6e-8df0fcdaea21) respawned and received items held in storage
+[05Dec2024 00:44:01.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Creative Mode]
+[05Dec2024 00:44:26.649] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[05Dec2024 00:44:27.919] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[05Dec2024 00:44:28.369] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[05Dec2024 00:44:34.354] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[05Dec2024 00:44:36.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
+[05Dec2024 00:44:38.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Defunct Machinery]
+[05Dec2024 00:44:44.973] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[05Dec2024 00:44:44.975] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[05Dec2024 00:44:48.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has made the advancement [Into Fire]
+[05Dec2024 00:44:53.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was burnt to a crisp whilst fighting Blaze
+[05Dec2024 00:44:55.687] [Server thread/DEBUG] [twilightforest/]: Player Tomas_michele (cb6dca87-9738-3563-9972-c3620c976856) respawned and received items held in storage
+[05Dec2024 00:45:15.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Teleported Tomas_michele to B3njaxx_11]
+[05Dec2024 00:45:18.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has made the advancement [Massive Improvement]
+[05Dec2024 00:45:23.130] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[05Dec2024 00:45:25.486] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[05Dec2024 00:45:26.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 was fireballed by Blaze
+[05Dec2024 00:45:26.151] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[05Dec2024 00:45:26.151] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 7 is dual wielding: false
+[05Dec2024 00:45:26.152] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[05Dec2024 00:45:26.152] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[05Dec2024 00:45:26.152] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 2 | client: 2
+[05Dec2024 00:45:26.700] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[05Dec2024 00:45:26.700] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 8 is dual wielding: false
+[05Dec2024 00:45:26.700] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[05Dec2024 00:45:26.700] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[05Dec2024 00:45:26.700] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 2 | client: 2
+[05Dec2024 00:45:28.129] [Server thread/DEBUG] [twilightforest/]: Player B3njaxx_11 (1e2ff22d-2c9b-3ce9-9d6e-8df0fcdaea21) respawned and received items held in storage
+[05Dec2024 00:45:55.682] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[05Dec2024 00:46:04.119] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[05Dec2024 00:46:04.123] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[05Dec2024 00:46:05.914] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[05Dec2024 00:46:06.370] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[05Dec2024 00:46:11.649] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[05Dec2024 00:46:12.570] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[05Dec2024 00:46:13.623] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[05Dec2024 00:46:15.863] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[05Dec2024 00:46:18.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 burned to death
+[05Dec2024 00:46:20.092] [Server thread/DEBUG] [twilightforest/]: Player B3njaxx_11 (1e2ff22d-2c9b-3ce9-9d6e-8df0fcdaea21) respawned and received items held in storage

@@ -45,3 +45,44 @@
 [05Dec2024 00:34:45.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was slain by Zombie
 [05Dec2024 00:35:35.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Spectator Mode]
 [05Dec2024 00:35:40.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
+[05Dec2024 00:37:19.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has completed the challenge [Learn to Fart]
+[05Dec2024 00:38:01.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 burned to death
+[05Dec2024 00:38:34.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set 28 experience levels on B3njaxx_11]
+[05Dec2024 00:38:50.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set 28 experience levels on B3njaxx_11]
+[05Dec2024 00:38:51.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Teleported Tomas_michele to B3njaxx_11]
+[05Dec2024 00:39:43.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Gave 1000 experience points to B3njaxx_11]
+[05Dec2024 00:41:46.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 was slain by Blaze
+[05Dec2024 00:41:46.099] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[05Dec2024 00:41:46.099] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[05Dec2024 00:41:46.099] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[05Dec2024 00:41:46.099] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[05Dec2024 00:41:46.099] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 2 | client: 2
+[05Dec2024 00:42:31.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> aa
+[05Dec2024 00:42:38.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tomas_michele> bb
+[05Dec2024 00:42:44.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Teleported B3njaxx_11 to Tomas_michele]
+[05Dec2024 00:42:55.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was slain by Blaze
+[05Dec2024 00:42:55.827] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tomas_michele moved wrongly!
+[05Dec2024 00:43:13.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Teleported Tomas_michele to B3njaxx_11]
+[05Dec2024 00:43:27.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 was burnt to a crisp whilst fighting Blaze
+[05Dec2024 00:43:31.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Teleported B3njaxx_11 to -1130.500000, 75.000000, -893.500000]
+[05Dec2024 00:43:42.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 was shot by Skeleton
+[05Dec2024 00:43:55.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 was slain by Blaze
+[05Dec2024 00:44:01.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Creative Mode]
+[05Dec2024 00:44:36.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
+[05Dec2024 00:44:38.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Defunct Machinery]
+[05Dec2024 00:44:48.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has made the advancement [Into Fire]
+[05Dec2024 00:44:53.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was burnt to a crisp whilst fighting Blaze
+[05Dec2024 00:45:15.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Teleported Tomas_michele to B3njaxx_11]
+[05Dec2024 00:45:18.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has made the advancement [Massive Improvement]
+[05Dec2024 00:45:26.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 was fireballed by Blaze
+[05Dec2024 00:45:26.151] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[05Dec2024 00:45:26.151] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 7 is dual wielding: false
+[05Dec2024 00:45:26.152] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[05Dec2024 00:45:26.152] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[05Dec2024 00:45:26.152] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 2 | client: 2
+[05Dec2024 00:45:26.700] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[05Dec2024 00:45:26.700] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 8 is dual wielding: false
+[05Dec2024 00:45:26.700] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[05Dec2024 00:45:26.700] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[05Dec2024 00:45:26.700] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 2 | client: 2
+[05Dec2024 00:46:18.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 burned to death
