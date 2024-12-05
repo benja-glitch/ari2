@@ -781,9 +781,21 @@
     },
     "done": false
   },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2024-12-05 01:09:16 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:downer": {
     "criteria": {
       "dorcel": "2024-12-05 00:25:10 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2024-12-05 01:09:16 +0000"
     },
     "done": true
   },
@@ -792,6 +804,12 @@
       "obtain_ruby_shield": "2024-12-05 00:24:56 +0000"
     },
     "done": false
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2024-12-05 01:08:30 +0000"
+    },
+    "done": true
   },
   "irons_spellbooks:irons_spellbooks/spell_book_blaze": {
     "criteria": {
@@ -841,6 +859,12 @@
   "mores:obtain_sapphire": {
     "criteria": {
       "obtain_sapphire_gem": "2024-12-05 00:34:16 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2024-12-05 01:09:16 +0000"
     },
     "done": true
   },

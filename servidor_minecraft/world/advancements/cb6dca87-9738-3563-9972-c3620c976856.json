@@ -609,12 +609,6 @@
     },
     "done": true
   },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:soul_sand_valley": "2024-12-05 01:06:16 +0000"
-    },
-    "done": false
-  },
   "incendium:misc/root": {
     "criteria": {
       "incendium:infernal_dunes": "2024-12-05 01:05:43 +0000"
@@ -629,9 +623,22 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
-      "incendium:infernal_dunes": "2024-12-05 01:05:43 +0000"
+      "incendium:infernal_dunes": "2024-12-05 01:05:43 +0000",
+      "incendium:volcanic_deltas": "2024-12-05 01:16:25 +0000"
     },
     "done": false
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2024-12-05 01:06:16 +0000"
+    },
+    "done": false
+  },
+  "incendium:volcanic_deltas/root": {
+    "criteria": {
+      "incendium:volcanic_deltas": "2024-12-05 01:16:25 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
