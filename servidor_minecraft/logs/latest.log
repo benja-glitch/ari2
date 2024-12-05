@@ -17,3 +17,31 @@
 [05Dec2024 00:20:23.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> aew
 [05Dec2024 00:24:56.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [You Shall Not Pass]
 [05Dec2024 00:25:10.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Downer]
+[05Dec2024 00:26:23.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> aa
+[05Dec2024 00:27:15.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was burnt to a crisp whilst fighting Mother Lava Squid
+[05Dec2024 00:27:25.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 burned to death
+[05Dec2024 00:27:57.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Teleported Tomas_michele to B3njaxx_11]
+[05Dec2024 00:28:27.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 was fireballed by Gboom the Bloated
+[05Dec2024 00:29:09.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Creative Mode]
+[05Dec2024 00:29:22.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
+[05Dec2024 00:29:33.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Creative Mode]
+[05Dec2024 00:29:50.321] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Ghast['Gboom the Bloated'/32175, l='ServerLevel[world]', x=-1148.61, y=113.15, z=-919.41] died: Gboom the Bloated was slain by B3njaxx_11
+[05Dec2024 00:30:09.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has made the advancement [Dennis the Menace]
+[05Dec2024 00:30:15.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was slain by Invading Forlorn
+[05Dec2024 00:30:15.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
+[05Dec2024 00:30:51.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 was slain by Wither Skeleton
+[05Dec2024 00:30:52.156] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[05Dec2024 00:30:52.157] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 3 is dual wielding: false
+[05Dec2024 00:30:52.157] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[05Dec2024 00:30:52.158] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[05Dec2024 00:30:52.158] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 2 | client: 2
+[05Dec2024 00:30:57.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Creative Mode]
+[05Dec2024 00:31:17.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
+[05Dec2024 00:31:46.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Gave 1 [Leviathan Axe] to B3njaxx_11]
+[05Dec2024 00:32:21.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [A True Source of Evil]
+[05Dec2024 00:33:52.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Dennis the Menace]
+[05Dec2024 00:33:52.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Into Fire]
+[05Dec2024 00:34:16.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Massive Improvement]
+[05Dec2024 00:34:45.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was slain by Zombie
+[05Dec2024 00:35:35.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Spectator Mode]
+[05Dec2024 00:35:40.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]

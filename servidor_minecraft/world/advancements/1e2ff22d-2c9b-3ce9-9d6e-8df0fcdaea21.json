@@ -302,6 +302,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-03 21:07:49 +0000",
+      "minecraft:ghast": "2024-12-05 00:29:50 +0000",
       "minecraft:magma_cube": "2024-12-03 22:31:26 +0000",
       "minecraft:piglin_brute": "2024-12-03 21:06:50 +0000",
       "minecraft:spider": "2024-12-03 20:34:25 +0000",
@@ -719,6 +720,12 @@
     },
     "done": true
   },
+  "mores:craft_obsidian_tools": {
+    "criteria": {
+      "craft_obsidian_hoe": "2024-12-05 00:30:25 +0000"
+    },
+    "done": false
+  },
   "mores:obtain_tourmaline": {
     "criteria": {
       "obtain_tourmaline_gem": "2024-12-04 23:49:25 +0000"
@@ -750,6 +757,18 @@
     },
     "done": false
   },
+  "regions_unexplored:downer": {
+    "criteria": {
+      "dorcel": "2024-12-05 00:25:10 +0000"
+    },
+    "done": true
+  },
+  "mores:craft_all_shields": {
+    "criteria": {
+      "obtain_ruby_shield": "2024-12-05 00:24:56 +0000"
+    },
+    "done": false
+  },
   "mores:craft_full_topaz_gear": {
     "criteria": {
       "craft_topaz_chestplate": "2024-12-05 00:10:06 +0000",
@@ -758,6 +777,12 @@
       "craft_topaz_helmet": "2024-12-05 00:14:58 +0000"
     },
     "done": false
+  },
+  "mores:craft_shield": {
+    "criteria": {
+      "obtain_ruby_shield": "2024-12-05 00:24:56 +0000"
+    },
+    "done": true
   },
   "minecraft:nether/find_fortress": {
     "criteria": {
