@@ -443,6 +443,7 @@
       "deciduous_forest": "2024-12-04 23:28:47 +0000",
       "glistering_meadow": "2024-12-05 00:17:25 +0000",
       "infernal_holt": "2024-12-05 00:17:20 +0000",
+      "cold_boreal_taiga": "2024-12-05 20:02:47 +0000",
       "cold_river": "2024-12-03 22:39:20 +0000",
       "pine_slopes": "2024-12-03 21:02:38 +0000",
       "gravel_beach": "2024-12-03 21:44:56 +0000",
@@ -461,6 +462,7 @@
       "maple_forest": "2024-12-03 21:02:52 +0000",
       "mountains": "2024-12-03 21:01:38 +0000",
       "deciduous_forest": "2024-12-04 23:28:47 +0000",
+      "cold_boreal_taiga": "2024-12-05 20:02:47 +0000",
       "cold_river": "2024-12-03 22:39:20 +0000",
       "pine_slopes": "2024-12-03 21:02:38 +0000",
       "gravel_beach": "2024-12-03 21:44:56 +0000",
@@ -1000,6 +1002,12 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_chestplate": "2024-12-05 18:29:08 +0000"
+    },
+    "done": true
+  },
+  "camping:main/get_a_bundle": {
+    "criteria": {
+      "bundle": "2024-12-05 20:01:21 +0000"
     },
     "done": true
   },
