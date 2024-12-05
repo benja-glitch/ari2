@@ -337,6 +337,7 @@
       "honey_bottle": "2024-12-04 23:27:19 +0000",
       "baked_potato": "2024-12-03 21:05:49 +0000",
       "porkchop": "2024-12-03 21:03:36 +0000",
+      "apple": "2024-12-04 23:52:18 +0000",
       "bread": "2024-12-03 20:48:02 +0000",
       "rotten_flesh": "2024-12-03 20:36:56 +0000",
       "salmon": "2024-12-04 23:27:12 +0000"
@@ -348,6 +349,7 @@
       "biomeswevegone:araucaria_savanna": "2024-12-04 23:36:57 +0000",
       "biomeswevegone:coconino_meadow": "2024-12-03 21:34:48 +0000",
       "biomeswevegone:maple_taiga": "2024-12-03 21:17:50 +0000",
+      "biomeswevegone:orchard": "2024-12-04 23:55:17 +0000",
       "biomeswevegone:frosted_coniferous_forest": "2024-12-03 20:51:00 +0000",
       "biomeswevegone:shattered_glacier": "2024-12-03 20:37:58 +0000",
       "biomeswevegone:baobab_savanna": "2024-12-04 23:36:58 +0000",
@@ -690,7 +692,8 @@
   "mores:obtain_all": {
     "criteria": {
       "obtain_topaz_gem": "2024-12-04 23:35:33 +0000",
-      "obtain_tourmaline": "2024-12-04 23:49:25 +0000"
+      "obtain_tourmaline": "2024-12-04 23:49:25 +0000",
+      "obtain_ruby_gem": "2024-12-04 23:57:39 +0000"
     },
     "done": false
   },
@@ -709,6 +712,12 @@
   "mores:obtain_tourmaline": {
     "criteria": {
       "obtain_tourmaline_gem": "2024-12-04 23:49:25 +0000"
+    },
+    "done": true
+  },
+  "mores:obtain_ruby": {
+    "criteria": {
+      "obtain_ruby_gem": "2024-12-04 23:57:39 +0000"
     },
     "done": true
   },
