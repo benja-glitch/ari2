@@ -20608,3 +20608,21 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [05Dec2024 00:01:12.382] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Dec2024 00:01:12.411] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [05Dec2024 00:02:38.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Hot Stuff]
+[05Dec2024 00:06:12.367] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 00:06:12.398] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 00:10:07.362] [IO-Worker-95/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-98
+[05Dec2024 00:11:12.368] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 00:11:12.399] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 00:11:19.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was slain by Dragon
+[05Dec2024 00:11:20.570] [Server thread/DEBUG] [twilightforest/]: Player Tomas_michele (cb6dca87-9738-3563-9972-c3620c976856) respawned and received items held in storage
+[05Dec2024 00:11:20.576] [IO-Worker-98/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-99
+[05Dec2024 00:11:27.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Teleported Tomas_michele to B3njaxx_11]
+[05Dec2024 00:11:31.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was slain by Dragon
+[05Dec2024 00:11:33.119] [Server thread/DEBUG] [twilightforest/]: Player Tomas_michele (cb6dca87-9738-3563-9972-c3620c976856) respawned and received items held in storage
+[05Dec2024 00:11:33.546] [IO-Worker-98/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-100
+[05Dec2024 00:11:33.546] [IO-Worker-94/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-101
+[05Dec2024 00:12:00.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Teleported Tomas_michele to B3njaxx_11]
+[05Dec2024 00:13:34.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Deceived Hopes]
+[05Dec2024 00:15:03.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Teleported Tomas_michele to B3njaxx_11]
+[05Dec2024 00:15:12.964] [IO-Worker-101/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-102
+[05Dec2024 00:15:27.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has made the advancement [Hot Stuff]
