@@ -1563,3 +1563,140 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [05Dec2024 15:55:56.338] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of B3njaxx_11) moved wrongly! 1.3064214373125274
 [05Dec2024 15:56:50.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Take Aim]
 [05Dec2024 15:57:28.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Creative Mode]
+[05Dec2024 15:59:43.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
+[05Dec2024 16:08:00.140] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/5625, l='ServerLevel[world]', x=-8895.84, y=83.20, z=-6479.93]
+[05Dec2024 16:08:00.141] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/5626, l='ServerLevel[world]', x=-8894.82, y=82.90, z=-6480.02]
+[05Dec2024 16:08:00.141] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/5627, l='ServerLevel[world]', x=-8893.51, y=82.61, z=-6480.12]
+[05Dec2024 16:12:05.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Hephaestos]
+[05Dec2024 16:12:33.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [More Metal]
+[05Dec2024 16:13:35.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 was slain by Nightmare Stalker
+[05Dec2024 16:13:35.637] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for B3njaxx_11 with unique ID travelersbackpack.standard_05.12.2024-16.13.35.dat
+[05Dec2024 16:13:35.729] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[05Dec2024 16:13:35.730] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 3 is dual wielding: false
+[05Dec2024 16:13:35.731] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[05Dec2024 16:13:35.732] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[05Dec2024 16:13:35.733] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 2 | client: 2
+[05Dec2024 16:13:35.906] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[05Dec2024 16:13:35.907] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 4 is dual wielding: false
+[05Dec2024 16:13:35.907] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[05Dec2024 16:13:35.907] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[05Dec2024 16:13:35.907] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 2 | client: 2
+[05Dec2024 16:13:41.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Creative Mode]
+[05Dec2024 16:14:07.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
+[05Dec2024 16:14:15.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 was slain by Nightmare Stalker
+[05Dec2024 16:14:15.398] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[05Dec2024 16:14:15.399] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 7 is dual wielding: false
+[05Dec2024 16:14:15.399] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[05Dec2024 16:14:15.399] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[05Dec2024 16:14:15.399] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 2 | client: 2
+[05Dec2024 16:14:31.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Successfully restored B3njaxx_11's items]
+[05Dec2024 16:15:25.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 was slain by Nightmare Stalker
+[05Dec2024 16:15:25.667] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for B3njaxx_11 with unique ID travelersbackpack.standard_05.12.2024-16.15.25.dat
+[05Dec2024 16:15:39.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Successfully restored B3njaxx_11's items]
+[05Dec2024 16:16:05.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Creative Mode]
+[05Dec2024 16:16:06.538] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tomas_michele[/127.78.17.184:36751] logged in with entity id 8072 at (-8954.314149596217, 72.0, -6710.733884057295)
+[05Dec2024 16:16:06.540] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Tomas_michele
+[05Dec2024 16:16:06.540] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Tomas_michele
+[05Dec2024 16:16:06.541] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Tomas_michele
+[05Dec2024 16:16:06.541] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Tomas_michele
+[05Dec2024 16:16:06.545] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Tomas_michele
+[05Dec2024 16:16:06.549] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Tomas_michele
+[05Dec2024 16:16:06.550] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Tomas_michele
+[05Dec2024 16:16:06.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele joined the game
+[05Dec2024 16:16:06.596] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[05Dec2024 16:16:26.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
+[05Dec2024 16:17:49.791] [Worker-Main-9/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[05Dec2024 16:17:51.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> aa
+[05Dec2024 16:17:56.939] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of B3njaxx_11) moved too quickly! -6.656774683800904,-0.5061265894554339,-7.923829999230293
+[05Dec2024 16:18:09.504] [Worker-Main-33/WARN] [com.craisinlord.integrated_api.IntegratedAPI/]: Integrated API: Empty or nonexistent pool: integrated_villages:mediterranean_village/mobs/villager_priest which is being called from not a SinglePoolElement class
+[05Dec2024 16:18:12.178] [Worker-Main-17/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
+[05Dec2024 16:18:17.821] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of B3njaxx_11) moved too quickly! 10.502706224258873,3.1021520120378767,-0.3017084660777982
+[05Dec2024 16:18:17.822] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of B3njaxx_11) moved too quickly! 11.982617216732251,3.2900615801104607,-0.3305493675370599
+[05Dec2024 16:18:17.822] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of B3njaxx_11) moved too quickly! 13.406421046589458,3.393697931304416,-0.3549430413031587
+[05Dec2024 16:18:17.822] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of B3njaxx_11) moved too quickly! 14.772446562550613,3.4163982834328976,-0.41022197593429155
+[05Dec2024 16:18:17.823] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of B3njaxx_11) moved too quickly! 16.09049491472979,3.3613677005460545,-0.4802036396595213
+[05Dec2024 16:18:17.823] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of B3njaxx_11) moved too quickly! 17.366126458562576,3.2989123275259686,-0.5614273917872197
+[05Dec2024 16:18:17.823] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of B3njaxx_11) moved too quickly! 18.604327524795735,3.229326185923142,-0.6504244491234203
+[05Dec2024 16:18:17.823] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of B3njaxx_11) moved too quickly! 19.809327535838747,3.152891654040161,-0.7452243477173397
+[05Dec2024 16:18:17.823] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of B3njaxx_11) moved too quickly! 20.985618145572516,3.069879928004113,-0.8372568441027397
+[05Dec2024 16:18:17.824] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of B3njaxx_11) moved too quickly! 22.13648423862105,2.9805514645805147,-0.9237772107526325
+[05Dec2024 16:18:17.824] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of B3njaxx_11) moved too quickly! 23.264720206303537,2.8851564064518413,-1.00423912795668
+[05Dec2024 16:18:17.824] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of B3njaxx_11) moved too quickly! 24.372774627601757,2.783934990655027,-1.0792981197892004
+[05Dec2024 16:18:17.825] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of B3njaxx_11) moved too quickly! 25.46283114531616,2.677117940844809,-1.1495387826362276
+[05Dec2024 16:18:17.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of B3njaxx_11) moved too quickly! 26.53683713215287,2.5649268440235318,-1.2154824595709215
+[05Dec2024 16:18:17.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of B3njaxx_11) moved too quickly! 27.589139306288416,2.447574512352375,-1.2308075187556824
+[05Dec2024 16:18:17.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of B3njaxx_11) moved too quickly! 28.62175820351149,2.3252653306349202,-1.2002854031143215
+[05Dec2024 16:18:17.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of B3njaxx_11) moved too quickly! 29.636823553879367,2.1981955900403563,-1.1288767757841924
+[05Dec2024 16:18:17.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of B3njaxx_11) moved too quickly! 31.861662817927936,3.1981955900403563,-0.22545624251051777
+[05Dec2024 16:18:17.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of B3njaxx_11) moved too quickly! 33.939950322072036,4.081763607237008,0.6244032160993811
+[05Dec2024 16:18:17.829] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of B3njaxx_11) moved too quickly! 35.88754296296793,4.853510345972978,1.42649690694725
+[05Dec2024 16:18:17.860] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of B3njaxx_11) moved too quickly! 28.75935154666695,2.691369520344267,2.4524604375837953
+[05Dec2024 16:18:17.882] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of B3njaxx_11) moved too quickly! 30.488613957157213,3.252582710279029,3.169156298216876
+[05Dec2024 16:18:17.981] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of B3njaxx_11) moved too quickly! 32.12712911858944,3.7147398668872142,3.8475065808870568
+[05Dec2024 16:18:17.981] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of B3njaxx_11) moved too quickly! 33.68514588061771,4.081763607237008,4.490586231992893
+[05Dec2024 16:18:18.079] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of B3njaxx_11) moved too quickly! 35.17598835302124,4.357421212833998,5.05356699879394
+[05Dec2024 16:18:37.573] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of B3njaxx_11) moved too quickly! 10.648113249390008,2.1835545191189425,2.5221110540951486
+[05Dec2024 16:18:37.574] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of B3njaxx_11) moved too quickly! 11.812155507088391,2.1804972688413216,2.6953732826632404
+[05Dec2024 16:18:37.574] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of B3njaxx_11) moved too quickly! 12.951485696296004,2.191235331329864,2.8443311368964714
+[05Dec2024 16:18:37.574] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of B3njaxx_11) moved too quickly! 14.06877766218713,2.2145135772290985,2.971614349473384
+[05Dec2024 16:18:37.574] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of B3njaxx_11) moved too quickly! 15.166415939958824,2.250544250738159,3.0795681160643653
+[05Dec2024 16:18:37.574] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of B3njaxx_11) moved too quickly! 17.562870026271412,3.2738224966373934,2.9480151104726247
+[05Dec2024 16:18:37.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of B3njaxx_11) moved too quickly! 19.80126511591152,4.203025187530017,2.8251387310474456
+[05Dec2024 16:18:37.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of B3njaxx_11) moved too quickly! 21.89870318825706,5.0418777136358415,2.71000016706148
+[05Dec2024 16:18:37.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of B3njaxx_11) moved too quickly! 23.870435788956456,5.793957939791596,2.6017621870832954
+[05Dec2024 16:18:37.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of B3njaxx_11) moved too quickly! 25.730064246810798,6.462702047453348,2.4996781480995196
+[05Dec2024 16:18:37.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of B3njaxx_11) moved too quickly! 27.489718227194317,7.051410145355746,2.403082193854061
+[05Dec2024 16:18:37.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of B3njaxx_11) moved too quickly! 29.16021496600115,7.563251657989227,2.311380513718177
+[05Dec2024 16:18:37.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of B3njaxx_11) moved too quickly! 30.751201274477353,8.001270500693636,2.2240435473595426
+[05Dec2024 16:18:37.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of B3njaxx_11) moved too quickly! 32.271280179140376,8.368390049818274,2.140599032859427
+[05Dec2024 16:18:37.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of B3njaxx_11) moved too quickly! 33.72812385926227,8.667417916063656,2.060625807026554
+[05Dec2024 16:18:37.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of B3njaxx_11) moved too quickly! 35.12857436451122,8.901050528799033,1.9837482765169625
+[05Dec2024 16:18:37.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of B3njaxx_11) moved too quickly! 36.478733434960304,9.071877538841022,1.9096314871758295
+[05Dec2024 16:18:37.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of B3njaxx_11) moved too quickly! 37.784042602563204,9.182386046882328,1.8379767268797877
+[05Dec2024 16:18:37.577] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of B3njaxx_11) moved too quickly! 39.049354625652995,9.234964664474688,1.7685176041495652
+[05Dec2024 16:18:37.577] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of B3njaxx_11) moved too quickly! 40.2789971942384,9.231907414197067,1.7010165510564548
+[05Dec2024 16:18:37.577] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of B3njaxx_11) moved too quickly! 41.4768297423816,9.24264547668561,1.635261704516779
+[05Dec2024 16:18:37.577] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of B3njaxx_11) moved too quickly! 42.64629411347596,9.265923722584844,1.5710641250261688
+[05Dec2024 16:18:37.577] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of B3njaxx_11) moved too quickly! 43.790459743548126,9.301954396093905,1.5082553163292687
+[05Dec2024 16:18:37.577] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of B3njaxx_11) moved too quickly! 44.91206395572772,9.283004500009355,1.446685013462229
+[05Dec2024 16:18:37.577] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of B3njaxx_11) moved too quickly! 46.01354789485049,9.27847926516786,1.3862192101269102
+[05Dec2024 16:18:37.577] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of B3njaxx_11) moved too quickly! 47.09708857394435,9.287807475253814,1.3267383995016644
+[05Dec2024 16:18:37.578] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of B3njaxx_11) moved too quickly! 48.164627453283174,9.311085721153049,1.2681360054002653
+[05Dec2024 16:18:37.614] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of B3njaxx_11) moved too quickly! 39.76153526043527,7.216140493135526,-1.111278676130496
+[05Dec2024 16:18:37.659] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of B3njaxx_11) moved too quickly! 40.80207738641002,7.197190597050977,-1.1683990872907088
+[05Dec2024 16:18:37.686] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of B3njaxx_11) moved too quickly! 41.83127015497121,7.192665362209482,-1.2248964770888051
+[05Dec2024 16:18:37.761] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of B3njaxx_11) moved too quickly! 43.96515946707768,8.215943608108716,-1.3420360271238678
+[05Dec2024 16:18:37.797] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of B3njaxx_11) moved too quickly! 45.9693992843313,9.14514629900134,-1.4520584865122146
+[05Dec2024 16:18:37.834] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of B3njaxx_11) moved too quickly! 47.858017678745455,9.983998825107165,-1.5557339242786838
+[05Dec2024 16:18:37.899] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of B3njaxx_11) moved too quickly! 49.643524885297666,10.73607905126292,-1.65374908800095
+[05Dec2024 16:18:37.929] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of B3njaxx_11) moved too quickly! 51.33707753186536,11.404823158924671,-1.7467164191839402
+[05Dec2024 16:19:13.639] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of B3njaxx_11) moved too quickly! 9.300394427153151,3.708674729123146,-0.018610578737025207
+[05Dec2024 16:19:13.669] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon (vehicle of B3njaxx_11) moved too quickly! 10.884717207660287,4.153410454386773,-0.014291739675172721
+[05Dec2024 16:19:38.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 was slain by Nightmare Stalker
+[05Dec2024 16:19:38.436] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for B3njaxx_11 with unique ID travelersbackpack.standard_05.12.2024-16.19.38.dat
+[05Dec2024 16:19:38.576] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[05Dec2024 16:19:38.576] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[05Dec2024 16:19:38.576] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[05Dec2024 16:19:38.576] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[05Dec2024 16:19:38.576] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 2 | client: 2
+[05Dec2024 16:20:13.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 was slain by Nightmare Stalker
+[05Dec2024 16:20:27.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Creative Mode]
+[05Dec2024 16:22:39.357] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tomas_michele lost connection: Disconnected
+[05Dec2024 16:22:39.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele left the game
+[05Dec2024 16:23:01.474] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tomas_michele[/127.78.17.184:44225] logged in with entity id 12680 at (273.69999998807907, 71.0, -489.30000001192093)
+[05Dec2024 16:23:01.476] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Tomas_michele
+[05Dec2024 16:23:01.476] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Tomas_michele
+[05Dec2024 16:23:01.477] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Tomas_michele
+[05Dec2024 16:23:01.477] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Tomas_michele
+[05Dec2024 16:23:01.479] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Tomas_michele
+[05Dec2024 16:23:01.481] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Tomas_michele
+[05Dec2024 16:23:01.481] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Tomas_michele
+[05Dec2024 16:23:01.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele joined the game
+[05Dec2024 16:23:01.515] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[05Dec2024 16:24:14.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Teleported Tomas_michele to 275.500000, 72.000000, -90.500000]
+[05Dec2024 16:24:21.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Teleported Tomas_michele to 275.500000, 72.000000, -492.500000]
+[05Dec2024 16:24:32.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [A Seedy Place]
+[05Dec2024 16:24:37.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Teleported Tomas_michele to B3njaxx_11]
+[05Dec2024 16:25:09.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Survival Mode]
+[05Dec2024 16:25:30.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Successfully restored Tomas_michele's items]
+[05Dec2024 16:29:06.707] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tomas_michele moved too quickly! -10.045492252742406,0.43026858820994107,1.709959249149506
