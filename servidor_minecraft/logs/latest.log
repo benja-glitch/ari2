@@ -221,3 +221,32 @@
 [05Dec2024 01:45:00.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Creative Mode]
 [05Dec2024 01:45:22.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Survival Mode]
 [05Dec2024 01:45:37.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
+[05Dec2024 01:48:10.226] [Worker-Main-3/WARN] [com.craisinlord.integrated_api.IntegratedAPI/]: Integrated API: Empty or nonexistent pool: integrated_villages:mediterranean_village/mobs/villager_priest which is being called from not a SinglePoolElement class
+[05Dec2024 01:48:44.945] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-8922, y=72, z=-7944}
+[05Dec2024 01:48:44.947] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-8922, y=72, z=-7944}
+[05Dec2024 01:48:48.490] [Worker-Main-16/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-538, -481], pos: BlockPos{x=-8603, y=-36, z=-7696}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[05Dec2024 01:48:48.491] [Worker-Main-16/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-538, -481], pos: BlockPos{x=-8604, y=-36, z=-7696}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[05Dec2024 01:48:48.491] [Worker-Main-16/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-538, -481], pos: BlockPos{x=-8605, y=-36, z=-7696}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[05Dec2024 01:48:48.491] [Worker-Main-16/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-538, -481], pos: BlockPos{x=-8601, y=-33, z=-7696}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[05Dec2024 01:48:52.158] [Worker-Main-16/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-8922, y=72, z=-7959}
+[05Dec2024 01:48:52.158] [Worker-Main-16/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-8922, y=72, z=-7959}
+[05Dec2024 01:48:53.653] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tomas_michele moved too quickly! 0.4102662040513678,6.0,-8.287569095144136
+[05Dec2024 01:49:29.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> mythic mounts
+[05Dec2024 01:50:52.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Creative Mode]
+[05Dec2024 01:51:15.647] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: B3njaxx_11 moved too quickly! -46.30000001192093,262.0,34.8085327625713
+[05Dec2024 01:51:17.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
+[05Dec2024 01:54:12.939] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tomas_michele moved too quickly! -9.321754929556846,3.0,-3.162399549042675
+[05Dec2024 01:54:12.970] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2369ms or 47 ticks behind
+[05Dec2024 01:54:14.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Gave 1 [Ancient Knowledge Fragment] to B3njaxx_11]
+[05Dec2024 01:54:14.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Gave 1 [Ancient Knowledge Fragment] to B3njaxx_11]
+[05Dec2024 01:54:15.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Gave 1 [Ancient Knowledge Fragment] to B3njaxx_11]
+[05Dec2024 01:54:37.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Teleported Tomas_michele to B3njaxx_11]
+[05Dec2024 01:54:39.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Creative Mode]
+[05Dec2024 01:54:42.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Survival Mode]
+[05Dec2024 01:55:00.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has made the advancement [Diamonds!]
+[05Dec2024 01:55:11.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has made the advancement [Ice Bucket Challenge]
+[05Dec2024 01:57:11.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has made the advancement [Enchanter]
+[05Dec2024 01:57:42.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was zapped to death by B3njaxx_11
+[05Dec2024 01:58:21.315] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8566, y=216, z=-6693} BlockPos{x=-8566, y=215, z=-6694}
+[05Dec2024 02:00:04.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was melted by B3njaxx_11's poisonous breath
+[05Dec2024 02:07:51.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has made the advancement [A Seedy Place]

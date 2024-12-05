@@ -398,7 +398,8 @@
   "mores:craft_all_horse_armors": {
     "criteria": {
       "craft_amethyst_horse_armor": "2024-12-03 20:38:34 +0000",
-      "craft_emerald_horse_armor": "2024-12-03 20:59:43 +0000"
+      "craft_emerald_horse_armor": "2024-12-03 20:59:43 +0000",
+      "craft_sapphire_horse_armor": "2024-12-05 01:46:56 +0000"
     },
     "done": false
   },
@@ -545,7 +546,8 @@
   },
   "soulsweapons:all_weapons": {
     "criteria": {
-      "leviathan_axe": "2024-12-03 21:32:43 +0000"
+      "leviathan_axe": "2024-12-03 21:32:43 +0000",
+      "draugr": "2024-12-05 02:02:31 +0000"
     },
     "done": false
   },
