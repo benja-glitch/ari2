@@ -346,6 +346,7 @@
       "mutton": "2024-12-05 00:17:22 +0000",
       "bread": "2024-12-03 20:48:02 +0000",
       "rotten_flesh": "2024-12-03 20:36:56 +0000",
+      "glow_berries": "2024-12-05 01:34:13 +0000",
       "salmon": "2024-12-04 23:27:12 +0000"
     },
     "done": false
@@ -743,6 +744,12 @@
     },
     "done": true
   },
+  "mores:craft_full_ruby_gear": {
+    "criteria": {
+      "craft_ruby_leggings": "2024-12-05 01:29:59 +0000"
+    },
+    "done": false
+  },
   "incendium:root": {
     "criteria": {
       "requirement": "2024-12-05 00:17:10 +0000"
@@ -767,6 +774,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2024-12-05 01:35:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2024-12-05 00:33:52 +0000"
@@ -787,6 +800,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-12-05 01:29:50 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:downer": {
     "criteria": {
       "dorcel": "2024-12-05 00:25:10 +0000"
@@ -796,6 +815,12 @@
   "irons_spellbooks:make_inscription_table": {
     "criteria": {
       "inscription_table": "2024-12-05 01:09:16 +0000"
+    },
+    "done": true
+  },
+  "mores:eat_cobalt_apple": {
+    "criteria": {
+      "requirement": "2024-12-05 01:39:02 +0000"
     },
     "done": true
   },
@@ -841,6 +866,12 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2024-12-05 00:19:17 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_legendary": {
+    "criteria": {
+      "requirement": "2024-12-05 01:35:53 +0000"
     },
     "done": true
   },
