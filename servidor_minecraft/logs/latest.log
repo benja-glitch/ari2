@@ -1648,3 +1648,40 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [06Dec2024 16:29:35.152] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 0.312933962000443
 [06Dec2024 16:30:22.276] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved too quickly! 1.464138579572591,-1.4742873341392624,-10.569040067996355
 [06Dec2024 16:32:48.472] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WanderingTrader['Agizahr the Archmage'/3642, l='ServerLevel[world]', x=-2816.10, y=109.00, z=-288.16] died: Agizahr the Archmage was slain by B3njaxx_11
+[06Dec2024 16:35:15.995] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@cdb922[id=<null>,name=Tomas_michele,properties={},legacy=false] (/127.78.17.184:55413) lost connection: Disconnected
+[06Dec2024 16:35:29.067] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tomas_michele[/127.78.17.184:55403] logged in with entity id 4991 at (-647.5137802949907, 43.8125, -809.0280953181605)
+[06Dec2024 16:35:29.069] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Tomas_michele
+[06Dec2024 16:35:29.070] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Tomas_michele
+[06Dec2024 16:35:29.070] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Tomas_michele
+[06Dec2024 16:35:29.070] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Tomas_michele
+[06Dec2024 16:35:29.073] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Tomas_michele
+[06Dec2024 16:35:29.077] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Tomas_michele
+[06Dec2024 16:35:29.077] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Tomas_michele
+[06Dec2024 16:35:29.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele joined the game
+[06Dec2024 16:35:29.172] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[06Dec2024 16:38:02.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Spectator Mode]
+[06Dec2024 16:38:03.778] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: B3njaxx_11 moved too quickly! 0.09337187718119822,-11.243045327124662,-0.3200694062889653
+[06Dec2024 16:38:28.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Creative Mode]
+[06Dec2024 16:39:01.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Survival Mode]
+[06Dec2024 16:40:25.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Spectator Mode]
+[06Dec2024 16:40:36.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Survival Mode]
+[06Dec2024 16:40:54.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Adventure Mode]
+[06Dec2024 16:40:56.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Spectator Mode]
+[06Dec2024 16:41:30.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Survival Mode]
+[06Dec2024 16:41:42.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Spectator Mode]
+[06Dec2024 16:42:14.359] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tomas_michele moved too quickly! -11.586962093063335,0.0,-2.6313696714948946
+[06Dec2024 16:42:22.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Teleported Tomas_michele to B3njaxx_11]
+[06Dec2024 16:42:28.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Survival Mode]
+[06Dec2024 16:42:52.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has made the advancement [This Is The End]
+[06Dec2024 16:43:41.447] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: B3njaxx_11 lost connection: Timed out
+[06Dec2024 16:43:41.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 left the game
+[06Dec2024 16:43:51.800] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: B3njaxx_11[/127.187.236.169:47243] logged in with entity id 8295 at (-2880.699999988079, 47.0, 17.69999998807907)
+[06Dec2024 16:43:51.802] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to B3njaxx_11
+[06Dec2024 16:43:51.803] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to B3njaxx_11
+[06Dec2024 16:43:51.803] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to B3njaxx_11
+[06Dec2024 16:43:51.803] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to B3njaxx_11
+[06Dec2024 16:43:51.806] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to B3njaxx_11
+[06Dec2024 16:43:51.809] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to B3njaxx_11
+[06Dec2024 16:43:51.809] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to B3njaxx_11
+[06Dec2024 16:43:51.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 joined the game
+[06Dec2024 16:43:51.862] [Server thread/INFO] [spawnermod/]: Sending config to player.
