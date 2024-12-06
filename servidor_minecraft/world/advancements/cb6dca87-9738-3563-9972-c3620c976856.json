@@ -323,6 +323,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-03 22:25:20 +0000",
+      "minecraft:guardian": "2024-12-06 17:04:44 +0000",
       "minecraft:spider": "2024-12-05 19:01:22 +0000",
       "minecraft:creeper": "2024-12-04 23:27:54 +0000",
       "minecraft:phantom": "2024-12-06 01:45:15 +0000",
@@ -939,6 +940,12 @@
   "mores:obtain_onyx": {
     "criteria": {
       "obtain_onyx_gem": "2024-12-06 16:42:52 +0000"
+    },
+    "done": true
+  },
+  "paraglider:pray_to_the_goddess": {
+    "criteria": {
+      "bargain": "2024-12-06 17:03:02 +0000"
     },
     "done": true
   },

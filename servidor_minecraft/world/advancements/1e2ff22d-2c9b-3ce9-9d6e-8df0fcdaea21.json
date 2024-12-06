@@ -360,12 +360,14 @@
       "baked_potato": "2024-12-03 21:05:49 +0000",
       "porkchop": "2024-12-03 21:03:36 +0000",
       "apple": "2024-12-04 23:52:18 +0000",
+      "pumpkin_pie": "2024-12-06 17:07:55 +0000",
       "mutton": "2024-12-05 00:17:22 +0000",
       "bread": "2024-12-03 20:48:02 +0000",
       "golden_apple": "2024-12-06 03:27:42 +0000",
       "rotten_flesh": "2024-12-03 20:36:56 +0000",
       "glow_berries": "2024-12-05 01:34:13 +0000",
-      "salmon": "2024-12-04 23:27:12 +0000"
+      "salmon": "2024-12-04 23:27:12 +0000",
+      "enchanted_golden_apple": "2024-12-06 17:05:42 +0000"
     },
     "done": false
   },
@@ -1351,6 +1353,18 @@
       "location0": "2024-12-06 16:54:47 +0000"
     },
     "done": true
+  },
+  "paraglider:pray_to_the_goddess": {
+    "criteria": {
+      "bargain": "2024-12-06 17:02:27 +0000"
+    },
+    "done": true
+  },
+  "mores:craft_all_battleaxes": {
+    "criteria": {
+      "obtain_obsidian_battleaxe": "2024-12-06 17:07:25 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
