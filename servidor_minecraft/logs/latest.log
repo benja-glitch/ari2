@@ -1649,3 +1649,87 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [06Dec2024 01:43:21.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Contained Nebula]
 [06Dec2024 01:46:46.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has completed the challenge [Heat Death of the Universe]
 [06Dec2024 01:48:28.615] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8886, y=78, z=-6448} BlockPos{x=-8888, y=79, z=-6451}
+[06Dec2024 01:50:40.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Summoned new Padded Arrow]
+[06Dec2024 01:51:51.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Spectator Mode]
+[06Dec2024 01:52:02.162] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element betterstrongholds:stronghold took 220 ms
+[06Dec2024 01:52:13.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Teleported B3njaxx_11 to -10591.500000, 81.000000, -5231.500000]
+[06Dec2024 01:52:13.801] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8904ms or 178 ticks behind
+[06Dec2024 01:52:13.825] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tomas_michele moved too quickly! 8.257350419711656,-6.300000697374344,-1.6814299976113034
+[06Dec2024 01:52:13.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: B3njaxx_11 moved too quickly! 0.0,-10.806526110008988,0.0
+[06Dec2024 01:52:22.115] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tomas_michele moved too quickly! 0.1024868999265891,10.990858662297356,-0.035920489463933336
+[06Dec2024 01:52:22.119] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: B3njaxx_11 moved too quickly! 0.0,-10.170007874568697,0.0
+[06Dec2024 01:52:36.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> aa
+[06Dec2024 01:52:38.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Creative Mode]
+[06Dec2024 01:52:43.923] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: B3njaxx_11 lost connection: Timed out
+[06Dec2024 01:52:43.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 left the game
+[06Dec2024 01:53:07.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Survival Mode]
+[06Dec2024 01:53:12.158] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: B3njaxx_11[/127.138.8.222:33807] logged in with entity id 38308 at (-10591.5, 46.90997755485006, -5231.5)
+[06Dec2024 01:53:12.160] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to B3njaxx_11
+[06Dec2024 01:53:12.160] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to B3njaxx_11
+[06Dec2024 01:53:12.161] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to B3njaxx_11
+[06Dec2024 01:53:12.161] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to B3njaxx_11
+[06Dec2024 01:53:12.163] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to B3njaxx_11
+[06Dec2024 01:53:12.165] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to B3njaxx_11
+[06Dec2024 01:53:12.165] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to B3njaxx_11
+[06Dec2024 01:53:12.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 joined the game
+[06Dec2024 01:53:12.205] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[06Dec2024 01:53:25.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Creative Mode]
+[06Dec2024 01:53:34.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Survival Mode]
+[06Dec2024 01:53:40.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Spectator Mode]
+[06Dec2024 01:53:56.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Spectator Mode]
+[06Dec2024 01:54:11.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Survival Mode]
+[06Dec2024 01:54:13.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> aa
+[06Dec2024 01:54:20.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Eye Spy]
+[06Dec2024 01:54:24.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
+[06Dec2024 01:54:30.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Spectator Mode]
+[06Dec2024 01:54:32.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Creative Mode]
+[06Dec2024 01:54:43.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Spectator Mode]
+[06Dec2024 01:54:45.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Survival Mode]
+[06Dec2024 01:55:04.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Spectator Mode]
+[06Dec2024 01:55:05.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Creative Mode]
+[06Dec2024 01:55:41.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Adventure Mode]
+[06Dec2024 01:55:42.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Spectator Mode]
+[06Dec2024 01:55:55.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Spectator Mode]
+[06Dec2024 01:55:56.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
+[06Dec2024 01:56:01.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Teleported Tomas_michele to B3njaxx_11]
+[06Dec2024 01:56:13.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Survival Mode]
+[06Dec2024 01:56:38.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Spectator Mode]
+[06Dec2024 01:56:46.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Spectator Mode]
+[06Dec2024 01:56:53.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
+[06Dec2024 01:57:00.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Hell Week]
+[06Dec2024 01:57:03.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has made the advancement [Eye Spy]
+[06Dec2024 01:57:06.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Survival Mode]
+[06Dec2024 01:58:06.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Spectator Mode]
+[06Dec2024 01:58:08.271] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity CaveSpider['Arag the Lurker'/38352, l='ServerLevel[world]', x=-10584.15, y=-24.00, z=-5250.35] died: Arag the Lurker was slain by Tomas_michele
+[06Dec2024 01:58:24.461] [Worker-Main-86/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-662, -314], pos: BlockPos{x=-10592, y=-29, z=-5020}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[06Dec2024 01:58:24.461] [Worker-Main-86/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-662, -314], pos: BlockPos{x=-10592, y=-29, z=-5021}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[06Dec2024 01:58:24.462] [Worker-Main-86/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-662, -314], pos: BlockPos{x=-10592, y=-29, z=-5022}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[06Dec2024 01:58:24.463] [Worker-Main-86/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-662, -314], pos: BlockPos{x=-10592, y=-26, z=-5018}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[06Dec2024 01:58:39.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has made the advancement [Hell Week]
+[06Dec2024 01:59:10.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
+[06Dec2024 01:59:27.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Teleported Tomas_michele to B3njaxx_11]
+[06Dec2024 02:01:15.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [The End?]
+[06Dec2024 02:01:16.540] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2343ms or 46 ticks behind
+[06Dec2024 02:01:17.608] [Server thread/INFO] [betterendisland/]: Scanning for legacy world dragon fight...
+[06Dec2024 02:01:17.639] [Server thread/INFO] [betterendisland/]: Found that the dragon has not yet been killed in this world.
+[06Dec2024 02:01:18.106] [Server thread/INFO] [betterendisland/]: Portal location is null. Placing manually...
+[06Dec2024 02:01:18.106] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=60, z=0}
+[06Dec2024 02:01:18.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has made the advancement [The End?]
+[06Dec2024 02:01:18.776] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tomas_michele moved too quickly! 10792.322438449564,64.26590000152588,5218.978420607931
+[06Dec2024 02:01:31.849] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[06Dec2024 02:01:31.850] [Server thread/INFO] [betterendisland/]: Found all crystals, starting initial dragon spawn.
+[06Dec2024 02:01:34.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Creative Mode]
+[06Dec2024 02:02:02.009] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=60, z=0}
+[06Dec2024 02:02:04.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Survival Mode]
+[06Dec2024 02:02:07.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Creative Mode]
+[06Dec2024 02:02:16.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Survival Mode]
+[06Dec2024 02:02:20.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 was blown up by B3njaxx_11
+[06Dec2024 02:02:20.776] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for B3njaxx_11 with unique ID travelersbackpack.standard_06.12.2024-02.02.20.dat
+[06Dec2024 02:02:27.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Teleported B3njaxx_11 to 17.500000, 97.000000, 49.500000]
+[06Dec2024 02:06:22.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Creative Mode]
+[06Dec2024 02:06:30.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Creative Mode]
+[06Dec2024 02:07:33.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has made the advancement [Free the End]
+[06Dec2024 02:07:33.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Free the End]
+[06Dec2024 02:07:43.460] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=60, z=0}
+[06Dec2024 02:07:51.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Survival Mode]
+[06Dec2024 02:08:30.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Creative Mode]
