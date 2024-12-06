@@ -367,6 +367,7 @@
       "rotten_flesh": "2024-12-03 20:36:56 +0000",
       "glow_berries": "2024-12-05 01:34:13 +0000",
       "salmon": "2024-12-04 23:27:12 +0000",
+      "golden_carrot": "2024-12-06 17:29:09 +0000",
       "enchanted_golden_apple": "2024-12-06 17:05:42 +0000"
     },
     "done": false
@@ -849,6 +850,7 @@
   },
   "mores:craft_obsidian_tools": {
     "criteria": {
+      "craft_obsidian_shovel": "2024-12-06 17:28:24 +0000",
       "craft_obsidian_hoe": "2024-12-05 00:30:25 +0000"
     },
     "done": false
@@ -1355,18 +1357,6 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/kill_troll": {
-    "criteria": {
-      "killed_fire_dragon": "2024-12-06 17:17:21 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/capsid": {
-    "criteria": {
-      "capsid": "2024-12-06 17:18:33 +0000"
-    },
-    "done": true
-  },
   "paraglider:pray_to_the_goddess": {
     "criteria": {
       "bargain": "2024-12-06 17:02:27 +0000"
@@ -1379,15 +1369,33 @@
     },
     "done": false
   },
-  "deep_dark_regrowth:loot_chest": {
+  "iceandfire:iceandfire/kill_troll": {
     "criteria": {
-      "loot_chest": "2024-12-06 17:19:55 +0000"
+      "killed_fire_dragon": "2024-12-06 17:17:21 +0000"
     },
     "done": true
   },
   "born_in_chaos_v1:the_wind_darkening": {
     "criteria": {
       "the_wind_darkening_0": "2024-12-06 17:17:25 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/capsid": {
+    "criteria": {
+      "capsid": "2024-12-06 17:18:33 +0000"
+    },
+    "done": true
+  },
+  "deep_dark_regrowth:loot_chest": {
+    "criteria": {
+      "loot_chest": "2024-12-06 17:19:55 +0000"
+    },
+    "done": true
+  },
+  "deep_dark_regrowth:ethereum_gem": {
+    "criteria": {
+      "ethereum_gem": "2024-12-06 17:20:04 +0000"
     },
     "done": true
   },
