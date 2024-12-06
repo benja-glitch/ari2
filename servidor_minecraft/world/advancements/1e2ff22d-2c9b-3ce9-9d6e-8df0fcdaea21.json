@@ -322,11 +322,13 @@
       "minecraft:zombified_piglin": "2024-12-06 00:46:21 +0000",
       "minecraft:wither_skeleton": "2024-12-05 00:19:54 +0000",
       "minecraft:husk": "2024-12-03 20:36:34 +0000",
+      "minecraft:shulker": "2024-12-06 03:02:32 +0000",
       "minecraft:cave_spider": "2024-12-05 01:01:47 +0000",
       "minecraft:piglin": "2024-12-03 21:15:17 +0000",
       "minecraft:enderman": "2024-12-03 21:24:08 +0000",
       "minecraft:stray": "2024-12-03 22:33:29 +0000",
       "minecraft:silverfish": "2024-12-06 01:55:02 +0000",
+      "minecraft:endermite": "2024-12-06 02:51:03 +0000",
       "minecraft:zombie": "2024-12-03 20:00:03 +0000",
       "minecraft:zombie_villager": "2024-12-05 18:23:51 +0000"
     },
@@ -353,11 +355,13 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "honey_bottle": "2024-12-04 23:27:19 +0000",
+      "chorus_fruit": "2024-12-06 03:15:02 +0000",
       "baked_potato": "2024-12-03 21:05:49 +0000",
       "porkchop": "2024-12-03 21:03:36 +0000",
       "apple": "2024-12-04 23:52:18 +0000",
       "mutton": "2024-12-05 00:17:22 +0000",
       "bread": "2024-12-03 20:48:02 +0000",
+      "golden_apple": "2024-12-06 03:27:42 +0000",
       "rotten_flesh": "2024-12-03 20:36:56 +0000",
       "glow_berries": "2024-12-05 01:34:13 +0000",
       "salmon": "2024-12-04 23:27:12 +0000"
@@ -413,6 +417,7 @@
   "mores:craft_all_horse_armors": {
     "criteria": {
       "craft_amethyst_horse_armor": "2024-12-03 20:38:34 +0000",
+      "craft_onyx_horse_armor": "2024-12-06 03:02:28 +0000",
       "craft_emerald_horse_armor": "2024-12-03 20:59:43 +0000",
       "craft_sapphire_horse_armor": "2024-12-05 01:46:56 +0000"
     },
@@ -1196,6 +1201,7 @@
   },
   "camping:main/get_all_backpacks": {
     "criteria": {
+      "camping:enderpack": "2024-12-06 03:02:51 +0000",
       "camping:enderbag": "2024-12-06 01:57:00 +0000"
     },
     "done": false
@@ -1227,6 +1233,102 @@
   "mores:obtain_onyx": {
     "criteria": {
       "obtain_onyx_gem": "2024-12-06 02:35:19 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed_by": "2024-12-06 02:47:01 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:mineshafts": {
+    "criteria": {
+      "in_mineshaft_end": "2024-12-06 02:50:48 +0000"
+    },
+    "done": false
+  },
+  "bosses_of_mass_destruction:end/obsidilith_defeat": {
+    "criteria": {
+      "bosses_of_mass_destruction:obsidilith": "2024-12-06 02:55:29 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2024-12-06 02:56:01 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_ruined_citadel": {
+    "criteria": {
+      "citadel": "2024-12-06 03:01:31 +0000"
+    },
+    "done": true
+  },
+  "mores:craft_onyx_horse_armor": {
+    "criteria": {
+      "craft_horse_armor": "2024-12-06 03:02:28 +0000"
+    },
+    "done": true
+  },
+  "camping:main/get_a_enderpack": {
+    "criteria": {
+      "enderpack": "2024-12-06 03:02:51 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_ender_golem": {
+    "criteria": {
+      "endergolem": "2024-12-06 03:04:11 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/labyrinth/loot_simple_dungeon": {
+    "criteria": {
+      "loot_simple_dungeon": "2024-12-06 03:05:40 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_ender_guardian": {
+    "criteria": {
+      "enderguardian": "2024-12-06 03:09:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2024-12-06 03:11:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2024-12-06 03:19:37 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_heavenly_challenger": {
+    "criteria": {
+      "location0": "2024-12-06 03:25:22 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/cosmic_cod": {
+    "criteria": {
+      "capsid": "2024-12-06 03:26:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-12-06 03:28:00 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:double_trouble": {
+    "criteria": {
+      "double_trouble_0": "2024-12-06 03:28:24 +0000"
     },
     "done": true
   },
