@@ -19022,3 +19022,96 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [06Dec2024 17:13:20.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Successfully restored B3njaxx_11's items]
 [06Dec2024 17:13:57.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Spectator Mode]
 [06Dec2024 17:14:08.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Survival Mode]
+[06Dec2024 17:15:03.937] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 17:15:03.964] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 17:15:23.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Teleported Tomas_michele to B3njaxx_11]
+[06Dec2024 17:16:22.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was slain by Skeleton
+[06Dec2024 17:16:24.188] [IO-Worker-62/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-68
+[06Dec2024 17:16:24.211] [Server thread/DEBUG] [twilightforest/]: Player Tomas_michele (cb6dca87-9738-3563-9972-c3620c976856) respawned and received items held in storage
+[06Dec2024 17:16:24.376] [IO-Worker-67/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-69
+[06Dec2024 17:16:25.311] [IO-Worker-68/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-70
+[06Dec2024 17:16:25.321] [IO-Worker-68/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-71
+[06Dec2024 17:17:18.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Teleported 552 entities to B3njaxx_11]
+[06Dec2024 17:17:18.172] [Server thread/WARN] [spawnermod/]: Key=alexsmobs:cosmic_cod was not found when trying to access it! Returning 0
+[06Dec2024 17:17:19.878] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/23272, l='ServerLevel[world]', x=-2878.97, y=27.00, z=-829.70] died, message: 'Librarian burned to death'
+[06Dec2024 17:17:20.386] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/23270, l='ServerLevel[world]', x=-2881.46, y=27.00, z=-826.36] died, message: 'Librarian was blown up by Creeper'
+[06Dec2024 17:17:20.656] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/23268, l='ServerLevel[world]', x=-2880.24, y=26.00, z=-824.59] died, message: 'Librarian was slain by The Prowler'
+[06Dec2024 17:17:20.958] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager MinerVillagerEntity['Miner'/23150, l='ServerLevel[world]', x=-2882.53, y=25.00, z=-822.63] died, message: 'Miner was pummeled by B3njaxx_11'
+[06Dec2024 17:17:21.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [They Have a Cave Troll!]
+[06Dec2024 17:17:21.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was slain by The Prowler
+[06Dec2024 17:17:21.612] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager MinerVillagerEntity['Miner'/23147, l='ServerLevel[world]', x=-2879.47, y=25.00, z=-821.47] died, message: 'Miner was slain by The Prowler'
+[06Dec2024 17:17:22.040] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager MinerVillagerEntity['Miner'/23159, l='ServerLevel[world]', x=-2879.47, y=26.00, z=-824.38] died, message: 'Miner was slain by The Prowler'
+[06Dec2024 17:17:23.307] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager MinerVillagerEntity['Miner'/23162, l='ServerLevel[world]', x=-2883.50, y=27.00, z=-828.53] died, message: 'Miner was pummeled by B3njaxx_11'
+[06Dec2024 17:17:23.604] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager MinerVillagerEntity['Miner'/23154, l='ServerLevel[world]', x=-2880.60, y=27.00, z=-830.53] died, message: 'Miner was pummeled by B3njaxx_11'
+[06Dec2024 17:17:25.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [The Wind Darkening]
+[06Dec2024 17:17:25.592] [Server thread/WARN] [spawnermod/]: Key=alexsmobs:endergrade was not found when trying to access it! Returning 0
+[06Dec2024 17:17:26.001] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/23273, l='ServerLevel[world]', x=-2874.22, y=25.00, z=-827.61] died, message: 'Librarian was slain by Kali the Old'
+[06Dec2024 17:17:26.801] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager MinerVillagerEntity['Miner'/23157, l='ServerLevel[world]', x=-2876.16, y=25.91, z=-828.29] died, message: 'Miner was slain by The Prowler'
+[06Dec2024 17:17:27.803] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/23269, l='ServerLevel[world]', x=-2889.34, y=27.00, z=-836.42] died, message: 'Librarian was incinerated by Fire Dragon'
+[06Dec2024 17:17:28.198] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/23265, l='ServerLevel[world]', x=-2886.50, y=27.00, z=-829.01] died, message: 'Librarian was turned into KFC by Fire Dragon'
+[06Dec2024 17:17:28.497] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/23281, l='ServerLevel[world]', x=-2878.28, y=27.00, z=-839.58] died, message: 'Villager was incinerated by Fire Dragon'
+[06Dec2024 17:17:31.787] [Server thread/DEBUG] [twilightforest/]: Player Tomas_michele (cb6dca87-9738-3563-9972-c3620c976856) respawned and received items held in storage
+[06Dec2024 17:17:32.488] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager MinerVillagerEntity['Miner'/23155, l='ServerLevel[world]', x=-2876.48, y=27.00, z=-838.89] died, message: 'Miner was pummeled by B3njaxx_11'
+[06Dec2024 17:17:37.017] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[06Dec2024 17:17:37.018] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Klaudius Bloodglare'/23520, l='ServerLevel[world]', x=-2872.30, y=27.00, z=-833.70] died: Klaudius Bloodglare was slain by B3njaxx_11
+[06Dec2024 17:17:39.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Creative Mode]
+[06Dec2024 17:17:40.850] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/23280, l='ServerLevel[world]', x=-2900.69, y=26.00, z=-823.22] died, message: 'Villager was slain by Zombie'
+[06Dec2024 17:17:43.061] [IO-Worker-71/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-72
+[06Dec2024 17:17:49.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
+[06Dec2024 17:17:50.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Creative Mode]
+[06Dec2024 17:17:52.294] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager MinerVillagerEntity['Miner'/23168, l='ServerLevel[world]', x=-2883.59, y=28.00, z=-845.41] died, message: 'Miner burned to death'
+[06Dec2024 17:17:54.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Teleported Tomas_michele to B3njaxx_11]
+[06Dec2024 17:17:59.040] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[06Dec2024 17:18:04.109] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[06Dec2024 17:18:04.110] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Shulker['Kali the Old'/23307, l='ServerLevel[world]', x=-2874.50, y=27.00, z=-824.50] died: Kali the Old was slain by B3njaxx_11
+[06Dec2024 17:18:06.198] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/23235, l='ServerLevel[world]', x=-2890.43, y=27.00, z=-772.62] died, message: 'Villager was slain by Zombie'
+[06Dec2024 17:18:08.792] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/23187, l='ServerLevel[world]', x=-2937.27, y=38.00, z=-820.94] died, message: 'Fisherman was slain by Drowned'
+[06Dec2024 17:18:14.870] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[06Dec2024 17:18:14.874] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[06Dec2024 17:18:14.877] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[06Dec2024 17:18:14.880] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[06Dec2024 17:18:14.883] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[06Dec2024 17:18:14.886] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[06Dec2024 17:18:14.889] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[06Dec2024 17:18:14.892] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[06Dec2024 17:18:14.895] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[06Dec2024 17:18:14.898] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[06Dec2024 17:18:14.901] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[06Dec2024 17:18:14.904] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[06Dec2024 17:18:14.906] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[06Dec2024 17:18:14.908] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[06Dec2024 17:18:14.911] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[06Dec2024 17:18:17.715] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[06Dec2024 17:18:17.718] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[06Dec2024 17:18:33.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Capsid-19]
+[06Dec2024 17:18:57.970] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[06Dec2024 17:19:00.631] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[06Dec2024 17:19:12.370] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[06Dec2024 17:19:29.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Survival Mode]
+[06Dec2024 17:19:31.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has made the advancement [More Metal]
+[06Dec2024 17:19:55.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [I Am Loot!]
+[06Dec2024 17:20:03.926] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 17:20:03.950] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 17:20:04.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [The Power Within!]
+[06Dec2024 17:20:34.745] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[06Dec2024 17:20:34.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was blown up by Creeper
+[06Dec2024 17:20:36.352] [Server thread/DEBUG] [twilightforest/]: Player Tomas_michele (cb6dca87-9738-3563-9972-c3620c976856) respawned and received items held in storage
+[06Dec2024 17:20:36.529] [IO-Worker-67/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-73
+[06Dec2024 17:20:43.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Teleported Tomas_michele to B3njaxx_11]
+[06Dec2024 17:20:43.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has made the advancement [I Am Loot!]
+[06Dec2024 17:20:43.193] [IO-Worker-72/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-74
+[06Dec2024 17:21:09.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Creative Mode]
+[06Dec2024 17:21:38.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Survival Mode]
+[06Dec2024 17:22:34.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was blown up by Creeper
+[06Dec2024 17:22:39.462] [Server thread/DEBUG] [twilightforest/]: Player Tomas_michele (cb6dca87-9738-3563-9972-c3620c976856) respawned and received items held in storage
+[06Dec2024 17:22:39.611] [IO-Worker-73/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-75
+[06Dec2024 17:22:39.612] [IO-Worker-74/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-76
+[06Dec2024 17:22:42.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Teleported Tomas_michele to B3njaxx_11]
+[06Dec2024 17:22:45.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Creative Mode]
+[06Dec2024 17:23:11.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Survival Mode]
+[06Dec2024 17:23:41.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has made the advancement [The Power Within!]
+[06Dec2024 17:24:05.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was blown up by Creeper
+[06Dec2024 17:24:07.122] [Server thread/DEBUG] [twilightforest/]: Player Tomas_michele (cb6dca87-9738-3563-9972-c3620c976856) respawned and received items held in storage
+[06Dec2024 17:24:07.223] [IO-Worker-74/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-77
+[06Dec2024 17:24:07.225] [IO-Worker-76/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-78
+[06Dec2024 17:24:11.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Teleported Tomas_michele to B3njaxx_11]

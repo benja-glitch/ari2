@@ -743,6 +743,7 @@
       "obtain_tourmaline": "2024-12-04 23:49:25 +0000",
       "obtain_ruby_gem": "2024-12-04 23:57:39 +0000",
       "obtain_tanzanite_gem": "2024-12-06 00:39:58 +0000",
+      "obtain_tin_ingot": "2024-12-06 17:18:48 +0000",
       "obtain_moissanite_gem": "2024-12-05 17:04:58 +0000",
       "obtain_sapphire_gem": "2024-12-05 00:34:16 +0000",
       "obtain_steel_ingot": "2024-12-05 16:12:05 +0000",
@@ -1354,6 +1355,18 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_troll": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-06 17:17:21 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/capsid": {
+    "criteria": {
+      "capsid": "2024-12-06 17:18:33 +0000"
+    },
+    "done": true
+  },
   "paraglider:pray_to_the_goddess": {
     "criteria": {
       "bargain": "2024-12-06 17:02:27 +0000"
@@ -1365,6 +1378,18 @@
       "obtain_obsidian_battleaxe": "2024-12-06 17:07:25 +0000"
     },
     "done": false
+  },
+  "deep_dark_regrowth:loot_chest": {
+    "criteria": {
+      "loot_chest": "2024-12-06 17:19:55 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2024-12-06 17:17:25 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
