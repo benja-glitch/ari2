@@ -17153,3 +17153,149 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [06Dec2024 16:22:36.176] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 1.0098407481381173
 [06Dec2024 16:22:36.176] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 0.25937358337034766
 [06Dec2024 16:23:20.717] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 0.32785908128835217
+[06Dec2024 16:23:33.504] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of rpgsmw:nephris_tree2
+[06Dec2024 16:23:45.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 1.2116083773266837
+[06Dec2024 16:23:45.247] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 0.7400788507750349
+[06Dec2024 16:23:45.721] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 1.39907765455564
+[06Dec2024 16:23:45.721] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 1.39907765455564
+[06Dec2024 16:23:45.722] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 0.7736655847213569
+[06Dec2024 16:23:45.958] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 4.6625028510914035
+[06Dec2024 16:23:47.624] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 0.9745305300359632
+[06Dec2024 16:23:47.625] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 0.4003511884943691
+[06Dec2024 16:24:07.603] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_4_main
+[06Dec2024 16:24:07.608] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_start
+[06Dec2024 16:24:07.663] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_13
+[06Dec2024 16:24:07.691] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_1
+[06Dec2024 16:24:07.696] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_6_main
+[06Dec2024 16:24:07.737] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_0
+[06Dec2024 16:24:07.786] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mining_system/mining_system_turn_0
+[06Dec2024 16:24:07.795] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:typhon/typhon_part_1
+[06Dec2024 16:24:07.800] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_2
+[06Dec2024 16:24:07.805] [Worker-Main-3/DEBUG] [mixin/]: Mixing StructurePlacementLogging from structureessentials.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[06Dec2024 16:24:21.132] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved too quickly! 6.587216029103729,0.6141758240743727,8.629866236288422
+[06Dec2024 16:24:21.133] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved too quickly! 6.14318400545676,0.5507021669786027,8.05172802043262
+[06Dec2024 16:24:52.114] [IO-Worker-12/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-15
+[06Dec2024 16:24:52.147] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 16:24:52.250] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 16:24:54.512] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 0.37046480709955176
+[06Dec2024 16:24:55.024] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 0.2802886030835907
+[06Dec2024 16:24:55.024] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 2.389347401987834
+[06Dec2024 16:24:55.025] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 2.16053472546389
+[06Dec2024 16:24:55.274] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 1.9658136143455067
+[06Dec2024 16:24:55.274] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 1.7885858101384429
+[06Dec2024 16:24:55.274] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 1.6388474814181109
+[06Dec2024 16:24:55.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 1.516534787178216
+[06Dec2024 16:24:55.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 1.4186632526563017
+[06Dec2024 16:24:55.524] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 1.358878444556467
+[06Dec2024 16:24:55.524] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 1.3020935632603141
+[06Dec2024 16:24:55.524] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 1.2589793401500629
+[06Dec2024 16:25:01.409] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[06Dec2024 16:25:24.326] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 0.3194158577759936
+[06Dec2024 16:25:24.825] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 1.6218542664989855
+[06Dec2024 16:25:24.825] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 1.0579077104850967
+[06Dec2024 16:25:24.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 0.4887633218256724
+[06Dec2024 16:25:26.500] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 0.5165611964140453
+[06Dec2024 16:25:26.774] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 0.5940885019518873
+[06Dec2024 16:25:27.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 1.9917465320678502
+[06Dec2024 16:25:27.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 1.8769191747968534
+[06Dec2024 16:25:27.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 1.7813444244768561
+[06Dec2024 16:26:04.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Gave 1 [Eye of Ender] to B3njaxx_11]
+[06Dec2024 16:26:13.895] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith.ObsidilithEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith.ObsidilithUtils
+[06Dec2024 16:26:21.190] [Server thread/DEBUG] [mixin/]: Mixing alloc.explosion_behavior.EntityExplosionBehaviorMixin from lithium.mixins.json into net.minecraft.world.level.EntityBasedExplosionDamageCalculator
+[06Dec2024 16:26:21.191] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:alloc.explosion_behavior.EntityExplosionBehaviorMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[06Dec2024 16:27:56.463] [IO-Worker-15/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-16
+[06Dec2024 16:27:56.464] [IO-Worker-14/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-17
+[06Dec2024 16:27:59.194] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: B3njaxx_11 moved too quickly! -0.5980224493332571,-13.9424172396292,-1.4514216748799527
+[06Dec2024 16:28:09.479] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[06Dec2024 16:28:49.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 0.9326367057590232
+[06Dec2024 16:28:50.126] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 2.953490282501889
+[06Dec2024 16:28:50.126] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 2.3386209845475605
+[06Dec2024 16:28:50.126] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 1.66712306067393
+[06Dec2024 16:28:50.376] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 6.187400952332382
+[06Dec2024 16:28:50.377] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 5.530296810846721
+[06Dec2024 16:28:50.377] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 4.883792420464033
+[06Dec2024 16:28:50.377] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 4.247771447662217
+[06Dec2024 16:28:50.377] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 3.621825024809823
+[06Dec2024 16:28:50.648] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 4.3483913375222825
+[06Dec2024 16:28:50.648] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 3.45257821268793
+[06Dec2024 16:28:50.648] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 2.9789977221765014
+[06Dec2024 16:28:50.649] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 4.250428910755183
+[06Dec2024 16:28:50.649] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 4.250428910755183
+[06Dec2024 16:28:50.649] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 4.250428910755183
+[06Dec2024 16:28:50.649] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 3.4181338987451944
+[06Dec2024 16:28:50.649] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 2.662664184898397
+[06Dec2024 16:28:50.898] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved too quickly! 7.440954628636291,0.530053000666797,-8.01426373817992
+[06Dec2024 16:28:50.899] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved too quickly! 6.877203049876243,0.45290190370727856,-8.01426373817992
+[06Dec2024 16:29:00.168] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:end_shipwreck/base_plate/spawn
+[06Dec2024 16:29:34.675] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 1.1935298676453385
+[06Dec2024 16:29:34.676] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 0.445807003200116
+[06Dec2024 16:29:35.151] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 0.312933962000443
+[06Dec2024 16:29:35.152] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 0.312933962000443
+[06Dec2024 16:29:39.110] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_ladders_0
+[06Dec2024 16:29:39.117] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:coliseum/coliseum_part_0
+[06Dec2024 16:29:39.123] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_0
+[06Dec2024 16:29:39.128] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_part_0
+[06Dec2024 16:29:39.162] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_0
+[06Dec2024 16:29:39.206] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_crossing_start_0
+[06Dec2024 16:29:39.216] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_0
+[06Dec2024 16:29:39.221] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_0
+[06Dec2024 16:29:39.225] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:ceryneian_hind/ceryneian_hind_part_1
+[06Dec2024 16:29:39.290] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_village/mushroom_village_house_big_0
+[06Dec2024 16:29:39.319] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_0
+[06Dec2024 16:29:39.324] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_well_0
+[06Dec2024 16:29:39.334] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_windmill/illager_windmill_part_0
+[06Dec2024 16:29:39.344] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_street_2
+[06Dec2024 16:29:39.391] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_13
+[06Dec2024 16:29:39.410] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:aviary/aviary_skeleton_melee_1 is being run through DFU (hash 76184c0f1412261cf45fd188ffeab249503dfccc92a85fadebb827039994e693), this will cause launch time delays
+[06Dec2024 16:29:40.080] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:aviary/aviary_guardian_3 is being run through DFU (hash fd735957f86603afed3a446de2e639c712801f9b24be7b3649de67001c4890cc), this will cause launch time delays
+[06Dec2024 16:29:40.115] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:aviary/aviary_skeleton_ranged_0 is being run through DFU (hash 6a2adb914c518d30da53863a850e4f83e6e57ce2e1a863e1532d2301c2c81976), this will cause launch time delays
+[06Dec2024 16:29:40.133] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:aviary/aviary_phantom_0 is being run through DFU (hash ddd97d286d73507d5e40137ee74f035bf60042338304f83d4877a015c660e060), this will cause launch time delays
+[06Dec2024 16:29:40.154] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:aviary/aviary_charged_creeper_0 is being run through DFU (hash 3aee77d2447b8e4743f4f1561454ecac93c904086365e4c7e3f19afd467628c1), this will cause launch time delays
+[06Dec2024 16:29:40.180] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:aviary/aviary_part_10 is being run through DFU (hash c61788dbc9781ccbd741f3ca29a24081352515cd3211c49d8eceba4d20501cc0), this will cause launch time delays
+[06Dec2024 16:29:40.415] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:aviary/aviary_part_26 is being run through DFU (hash 811dd66bf02975b5b17384082dcd56b84213452cf06a5e0491febf5cdec166dc), this will cause launch time delays
+[06Dec2024 16:29:40.424] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:aviary/aviary_part_19 is being run through DFU (hash 1c37324f8bd8c96e3fbccc7b893d29d5fcff251d7adc38abe5a7d6bc4ea7ff21), this will cause launch time delays
+[06Dec2024 16:29:40.473] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:aviary/aviary_part_14 is being run through DFU (hash 5c3693f2cf7ea92fc0b8614066bc04abce0e50699020417c8b5dc85b6e3737b6), this will cause launch time delays
+[06Dec2024 16:29:40.641] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:aviary/aviary_part_5 is being run through DFU (hash 23246be37543310db17cd43b70f1960f5b2f3f004ad3031af7f60c61c9016e81), this will cause launch time delays
+[06Dec2024 16:29:40.882] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:aviary/aviary_part_8 is being run through DFU (hash 2e8a84444ee11aa7fb58e17803ba3ce20439caba6606aa663002e09e3a2b36ad), this will cause launch time delays
+[06Dec2024 16:29:40.964] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:aviary/aviary_part_1 is being run through DFU (hash 5557307e6ca4a765ace2000a84113438d6488939c8495db04a28d0bb48105dee), this will cause launch time delays
+[06Dec2024 16:29:41.103] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:aviary/aviary_part_24 is being run through DFU (hash 5b07eaa6b45dd0c0bb05955709d950f5f3603540c5bb92081acf537e16fa1cbf), this will cause launch time delays
+[06Dec2024 16:29:41.112] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:aviary/aviary_part_9 is being run through DFU (hash 86c99010911c63c167de12ea0b23870e191a26bf1172abc10ce8d8ed9fc12048), this will cause launch time delays
+[06Dec2024 16:29:41.157] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:aviary/aviary_part_7 is being run through DFU (hash e313834607e07bf58b50312e5cb9e24d0cfeb6022ec3f10212070861d741eea6), this will cause launch time delays
+[06Dec2024 16:29:41.274] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:aviary/aviary_part_17 is being run through DFU (hash 10585b15f8b99824959b4f7b1ed3ad004db1962e6030fb838ff2fa5aa36e3816), this will cause launch time delays
+[06Dec2024 16:29:41.315] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:aviary/aviary_part_25 is being run through DFU (hash 70ba0f26e4ee0813dbc7b2af55e3f81ff78d4ab0197cd55650d322043e1f983c), this will cause launch time delays
+[06Dec2024 16:29:41.368] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:aviary/aviary_part_4 is being run through DFU (hash eafa690d9613fd0ede59308b7e20a1efabb9ce3ed019bb6f8e83d73675834ff0), this will cause launch time delays
+[06Dec2024 16:29:41.605] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:aviary/aviary_part_6 is being run through DFU (hash 45a97a4a28a6ee1b5c1362f53b5681171d453b2bd1d3342c489e2eea18df3f9e), this will cause launch time delays
+[06Dec2024 16:29:41.648] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:aviary/aviary_part_23 is being run through DFU (hash d11c03ac4f35e08c52c5f125a541b45863bf23a5e9b8ab50802e398ed7eacfd6), this will cause launch time delays
+[06Dec2024 16:29:41.666] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:aviary/aviary_part_20 is being run through DFU (hash 0fd38be1248a7b997f1136b92fb724c7ac86a1946fed83bdfc022443453cf8e8), this will cause launch time delays
+[06Dec2024 16:29:41.674] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:aviary/aviary_part_15 is being run through DFU (hash b893ecfaa57cd3f175dcb0a4ead77de92bd0299c44d98eb4e1104a82425d874e), this will cause launch time delays
+[06Dec2024 16:29:41.712] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:aviary/aviary_part_18 is being run through DFU (hash ea31bcb04334ba8e5d708b66574843ec285801766ae12dd6b2a00bfce6933801), this will cause launch time delays
+[06Dec2024 16:29:41.720] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:aviary/aviary_part_2 is being run through DFU (hash 577d16f7971495990d474a69ea965ef9351f2b0080794680b1cf33d359715850), this will cause launch time delays
+[06Dec2024 16:29:41.834] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:aviary/aviary_part_12 is being run through DFU (hash 629e5acb5393af8d97aa17e4dd5eead94eed27169589de161de11d63b2f73afa), this will cause launch time delays
+[06Dec2024 16:29:41.957] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:aviary/aviary_part_11 is being run through DFU (hash 86fca8402b9ade98d13ed7ac5e9ec9bb598b212de707167221154ec87d7b1ebc), this will cause launch time delays
+[06Dec2024 16:29:41.994] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:aviary/aviary_part_21 is being run through DFU (hash 44ec451dca6a33681d9d2853bae133524abf196c5cc2fd20fee6d1848dd630ca), this will cause launch time delays
+[06Dec2024 16:29:42.029] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:aviary/aviary_part_3 is being run through DFU (hash ce1d4276a686e2e8be208aee9282b08f14cbabc6ac676166898fe7e30eb7a780), this will cause launch time delays
+[06Dec2024 16:29:42.133] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:aviary/aviary_part_0 is being run through DFU (hash b3aebe234cac5c5255e89311806c3d4980eeb236168fe4c70f821dbb8c621347), this will cause launch time delays
+[06Dec2024 16:29:42.184] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:aviary/aviary_part_16 is being run through DFU (hash f1e091b22a4325595427ab3a51b58515e3578a9e85a6634aeed22b625872e48e), this will cause launch time delays
+[06Dec2024 16:29:42.283] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:aviary/aviary_part_22 is being run through DFU (hash b0d1e1503c78aa2a7d7d9e267897742b108094d789a6d671791ea8414b7a68c0), this will cause launch time delays
+[06Dec2024 16:29:52.141] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 16:29:52.265] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 16:30:13.570] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:archmageboss at BlockPos{x=-2813, y=109, z=-290} at Chest with:minecraft:chests/end_city_treasure
+[06Dec2024 16:30:22.276] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved too quickly! 1.464138579572591,-1.4742873341392624,-10.569040067996355
+[06Dec2024 16:31:37.941] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[06Dec2024 16:31:38.194] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[06Dec2024 16:31:38.442] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[06Dec2024 16:31:38.691] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[06Dec2024 16:31:38.946] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[06Dec2024 16:31:39.195] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[06Dec2024 16:31:39.445] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[06Dec2024 16:31:39.697] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[06Dec2024 16:31:39.945] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[06Dec2024 16:31:40.195] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[06Dec2024 16:31:40.444] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[06Dec2024 16:31:40.694] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[06Dec2024 16:31:40.945] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[06Dec2024 16:31:41.191] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[06Dec2024 16:31:41.443] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[06Dec2024 16:32:33.331] [IO-Worker-17/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-19
+[06Dec2024 16:32:33.331] [IO-Worker-16/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-18
+[06Dec2024 16:32:48.472] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WanderingTrader['Agizahr the Archmage'/3642, l='ServerLevel[world]', x=-2816.10, y=109.00, z=-288.16] died: Agizahr the Archmage was slain by B3njaxx_11

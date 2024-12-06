@@ -1332,5 +1332,11 @@
     },
     "done": true
   },
+  "repurposed_structures:shipwrecks": {
+    "criteria": {
+      "in_shipwreck_end": "2024-12-06 16:22:42 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }

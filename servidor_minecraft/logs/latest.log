@@ -1589,3 +1589,62 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [06Dec2024 16:22:36.176] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 1.0098407481381173
 [06Dec2024 16:22:36.176] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 0.25937358337034766
 [06Dec2024 16:23:20.717] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 0.32785908128835217
+[06Dec2024 16:23:45.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 1.2116083773266837
+[06Dec2024 16:23:45.247] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 0.7400788507750349
+[06Dec2024 16:23:45.721] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 1.39907765455564
+[06Dec2024 16:23:45.721] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 1.39907765455564
+[06Dec2024 16:23:45.722] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 0.7736655847213569
+[06Dec2024 16:23:45.958] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 4.6625028510914035
+[06Dec2024 16:23:47.624] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 0.9745305300359632
+[06Dec2024 16:23:47.625] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 0.4003511884943691
+[06Dec2024 16:24:21.132] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved too quickly! 6.587216029103729,0.6141758240743727,8.629866236288422
+[06Dec2024 16:24:21.133] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved too quickly! 6.14318400545676,0.5507021669786027,8.05172802043262
+[06Dec2024 16:24:54.512] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 0.37046480709955176
+[06Dec2024 16:24:55.024] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 0.2802886030835907
+[06Dec2024 16:24:55.024] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 2.389347401987834
+[06Dec2024 16:24:55.025] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 2.16053472546389
+[06Dec2024 16:24:55.274] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 1.9658136143455067
+[06Dec2024 16:24:55.274] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 1.7885858101384429
+[06Dec2024 16:24:55.274] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 1.6388474814181109
+[06Dec2024 16:24:55.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 1.516534787178216
+[06Dec2024 16:24:55.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 1.4186632526563017
+[06Dec2024 16:24:55.524] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 1.358878444556467
+[06Dec2024 16:24:55.524] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 1.3020935632603141
+[06Dec2024 16:24:55.524] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 1.2589793401500629
+[06Dec2024 16:25:24.326] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 0.3194158577759936
+[06Dec2024 16:25:24.825] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 1.6218542664989855
+[06Dec2024 16:25:24.825] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 1.0579077104850967
+[06Dec2024 16:25:24.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 0.4887633218256724
+[06Dec2024 16:25:26.500] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 0.5165611964140453
+[06Dec2024 16:25:26.774] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 0.5940885019518873
+[06Dec2024 16:25:27.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 1.9917465320678502
+[06Dec2024 16:25:27.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 1.8769191747968534
+[06Dec2024 16:25:27.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 1.7813444244768561
+[06Dec2024 16:26:04.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Gave 1 [Eye of Ender] to B3njaxx_11]
+[06Dec2024 16:26:13.895] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith.ObsidilithEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith.ObsidilithUtils
+[06Dec2024 16:27:59.194] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: B3njaxx_11 moved too quickly! -0.5980224493332571,-13.9424172396292,-1.4514216748799527
+[06Dec2024 16:28:49.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 0.9326367057590232
+[06Dec2024 16:28:50.126] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 2.953490282501889
+[06Dec2024 16:28:50.126] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 2.3386209845475605
+[06Dec2024 16:28:50.126] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 1.66712306067393
+[06Dec2024 16:28:50.376] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 6.187400952332382
+[06Dec2024 16:28:50.377] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 5.530296810846721
+[06Dec2024 16:28:50.377] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 4.883792420464033
+[06Dec2024 16:28:50.377] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 4.247771447662217
+[06Dec2024 16:28:50.377] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 3.621825024809823
+[06Dec2024 16:28:50.648] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 4.3483913375222825
+[06Dec2024 16:28:50.648] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 3.45257821268793
+[06Dec2024 16:28:50.648] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 2.9789977221765014
+[06Dec2024 16:28:50.649] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 4.250428910755183
+[06Dec2024 16:28:50.649] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 4.250428910755183
+[06Dec2024 16:28:50.649] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 4.250428910755183
+[06Dec2024 16:28:50.649] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 3.4181338987451944
+[06Dec2024 16:28:50.649] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 2.662664184898397
+[06Dec2024 16:28:50.898] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved too quickly! 7.440954628636291,0.530053000666797,-8.01426373817992
+[06Dec2024 16:28:50.899] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved too quickly! 6.877203049876243,0.45290190370727856,-8.01426373817992
+[06Dec2024 16:29:34.675] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 1.1935298676453385
+[06Dec2024 16:29:34.676] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 0.445807003200116
+[06Dec2024 16:29:35.151] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 0.312933962000443
+[06Dec2024 16:29:35.152] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved wrongly! 0.312933962000443
+[06Dec2024 16:30:22.276] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of B3njaxx_11) moved too quickly! 1.464138579572591,-1.4742873341392624,-10.569040067996355
+[06Dec2024 16:32:48.472] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WanderingTrader['Agizahr the Archmage'/3642, l='ServerLevel[world]', x=-2816.10, y=109.00, z=-288.16] died: Agizahr the Archmage was slain by B3njaxx_11
