@@ -230,6 +230,7 @@
       "bread": "2024-12-03 22:40:35 +0000",
       "golden_apple": "2024-12-03 22:22:18 +0000",
       "rotten_flesh": "2024-12-03 23:08:23 +0000",
+      "enchanted_golden_apple": "2024-12-06 16:55:18 +0000",
       "carrot": "2024-12-04 23:35:56 +0000"
     },
     "done": false
@@ -922,6 +923,12 @@
       "location0": "2024-12-06 16:49:20 +0000"
     },
     "done": true
+  },
+  "repurposed_structures:shipwrecks": {
+    "criteria": {
+      "in_shipwreck_end": "2024-12-06 16:50:57 +0000"
+    },
+    "done": false
   },
   "repurposed_structures:pyramids": {
     "criteria": {
