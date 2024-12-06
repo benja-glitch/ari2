@@ -17561,3 +17561,420 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [06Dec2024 00:38:36.111] [Server thread/DEBUG] [mixin/]: Mixing alloc.explosion_behavior.EntityExplosionBehaviorMixin from lithium.mixins.json into net.minecraft.world.level.EntityBasedExplosionDamageCalculator
 [06Dec2024 00:38:36.111] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:alloc.explosion_behavior.EntityExplosionBehaviorMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
 [06Dec2024 00:38:48.969] [Worker-Main-12/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:blazeboss at BlockPos{x=-1233, y=53, z=-607} at Chest with:minecraft:chests/nether_bridge
+[06Dec2024 00:39:13.138] [Server thread/DEBUG] [mixin/]: Mixing accessors.item.AccessorCooldownInstance from bookshelf.common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[06Dec2024 00:39:13.139] [Server thread/DEBUG] [mixin/]: Mixing gameplay.CooldownInstanceAccessor from the_bumblezone-common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[06Dec2024 00:39:17.755] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 00:39:17.786] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 00:39:29.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was shot by Skeleton
+[06Dec2024 00:39:31.128] [Server thread/DEBUG] [twilightforest/]: Player Tomas_michele (cb6dca87-9738-3563-9972-c3620c976856) respawned and received items held in storage
+[06Dec2024 00:39:31.660] [IO-Worker-37/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-40
+[06Dec2024 00:39:58.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Nether More]
+[06Dec2024 00:40:31.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Creative Mode]
+[06Dec2024 00:40:57.830] [IO-Worker-39/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-41
+[06Dec2024 00:41:00.014] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/quartz_tower1
+[06Dec2024 00:41:00.026] [Worker-Main-14/DEBUG] [ModernFix/]: Structure incendium:quartz_flats/road1 is being run through DFU (hash 9ed91cd9b1b11f0b14499e3284b37991c870ecf7c8de60d6eb3b001cefc15b87), this will cause launch time delays
+[06Dec2024 00:41:00.868] [Worker-Main-14/DEBUG] [ModernFix/]: Structure incendium:quartz_flats/road2 is being run through DFU (hash a172192c40b194e1a7efd0118c61fbd1b8277fda6c09910d33f9915eeb667faa), this will cause launch time delays
+[06Dec2024 00:41:00.910] [Worker-Main-14/DEBUG] [ModernFix/]: Structure incendium:quartz_flats/well is being run through DFU (hash 17814b351dfdc23f97ff4c90c57fd6fccd27c77f209b48f341d996d8d6c5096b), this will cause launch time delays
+[06Dec2024 00:41:00.957] [Worker-Main-14/DEBUG] [ModernFix/]: Structure incendium:quartz_flats/bone1 is being run through DFU (hash b353f821c40ce8f91fcbf1e88afaf8e27067cc27cb149cdaaae922d7a6a5f875), this will cause launch time delays
+[06Dec2024 00:41:00.974] [Worker-Main-14/DEBUG] [ModernFix/]: Structure incendium:quartz_flats/decor_small1 is being run through DFU (hash 146dd9ca33888fcbb12cb60292ffd9b0dec4c8ffff668d528aae14d56515e9f6), this will cause launch time delays
+[06Dec2024 00:41:01.014] [Worker-Main-14/DEBUG] [ModernFix/]: Structure incendium:quartz_flats/bone2 is being run through DFU (hash 34e9546fddaf31c565cfb15173786f993684009830a803f8d9e0f344091d4cab), this will cause launch time delays
+[06Dec2024 00:41:01.029] [Worker-Main-14/DEBUG] [ModernFix/]: Structure incendium:quartz_flats/small_tower is being run through DFU (hash 92b3be52570f04254e317b339c0ad84268293e096d000fc21f475ca570b833a5), this will cause launch time delays
+[06Dec2024 00:41:01.070] [Worker-Main-14/DEBUG] [ModernFix/]: Structure incendium:quartz_flats/bone3 is being run through DFU (hash 8602149eed6b4101b7bfa324696dc3a3b2eb382af564fa791ca25d6b029af785), this will cause launch time delays
+[06Dec2024 00:41:01.091] [Worker-Main-14/DEBUG] [ModernFix/]: Structure incendium:quartz_flats/road3 is being run through DFU (hash b678dd2d789827fa0df19d8d8b57faf733b4c0b61eeea95f48237194d4b79b32), this will cause launch time delays
+[06Dec2024 00:41:01.138] [Worker-Main-14/DEBUG] [ModernFix/]: Structure incendium:quartz_flats/dungeon2 is being run through DFU (hash 28ffe3135966621ed9516ad3a01ef8b51869327b504eba0612f97caaedf5fc21), this will cause launch time delays
+[06Dec2024 00:41:24.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Radioactive]
+[06Dec2024 00:41:30.889] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/3861, l='ServerLevel[world]', x=-1235.91, y=108.15, z=-759.01] died: Toxic Slime was slain by B3njaxx_11
+[06Dec2024 00:41:43.664] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/origin_2
+[06Dec2024 00:41:43.700] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-42
+[06Dec2024 00:42:12.250] [Worker-Main-12/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:witherskeletonshieldboss at BlockPos{x=-1479, y=59, z=-757} at Chest with:minecraft:chests/nether_bridge
+[06Dec2024 00:43:22.641] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/floors/1x1_l1
+[06Dec2024 00:43:22.676] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor
+[06Dec2024 00:43:56.220] [Worker-Main-13/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:piglinbruteboss at BlockPos{x=-1161, y=82, z=-463} at Chest with:minecraft:chests/bastion_other
+[06Dec2024 00:43:58.571] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[06Dec2024 00:44:17.755] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 00:44:17.791] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 00:44:17.821] [IO-Worker-40/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-43
+[06Dec2024 00:44:17.822] [IO-Worker-40/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-44
+[06Dec2024 00:45:24.618] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Dec2024 00:45:26.946] [Worker-Main-12/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:piglinbruteboss at BlockPos{x=-1067, y=36, z=-569} at Chest with:minecraft:chests/bastion_bridge
+[06Dec2024 00:45:27.724] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[06Dec2024 00:45:27.725] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Gaze the Withering'/4503, l='ServerLevel[world]', x=-1232.48, y=55.20, z=-625.25] died: Gaze the Withering was slain by B3njaxx_11
+[06Dec2024 00:45:27.726] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Dec2024 00:45:43.772] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[06Dec2024 00:45:55.920] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[06Dec2024 00:46:14.039] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Dec2024 00:46:52.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Survival Mode]
+[06Dec2024 00:47:16.396] [IO-Worker-44/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-45
+[06Dec2024 00:47:16.397] [IO-Worker-44/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-46
+[06Dec2024 00:47:16.399] [IO-Worker-37/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-47
+[06Dec2024 00:48:09.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [The Floor is Tears]
+[06Dec2024 00:48:35.945] [Worker-Main-14/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:ghastboss at BlockPos{x=-985, y=69, z=-501} at Chest with:minecraft:chests/bastion_other
+[06Dec2024 00:48:56.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Creative Mode]
+[06Dec2024 00:49:17.811] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 00:49:17.860] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 00:49:21.477] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[06Dec2024 00:49:21.479] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Samuel the Pit Master'/7248, l='ServerLevel[world]', x=-1062.31, y=36.00, z=-566.00] died: Samuel the Pit Master was slain by B3njaxx_11
+[06Dec2024 00:49:21.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Silver McNugget]
+[06Dec2024 00:49:32.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [War Pigs]
+[06Dec2024 00:49:32.977] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[06Dec2024 00:50:17.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has made the advancement [Limit Breaker]
+[06Dec2024 00:50:17.752] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/spiral
+[06Dec2024 00:50:17.764] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/arch
+[06Dec2024 00:50:17.778] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/common
+[06Dec2024 00:51:27.723] [IO-Worker-37/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-48
+[06Dec2024 00:52:07.976] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:the_lab
+[06Dec2024 00:52:07.990] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/towncenter4
+[06Dec2024 00:52:08.140] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:arena
+[06Dec2024 00:52:08.187] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/quartz_tower2
+[06Dec2024 00:52:08.193] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/start1
+[06Dec2024 00:52:08.206] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/quartz_kitchen
+[06Dec2024 00:52:24.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Those Were the Days]
+[06Dec2024 00:52:30.737] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[06Dec2024 00:52:30.737] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[06Dec2024 00:52:48.745] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[06Dec2024 00:54:17.691] [IO-Worker-48/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-49
+[06Dec2024 00:54:17.691] [IO-Worker-46/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-50
+[06Dec2024 00:54:17.756] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 00:54:17.788] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 00:54:35.335] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:nether_horned_statue
+[06Dec2024 00:54:41.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Survival Mode]
+[06Dec2024 00:55:12.841] [IO-Worker-37/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-51
+[06Dec2024 00:55:24.907] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[06Dec2024 00:56:07.243] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[06Dec2024 00:56:07.267] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:lookout_tower
+[06Dec2024 00:56:22.293] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of deep_dark_regrowth:ancient_fossil
+[06Dec2024 00:56:22.295] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of deep_dark_regrowth:creeper_pillar_structure
+[06Dec2024 00:56:22.299] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of deep_dark_regrowth:illager_pillar_structure
+[06Dec2024 00:56:22.302] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of deep_dark_regrowth:subterranean_vault
+[06Dec2024 00:56:22.305] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of deep_dark_regrowth:sculk_heart
+[06Dec2024 00:56:22.306] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of deep_dark_regrowth:capsule_chamber
+[06Dec2024 00:56:22.308] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of deep_dark_regrowth:warden_pillar_structure
+[06Dec2024 00:56:22.309] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of deep_dark_regrowth:wither_pillar_structure
+[06Dec2024 00:57:07.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Spectator Mode]
+[06Dec2024 00:57:11.224] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[06Dec2024 00:57:25.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Survival Mode]
+[06Dec2024 00:57:48.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has reached the goal [Dark Creator]
+[06Dec2024 00:57:58.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has made the advancement [Dark Metallurgy]
+[06Dec2024 00:57:58.326] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[06Dec2024 00:58:32.144] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Dec2024 00:58:33.874] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Dec2024 00:58:37.478] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[06Dec2024 00:58:39.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Spectator Mode]
+[06Dec2024 00:58:58.892] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Dec2024 00:59:02.096] [IO-Worker-50/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-52
+[06Dec2024 00:59:02.787] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[06Dec2024 00:59:09.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Creative Mode]
+[06Dec2024 00:59:17.750] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 00:59:17.785] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 00:59:21.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Creative Mode]
+[06Dec2024 00:59:32.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Spectator Mode]
+[06Dec2024 00:59:46.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Spectator Mode]
+[06Dec2024 01:00:02.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Survival Mode]
+[06Dec2024 01:00:36.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Creative Mode]
+[06Dec2024 01:01:00.667] [Worker-Main-12/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-12 shutdown
+[06Dec2024 01:01:03.106] [Worker-Main-13/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-53
+[06Dec2024 01:02:39.478] [IO-Worker-48/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-54
+[06Dec2024 01:02:50.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Creative Mode]
+[06Dec2024 01:02:54.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
+[06Dec2024 01:03:04.825] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[06Dec2024 01:03:06.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Survival Mode]
+[06Dec2024 01:03:10.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Teleported Tomas_michele to B3njaxx_11]
+[06Dec2024 01:03:10.701] [IO-Worker-48/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-56
+[06Dec2024 01:03:10.701] [IO-Worker-54/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-55
+[06Dec2024 01:03:10.751] [IO-Worker-54/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-57
+[06Dec2024 01:03:18.516] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[06Dec2024 01:03:24.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Spectator Mode]
+[06Dec2024 01:03:45.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
+[06Dec2024 01:03:59.778] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[06Dec2024 01:04:17.668] [IO-Worker-57/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-58
+[06Dec2024 01:04:17.745] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 01:04:17.773] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 01:04:24.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has made the advancement [War Pigs]
+[06Dec2024 01:04:24.835] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[06Dec2024 01:04:43.369] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[06Dec2024 01:05:06.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Teleported Tomas_michele to B3njaxx_11]
+[06Dec2024 01:05:51.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Spectator Mode]
+[06Dec2024 01:06:02.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
+[06Dec2024 01:06:03.569] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[06Dec2024 01:06:29.980] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[06Dec2024 01:06:31.371] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[06Dec2024 01:06:40.625] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[06Dec2024 01:06:53.275] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[06Dec2024 01:07:11.369] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[06Dec2024 01:07:35.175] [IO-Worker-54/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-59
+[06Dec2024 01:07:53.880] [IO-Worker-57/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-60
+[06Dec2024 01:07:53.881] [IO-Worker-57/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-61
+[06Dec2024 01:07:53.882] [IO-Worker-59/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-62
+[06Dec2024 01:07:53.882] [IO-Worker-55/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-63
+[06Dec2024 01:07:54.583] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/generic_trunk
+[06Dec2024 01:07:54.587] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_canopy1
+[06Dec2024 01:07:54.589] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/maple/maple_trunk4
+[06Dec2024 01:07:54.593] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/maple/maple_canopy4
+[06Dec2024 01:07:54.597] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/maple/maple_canopy5
+[06Dec2024 01:07:54.606] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/bush/trunk_bush1
+[06Dec2024 01:07:54.607] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/bush/canopy_bush1
+[06Dec2024 01:07:54.608] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_trunk1
+[06Dec2024 01:07:54.609] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_canopy1
+[06Dec2024 01:07:56.715] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_medium_trunk2
+[06Dec2024 01:07:56.740] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_medium_canopy4
+[06Dec2024 01:07:56.750] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/maple/maple_trunk1
+[06Dec2024 01:07:56.752] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/maple/maple_canopy1
+[06Dec2024 01:07:56.925] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/maple/maple_trunk2
+[06Dec2024 01:07:56.935] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/maple/maple_canopy2
+[06Dec2024 01:07:57.148] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen-shrub/aspen_shrub_trunk1
+[06Dec2024 01:07:57.149] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen-shrub/aspen_shrub_canopy2
+[06Dec2024 01:07:57.149] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen-shrub/aspen_shrub_canopy1
+[06Dec2024 01:07:57.727] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/meadow/meadow_canopy3
+[06Dec2024 01:07:59.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Teleported Tomas_michele to B3njaxx_11]
+[06Dec2024 01:08:49.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has reached the goal [Exorcism]
+[06Dec2024 01:09:17.720] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 01:09:17.754] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 01:10:54.564] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/18230, l='ServerLevel[world]', x=-8603.66, y=195.88, z=-6692.29] died, message: 'Librarian blew up'
+[06Dec2024 01:11:01.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Teleported Tomas_michele to B3njaxx_11]
+[06Dec2024 01:11:02.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Creative Mode]
+[06Dec2024 01:11:23.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has reached the goal [Ferocious Firebird]
+[06Dec2024 01:11:30.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
+[06Dec2024 01:11:56.528] [IO-Worker-62/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-64
+[06Dec2024 01:11:56.545] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mountain_tower
+[06Dec2024 01:12:34.654] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_10
+[06Dec2024 01:13:18.082] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_graveyard/small_graveyard_06
+[06Dec2024 01:13:18.180] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_12
+[06Dec2024 01:13:18.467] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_15
+[06Dec2024 01:13:19.055] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/prairie/prairie_shrub_canopy2
+[06Dec2024 01:13:19.056] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/prairie/prairie_shrub_canopy1
+[06Dec2024 01:13:32.766] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/oak/large_oak_trunk3
+[06Dec2024 01:13:32.773] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/oak/large_oak_canopy3
+[06Dec2024 01:13:32.861] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
+[06Dec2024 01:13:33.667] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:mushroom_grave/mushroom_grave_01
+[06Dec2024 01:13:41.982] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_graveyard/small_graveyard_05
+[06Dec2024 01:13:47.321] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[06Dec2024 01:13:47.334] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_0
+[06Dec2024 01:13:47.348] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[06Dec2024 01:13:47.356] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[06Dec2024 01:13:47.374] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[06Dec2024 01:13:47.514] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
+[06Dec2024 01:13:48.134] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/wreckage_ocean/wreckage_1
+[06Dec2024 01:13:48.140] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:other/desert_temple_mimic/pyramid_main
+[06Dec2024 01:13:49.604] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/birch/birch_yellow_boreal_trunk
+[06Dec2024 01:13:49.606] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/birch/birch_yellow_boreal_canopy
+[06Dec2024 01:13:50.037] [Worker-Main-14/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=-8799, y=-50, z=-6178} at Chest with:graveyard:chests/crypt_loot
+[06Dec2024 01:13:50.091] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/birch/birch_boreal_trunk1
+[06Dec2024 01:13:50.093] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/birch/birch_boreal_canopy1
+[06Dec2024 01:13:51.633] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_2
+[06Dec2024 01:13:51.740] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_4
+[06Dec2024 01:13:51.803] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_3
+[06Dec2024 01:13:52.713] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/oak/oak_canopy3
+[06Dec2024 01:13:53.554] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_5
+[06Dec2024 01:13:53.789] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/oak/large_oak_trunk2
+[06Dec2024 01:13:53.792] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/oak/large_oak_canopy2
+[06Dec2024 01:13:57.882] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mangrove_hut
+[06Dec2024 01:14:01.606] [Worker-Main-53/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:witchboss at BlockPos{x=-8929, y=1, z=-6154} at Chest with:minecraft:chests/simple_dungeon
+[06Dec2024 01:14:04.739] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_13
+[06Dec2024 01:14:06.539] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/outpost
+[06Dec2024 01:14:11.997] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/oak/oak_trunk1
+[06Dec2024 01:14:11.999] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/oak/oak_canopy1
+[06Dec2024 01:14:14.009] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[06Dec2024 01:14:14.153] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/oak/oak_trunk2
+[06Dec2024 01:14:14.154] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/oak/oak_canopy2
+[06Dec2024 01:14:16.895] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior1
+[06Dec2024 01:14:17.917] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 01:14:17.936] [IO-Worker-64/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-65
+[06Dec2024 01:14:17.999] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 01:14:23.392] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sunflower_plains_farm/town_centers/sunflower_plains_meeting_point_1
+[06Dec2024 01:14:23.401] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sunflower_plains_farm/streets/turn_01
+[06Dec2024 01:14:23.405] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/common/iron_golem
+[06Dec2024 01:14:23.414] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sunflower_plains_farm/side/sunflower_plains_farm_beetroot_1
+[06Dec2024 01:14:23.417] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sunflower_plains_farm/side/sunflower_plains_farm_wheat_1
+[06Dec2024 01:14:23.418] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sunflower_plains_farm/sunflower_plains_scarecrow_2
+[06Dec2024 01:14:28.472] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:mini_ferma
+[06Dec2024 01:14:28.573] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_07
+[06Dec2024 01:14:43.981] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_04
+[06Dec2024 01:14:53.625] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8926, y=80, z=-6388} BlockPos{x=-8927, y=81, z=-6387}
+[06Dec2024 01:14:53.722] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8926, y=80, z=-6388} BlockPos{x=-8927, y=81, z=-6387}
+[06Dec2024 01:14:53.744] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8926, y=80, z=-6388} BlockPos{x=-8927, y=81, z=-6387}
+[06Dec2024 01:14:55.909] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_07
+[06Dec2024 01:14:58.004] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_18
+[06Dec2024 01:14:59.733] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:guide_post/warm/whole
+[06Dec2024 01:14:59.739] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:guide_post/cold/whole
+[06Dec2024 01:15:01.509] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_08
+[06Dec2024 01:15:02.053] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:badlands_pyramid/whole
+[06Dec2024 01:15:02.759] [Worker-Main-53/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=-8752, y=-32, z=-6052} at Sarcophagus with:graveyard:chests/crypt_loot
+[06Dec2024 01:15:04.061] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/ship
+[06Dec2024 01:15:04.301] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_6
+[06Dec2024 01:15:04.380] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:tarrey_town_goddess_statue
+[06Dec2024 01:15:06.852] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/oak/large_oak_trunk1
+[06Dec2024 01:15:06.860] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/oak/large_oak_canopy1
+[06Dec2024 01:15:07.698] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_1
+[06Dec2024 01:15:11.678] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:ruins/ruins_01
+[06Dec2024 01:15:11.734] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/jungle/base_plate
+[06Dec2024 01:15:11.754] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/forest/base_plate
+[06Dec2024 01:15:11.767] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/camps/snowy_beach/base_plate
+[06Dec2024 01:15:11.795] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/snowy_plains/base_plate
+[06Dec2024 01:15:11.809] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/exclusives/tudor/base_plate
+[06Dec2024 01:15:11.819] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/exclusives/classic/base_plate
+[06Dec2024 01:15:11.840] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/exclusives/rustic/base_plate
+[06Dec2024 01:15:11.868] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/mushroom_fields/base_plate
+[06Dec2024 01:15:11.899] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/exclusives/oriental/base_plate
+[06Dec2024 01:15:11.915] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/swamp/base_plate
+[06Dec2024 01:15:11.923] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/camps/sparse_jungle/base_plate
+[06Dec2024 01:15:11.939] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/desert/base_plate
+[06Dec2024 01:15:11.949] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/savanna/base_plate
+[06Dec2024 01:15:11.967] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/old_growth_taiga/base_plate
+[06Dec2024 01:15:11.984] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/birch/base_plate
+[06Dec2024 01:15:11.999] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/meadow/base_plate
+[06Dec2024 01:15:12.009] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/snowy_taiga/base_plate
+[06Dec2024 01:15:12.018] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/flower_forest/base_plate
+[06Dec2024 01:15:12.036] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/snowy_slopes/base_plate
+[06Dec2024 01:15:12.061] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/sunflower_plains/base_plate
+[06Dec2024 01:15:12.082] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/grove/base_plate
+[06Dec2024 01:15:12.097] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/taiga/base_plate
+[06Dec2024 01:15:12.122] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/exclusives/iberian/base_plate
+[06Dec2024 01:15:12.141] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/exclusives/swedish/base_plate
+[06Dec2024 01:15:12.240] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/pillager_outpost_ocean/base_plate
+[06Dec2024 01:15:12.270] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/camps/beach/base_plate
+[06Dec2024 01:15:12.283] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/exclusives/mediterranean/base_plate
+[06Dec2024 01:15:12.290] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/camps/wooded_badlands/base_plate
+[06Dec2024 01:15:12.298] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/badlands/base_plate
+[06Dec2024 01:15:19.114] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:memorial_tree/memorial_tree_01
+[06Dec2024 01:15:37.976] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:haunted_house/start_pool/haunted_house_01
+[06Dec2024 01:15:38.069] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_08
+[06Dec2024 01:15:40.754] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_01
+[06Dec2024 01:15:41.024] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_11
+[06Dec2024 01:15:44.279] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_09
+[06Dec2024 01:15:46.156] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_14
+[06Dec2024 01:15:47.190] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_01
+[06Dec2024 01:15:47.818] [IO-Worker-65/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-66
+[06Dec2024 01:15:50.674] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_10
+[06Dec2024 01:15:50.859] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_05
+[06Dec2024 01:15:51.664] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_04
+[06Dec2024 01:15:59.805] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:portal13
+[06Dec2024 01:16:02.779] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:dead_tree/dead_tree
+[06Dec2024 01:16:09.446] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:altar/altar_01
+[06Dec2024 01:16:14.703] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:desert_shrine/whole
+[06Dec2024 01:16:17.535] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_05
+[06Dec2024 01:16:17.656] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/crashed_carriage
+[06Dec2024 01:16:18.541] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of bosses_of_mass_destruction:lich_tower/bottom
+[06Dec2024 01:16:18.633] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[06Dec2024 01:16:20.949] [Worker-Main-14/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=-9191, y=-18, z=-5791} at Sarcophagus with:graveyard:chests/crypt_loot
+[06Dec2024 01:16:22.804] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_graveyard/small_desert_graveyard_01
+[06Dec2024 01:16:27.236] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_4
+[06Dec2024 01:16:27.252] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_0_main
+[06Dec2024 01:16:28.576] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/pumpkin_patch/town_centers/pumpkin_patch_meeting_point_2
+[06Dec2024 01:16:31.088] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_03
+[06Dec2024 01:16:33.919] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_16
+[06Dec2024 01:16:34.425] [IO-Worker-55/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-67
+[06Dec2024 01:16:41.813] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_2
+[06Dec2024 01:16:47.232] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior2
+[06Dec2024 01:16:50.950] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:auburntreeone
+[06Dec2024 01:16:53.146] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/catacombs_origin
+[06Dec2024 01:16:56.623] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/palm/palm_trunk4
+[06Dec2024 01:16:56.625] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/palm/palm_canopy4
+[06Dec2024 01:16:58.501] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:woak1
+[06Dec2024 01:16:59.095] [Worker-Main-53/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=-8902, y=-39, z=-5768} at Sarcophagus with:graveyard:chests/crypt_loot
+[06Dec2024 01:16:59.255] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/shelter/tunnel_top
+[06Dec2024 01:17:02.480] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of gamma_beasts:arbol_roble2
+[06Dec2024 01:17:06.039] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:woak2
+[06Dec2024 01:17:15.750] [Worker-Main-14/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=-8809, y=-26, z=-5731} at Coffin with:graveyard:chests/crypt_loot
+[06Dec2024 01:17:19.211] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of gamma_beasts:arbol_roble1s
+[06Dec2024 01:17:20.688] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_03
+[06Dec2024 01:17:22.547] [Worker-Main-14/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=-8781, y=15, z=-5567} at Chest with:minecraft:chests/simple_dungeon
+[06Dec2024 01:17:23.018] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:portal8
+[06Dec2024 01:17:23.374] [Worker-Main-14/DEBUG] [ModernFix/]: Structure hopo:mobs/zombified_piglin is being run through DFU (hash 3e11e276105a623c3f2790c164f6571f3a046f2ff6e9d6234f2b412486a9d7aa), this will cause launch time delays
+[06Dec2024 01:17:24.131] [Worker-Main-14/DEBUG] [ModernFix/]: Structure hopo:mobs/allays_3 is being run through DFU (hash 7ab7f593e39ecef4857908be6176f646539ff30e3867943f602075e6153606b8), this will cause launch time delays
+[06Dec2024 01:17:24.568] [Worker-Main-14/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/43 is being run through DFU (hash b053b75b9c2813580d8a58f30dcce8b85a87f6a2856a2365d6de648f3590694f), this will cause launch time delays
+[06Dec2024 01:17:24.577] [Worker-Main-14/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/18 is being run through DFU (hash 67cee2155f8ebecb5adcabe5157f2a7b5ee2860368e4ff354fabb0b4329f23b7), this will cause launch time delays
+[06Dec2024 01:17:24.598] [Worker-Main-14/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/ruins_4 is being run through DFU (hash 844a22f6f97300ffd7bf375cca3dca071b22b737e33f185191b822e2b925aeb1), this will cause launch time delays
+[06Dec2024 01:17:24.610] [Worker-Main-14/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/ruins_5 is being run through DFU (hash 27c7e5ebe84ee3ac2908550b671dd6b2e61aea504019cae31f2e7eed04069d08), this will cause launch time delays
+[06Dec2024 01:17:24.614] [Worker-Main-14/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/ruins_2 is being run through DFU (hash 42aa0b5bc17006bb5201c53f65ee3f2e48ebcf9a9f5d428f33e1d9ca787dcc29), this will cause launch time delays
+[06Dec2024 01:17:24.616] [Worker-Main-14/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/ruins_3 is being run through DFU (hash df594802996c1eb4bff6aecdf54688c569f2f962e055ed2b8a2df4cbf3ee09a6), this will cause launch time delays
+[06Dec2024 01:17:24.920] [Worker-Main-14/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/15 is being run through DFU (hash 5839a2efc2692ded6736d1f93a41491c292a5e91e8b95ff726024b8cb15e8a9e), this will cause launch time delays
+[06Dec2024 01:17:24.930] [Worker-Main-14/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/6 is being run through DFU (hash f78b140182e5e968fa71f0bd06ffff62a0d638bdf93bd822dd8cf7998826a673), this will cause launch time delays
+[06Dec2024 01:17:24.934] [Worker-Main-14/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/16 is being run through DFU (hash ea69fc1fba6172ef243b1ebd07ce90d89d3736896e4d6a808a5d18ba510b60d7), this will cause launch time delays
+[06Dec2024 01:17:24.936] [Worker-Main-14/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/39 is being run through DFU (hash 5bbef28333433b9e0f825b5de8a1392074619ce4da317cbc02c8fc1316a588cf), this will cause launch time delays
+[06Dec2024 01:17:24.937] [Worker-Main-14/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/36 is being run through DFU (hash 5c9e467ee9606b113376fe236b53a1ed2ff49e1ec54dd5313d91481026b5c012), this will cause launch time delays
+[06Dec2024 01:17:24.939] [Worker-Main-14/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/2 is being run through DFU (hash 5d59b70f91defb1f6bd48b94f356d3f5e52eabcebf60c4b897e3e7f8f61d0dd0), this will cause launch time delays
+[06Dec2024 01:17:24.941] [Worker-Main-14/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/32 is being run through DFU (hash 24786e8c535461bbd57eb409eb1e78b956d7b5ed13722ad7616aabd00a0ebccb), this will cause launch time delays
+[06Dec2024 01:17:24.942] [Worker-Main-14/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/21 is being run through DFU (hash ba4bd63390920c80c4caec3dddaaa36990ea211dc15536da12e36d6f46dede95), this will cause launch time delays
+[06Dec2024 01:17:24.944] [Worker-Main-14/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/22 is being run through DFU (hash de3ce63ec5ee62b489ed31bb3caf401dc59787149196012c8db16660726bae96), this will cause launch time delays
+[06Dec2024 01:17:24.945] [Worker-Main-14/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/9 is being run through DFU (hash 0013f4211394ea5d073b18349cf006bd6b0666973a5315ddfee5f0585f0d38a1), this will cause launch time delays
+[06Dec2024 01:17:24.947] [Worker-Main-14/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/30 is being run through DFU (hash f4191ee23d210498d7c27e657b320a0a1e8725bc9cad4968293d45c37aa41bca), this will cause launch time delays
+[06Dec2024 01:17:24.948] [Worker-Main-14/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/10 is being run through DFU (hash e58bb477074ef6dfde813e16882c39bbdbd6eb794f8f1859d99e59a103c49af2), this will cause launch time delays
+[06Dec2024 01:17:24.950] [Worker-Main-14/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/33 is being run through DFU (hash 74ff5f7239156da069e8738209cb55aba61d8003a6fe4d487f46bec02ee42cd2), this will cause launch time delays
+[06Dec2024 01:17:24.952] [Worker-Main-14/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/19 is being run through DFU (hash c4d3fca245691b3fb05e64da6c7b00cbe4afc50cf29c03cd2056c85f2c906a5b), this will cause launch time delays
+[06Dec2024 01:17:24.955] [Worker-Main-14/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/26 is being run through DFU (hash 1108b844694b3bb3288a8d28196587f84042e621c6607056287a93ec3d4d0bbf), this will cause launch time delays
+[06Dec2024 01:17:24.957] [Worker-Main-14/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/31 is being run through DFU (hash 008c9c69fdccb6067aa0dd410381a9ef86e5342207153af628db9383acb9ab69), this will cause launch time delays
+[06Dec2024 01:17:24.959] [Worker-Main-14/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/27 is being run through DFU (hash 56da9f9763d898467da7fe6c10d4316cbe325eb265313e8b029855287a08a9f3), this will cause launch time delays
+[06Dec2024 01:17:24.960] [Worker-Main-14/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/35 is being run through DFU (hash e59369bfd84679671225c12b4084694e45d997fa2b65e480a86500f473c90a67), this will cause launch time delays
+[06Dec2024 01:17:24.963] [Worker-Main-14/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/24 is being run through DFU (hash 44dd8562f51340c957ce5a4497601f21f8b3ce7b242cede7b886db9a42fa308e), this will cause launch time delays
+[06Dec2024 01:17:24.966] [Worker-Main-14/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/3 is being run through DFU (hash 3f0b21079fe0d7551a57f0f98a45b7ab7ac3d2c2d219953575a93c95ab26f8a4), this will cause launch time delays
+[06Dec2024 01:17:24.969] [Worker-Main-14/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/11 is being run through DFU (hash 40adc065329ed3313e2bffc444f2107cf4b17017146e094f04743d4511a306bf), this will cause launch time delays
+[06Dec2024 01:17:24.972] [Worker-Main-14/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/4 is being run through DFU (hash 21100d9f4eeb13a287195af6923c876bc6b9cc6da712f21dd08b2c848712bb74), this will cause launch time delays
+[06Dec2024 01:17:24.975] [Worker-Main-14/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/1 is being run through DFU (hash 5423c5e7ae93199bcd86c2ae4b02d2e2628e909eeefbf33a75af54dad567bd63), this will cause launch time delays
+[06Dec2024 01:17:24.978] [Worker-Main-14/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/28 is being run through DFU (hash 6d52d6035ed60f09b6c9c4c22fe50ea5d24a0166f3204d20e08f0d538da268d3), this will cause launch time delays
+[06Dec2024 01:17:24.980] [Worker-Main-14/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/29 is being run through DFU (hash 1766cbbca8c59ec0bdf313def88ac44d838a01636cb871408d66cbde3b0592e8), this will cause launch time delays
+[06Dec2024 01:17:24.983] [Worker-Main-14/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/40 is being run through DFU (hash 2dad9b55b13015bf4e170334ef95dd5016bd1d1a810e6f387b6be2611fa9f2bb), this will cause launch time delays
+[06Dec2024 01:17:24.985] [Worker-Main-14/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/41 is being run through DFU (hash 32bd68ce1a65ec1837a5303bfa57debeabb14e0a1ec27570562f163978096002), this will cause launch time delays
+[06Dec2024 01:17:24.987] [Worker-Main-14/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/7 is being run through DFU (hash c5324179925b1498112ecb2145092d1ddbf99f6658340a2c3be3ceaa59eefaf6), this will cause launch time delays
+[06Dec2024 01:17:24.988] [Worker-Main-14/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/13 is being run through DFU (hash 9aebc4fc5c74ee92f176c57933f31563922cde89d6f125e6c2a9b38e5ec3ae13), this will cause launch time delays
+[06Dec2024 01:17:24.989] [Worker-Main-14/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/8 is being run through DFU (hash 72e39e23280a781e540723ee26affb38051cdbea3243239cfd89fa442951c23a), this will cause launch time delays
+[06Dec2024 01:17:24.991] [Worker-Main-14/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/5 is being run through DFU (hash fff4260655e490825db352e887d06a55d09830b9df5f986742db95a02eb6ceac), this will cause launch time delays
+[06Dec2024 01:17:24.992] [Worker-Main-14/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/20 is being run through DFU (hash db8ba4c8833c5f8ae3eb3d654e868e9f027c05a671c29e5195ff0fa91fc547f3), this will cause launch time delays
+[06Dec2024 01:17:24.993] [Worker-Main-14/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/38 is being run through DFU (hash a3e8c67a659352fa17ec8c18fac5204ad50e6b455ee82cb4ebe8415851ccf4ed), this will cause launch time delays
+[06Dec2024 01:17:24.995] [Worker-Main-14/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/45 is being run through DFU (hash 40e6a235ca6fbafa6503fc8f1f885eaba6d56cd1f6d22c0836d2e563d6e164cc), this will cause launch time delays
+[06Dec2024 01:17:24.996] [Worker-Main-14/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/12 is being run through DFU (hash 75de4feafffba1c0a5b30987c93cd41d977e5a8919c5813585868fa53ffc8838), this will cause launch time delays
+[06Dec2024 01:17:24.998] [Worker-Main-14/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/17 is being run through DFU (hash 5553461e8b0dcf5857536efd8849e53f5ad3b772de8f522b011b2b9bec8b87f6), this will cause launch time delays
+[06Dec2024 01:17:25.000] [Worker-Main-14/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/25 is being run through DFU (hash 0d82b90e9f85a31c6cb6807ab7bcf4d6930fb0a00ec7787786c0db2c689504d8), this will cause launch time delays
+[06Dec2024 01:17:25.001] [Worker-Main-14/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/14 is being run through DFU (hash 38be7f38fe076d434432add44603ba54c3aab72c5992a71d73597dace63b1d9d), this will cause launch time delays
+[06Dec2024 01:17:25.004] [Worker-Main-14/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/23 is being run through DFU (hash a1185403e3d0bb03e46731e866efe1f7f78d3970510a070c8236fdc595586d4b), this will cause launch time delays
+[06Dec2024 01:17:25.006] [Worker-Main-14/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/42 is being run through DFU (hash 57ebabbe5774916b3ea091d5176a46f95aa78b9ce600e1756994c5af238a83c3), this will cause launch time delays
+[06Dec2024 01:17:25.010] [Worker-Main-14/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/34 is being run through DFU (hash 0094c9d419c5719313b13d355458aed8a7b2eb16284b92286bd3bf047f3125ca), this will cause launch time delays
+[06Dec2024 01:17:25.017] [Worker-Main-14/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/37 is being run through DFU (hash a988701f0d6bfea078e791baf29198e960dbb7b4afcdb22bacb43983493b1ed2), this will cause launch time delays
+[06Dec2024 01:17:25.022] [Worker-Main-14/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/44 is being run through DFU (hash 5cde2f5dcb54849dac29988815920e533d596db06e4a4ef20e5d6fea3df11630), this will cause launch time delays
+[06Dec2024 01:17:29.989] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_3
+[06Dec2024 01:17:29.995] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_husk_0
+[06Dec2024 01:17:29.995] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_mounted_melee_0
+[06Dec2024 01:17:29.996] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_mounted_skeleton_0
+[06Dec2024 01:17:30.026] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_2
+[06Dec2024 01:17:30.049] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_0
+[06Dec2024 01:17:30.074] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_1
+[06Dec2024 01:17:30.087] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_7
+[06Dec2024 01:17:30.098] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_5
+[06Dec2024 01:17:30.110] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_6
+[06Dec2024 01:17:30.122] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_4
+[06Dec2024 01:17:30.290] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of gamma_beasts:diamond_golem
+[06Dec2024 01:17:36.321] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/tower
+[06Dec2024 01:17:54.504] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8963, y=82, z=-6080} BlockPos{x=-8962, y=82, z=-6080}
+[06Dec2024 01:18:02.182] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/pumpkin_patch/town_centers/pumpkin_patch_meeting_point_3
+[06Dec2024 01:19:00.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Bim Bam Boom !]
+[06Dec2024 01:19:08.297] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:lich_prison/lich_prison
+[06Dec2024 01:19:13.625] [Worker-Main-53/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:strayboss at BlockPos{x=-9278, y=20, z=-6066} at Chest with:minecraft:chests/simple_dungeon
+[06Dec2024 01:19:14.165] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior216
+[06Dec2024 01:19:17.829] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 01:19:17.869] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 01:19:28.006] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of soulsweapons:cathedral_of_resurrection
+[06Dec2024 01:19:28.050] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of soulsweapons:champions_graves_main
+[06Dec2024 01:19:30.489] [Worker-Main-53/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_01
+[06Dec2024 01:20:14.639] [IO-Worker-62/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-68
+[06Dec2024 01:20:24.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Gave 1 [Careyatros Saddle] to B3njaxx_11]
+[06Dec2024 01:20:25.924] [Netty Epoll Server IO #2/DEBUG] [mezz.jei.common.platform.Services/]: Loaded mezz.jei.forge.platform.PlatformHelper@1036cb6b for service interface mezz.jei.common.platform.IPlatformHelper
+[06Dec2024 01:20:34.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Gave 1 [Diamond golem Saddle] to B3njaxx_11]
+[06Dec2024 01:20:44.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Teleported Tomas_michele to B3njaxx_11]
+[06Dec2024 01:20:44.765] [IO-Worker-62/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-69
+[06Dec2024 01:21:26.145] [Worker-Main-53/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:pillagerboss at BlockPos{x=-8604, y=-34, z=-5742} at Chest with:minecraft:chests/simple_dungeon
+[06Dec2024 01:21:30.677] [Worker-Main-14/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:cavespiderboss at BlockPos{x=-8619, y=123, z=-5767} at Coffin with:graveyard:chests/small_graveyard_loot
+[06Dec2024 01:21:44.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Creative Mode]
+[06Dec2024 01:22:06.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Gave 64 [Golden Berries] to B3njaxx_11]
+[06Dec2024 01:22:21.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Survival Mode]
+[06Dec2024 01:22:57.405] [IO-Worker-62/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-70
+[06Dec2024 01:23:26.215] [IO-Worker-62/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-71
+[06Dec2024 01:23:58.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Teleported 2 entities to Tomas_michele]
+[06Dec2024 01:23:58.883] [IO-Worker-55/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-73
+[06Dec2024 01:23:58.883] [IO-Worker-71/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-72
+[06Dec2024 01:24:17.730] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 01:24:17.765] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 01:25:07.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Teleported Tomas_michele to B3njaxx_11]
+[06Dec2024 01:28:08.761] [Worker-Main-13/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-13 shutdown
+[06Dec2024 01:28:22.266] [Worker-Main-53/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-74
+[06Dec2024 01:29:17.731] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 01:29:17.762] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 01:29:17.795] [IO-Worker-71/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-75

@@ -165,8 +165,10 @@
       "minecraft:deep_frozen_ocean": "2024-12-04 22:32:17 +0000",
       "minecraft:windswept_forest": "2024-12-05 19:46:03 +0000",
       "minecraft:snowy_beach": "2024-12-03 21:53:38 +0000",
+      "minecraft:flower_forest": "2024-12-06 01:17:03 +0000",
       "minecraft:frozen_peaks": "2024-12-03 20:59:51 +0000",
       "minecraft:deep_dark": "2024-12-04 22:57:00 +0000",
+      "minecraft:meadow": "2024-12-06 01:13:24 +0000",
       "minecraft:plains": "2024-12-03 21:46:13 +0000"
     },
     "done": false
@@ -314,6 +316,8 @@
       "minecraft:piglin_brute": "2024-12-03 21:06:50 +0000",
       "minecraft:spider": "2024-12-03 20:34:25 +0000",
       "minecraft:creeper": "2024-12-03 23:01:23 +0000",
+      "minecraft:slime": "2024-12-06 00:41:30 +0000",
+      "minecraft:zombified_piglin": "2024-12-06 00:46:21 +0000",
       "minecraft:wither_skeleton": "2024-12-05 00:19:54 +0000",
       "minecraft:husk": "2024-12-03 20:36:34 +0000",
       "minecraft:cave_spider": "2024-12-05 01:01:47 +0000",
@@ -445,6 +449,7 @@
       "deciduous_forest": "2024-12-04 23:28:47 +0000",
       "boreal_forest": "2024-12-05 20:29:28 +0000",
       "glistering_meadow": "2024-12-05 00:17:25 +0000",
+      "blackstone_basin": "2024-12-06 00:40:53 +0000",
       "infernal_holt": "2024-12-05 00:17:20 +0000",
       "cold_boreal_taiga": "2024-12-05 20:02:47 +0000",
       "cold_river": "2024-12-03 22:39:20 +0000",
@@ -724,6 +729,7 @@
       "obtain_topaz_gem": "2024-12-04 23:35:33 +0000",
       "obtain_tourmaline": "2024-12-04 23:49:25 +0000",
       "obtain_ruby_gem": "2024-12-04 23:57:39 +0000",
+      "obtain_tanzanite_gem": "2024-12-06 00:39:58 +0000",
       "obtain_moissanite_gem": "2024-12-05 17:04:58 +0000",
       "obtain_sapphire_gem": "2024-12-05 00:34:16 +0000",
       "obtain_steel_ingot": "2024-12-05 16:12:05 +0000",
@@ -797,6 +803,7 @@
   "regions_unexplored:eternal_expedition": {
     "criteria": {
       "mycotoxic_undergrowth": "2024-12-05 00:51:19 +0000",
+      "blackstone_basin": "2024-12-06 00:40:53 +0000",
       "infernal_holt": "2024-12-05 00:17:20 +0000",
       "glistering_meadow": "2024-12-05 00:17:25 +0000"
     },
@@ -1071,6 +1078,85 @@
       "soulsweapons:accursed_lord_boss": "2024-12-05 20:31:31 +0000"
     },
     "done": true
+  },
+  "incendium:toxic_heap/root": {
+    "criteria": {
+      "requirement": "2024-12-06 00:41:24 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/floor_is_tears": {
+    "criteria": {
+      "requirement": "2024-12-06 00:48:09 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:quartz_flats": "2024-12-06 00:38:20 +0000"
+    },
+    "done": true
+  },
+  "mores:obtain_tanzanite": {
+    "criteria": {
+      "obtain_steel_ingot": "2024-12-06 00:39:58 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/root": {
+    "criteria": {
+      "requirement": "2024-12-06 00:38:20 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_netherite": {
+    "criteria": {
+      "requirement": "2024-12-06 01:26:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_bridge": "2024-12-06 00:49:32 +0000"
+    },
+    "done": true
+  },
+  "goblins_tyranny:bomb_success": {
+    "criteria": {
+      "bomb_success_0": "2024-12-06 01:19:00 +0000"
+    },
+    "done": true
+  },
+  "mores:mine_nether_silver": {
+    "criteria": {
+      "obtain_silver_ore": "2024-12-06 00:49:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-12-06 00:52:24 +0000"
+    },
+    "done": true
+  },
+  "luminousworld:kill_pheonix": {
+    "criteria": {
+      "kill_pheonix_0": "2024-12-06 01:11:23 +0000"
+    },
+    "done": true
+  },
+  "goblins_tyranny:goblins_slayer_success": {
+    "criteria": {
+      "goblins_slayer_success_0": "2024-12-06 01:17:59 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:quartz_flats": "2024-12-06 00:38:20 +0000",
+      "incendium:toxic_heap": "2024-12-06 00:41:24 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
