@@ -2037,3 +2037,5 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [06Dec2024 17:50:49.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has completed the challenge [The Thing of Ancient Civilization]
 [06Dec2024 17:51:37.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Creative Mode]
 [06Dec2024 17:52:34.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Creative Mode]
+[06Dec2024 18:01:21.391] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: B3njaxx_11 lost connection: Timed out
+[06Dec2024 18:01:21.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 left the game

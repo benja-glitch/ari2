@@ -20142,3 +20142,30 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [06Dec2024 17:55:03.894] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06Dec2024 17:55:03.915] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [06Dec2024 17:55:34.442] [Worker-Main-24/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-24 shutdown
+[06Dec2024 17:56:02.287] [Worker-Main-102/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-108
+[06Dec2024 17:57:10.844] [Worker-Main-108/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-108 shutdown
+[06Dec2024 17:57:51.284] [Worker-Main-101/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-109
+[06Dec2024 17:57:51.287] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-110
+[06Dec2024 17:57:51.287] [IO-Worker-110/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-111
+[06Dec2024 17:58:58.244] [Worker-Main-102/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-102 shutdown
+[06Dec2024 17:59:14.884] [Worker-Main-101/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-112
+[06Dec2024 17:59:14.887] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-113
+[06Dec2024 17:59:14.887] [IO-Worker-113/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-114
+[06Dec2024 17:59:14.942] [IO-Worker-113/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-115
+[06Dec2024 18:00:03.896] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 18:00:03.918] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 18:00:47.143] [Worker-Main-101/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-101 shutdown
+[06Dec2024 18:01:21.391] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: B3njaxx_11 lost connection: Timed out
+[06Dec2024 18:01:21.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 left the game
+[06Dec2024 18:01:21.440] [Worker-Main-112/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-116
+[06Dec2024 18:01:21.490] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-117
+[06Dec2024 18:01:21.490] [IO-Worker-117/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-118
+[06Dec2024 18:02:21.451] [Worker-Main-112/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-112 shutdown
+[06Dec2024 18:03:21.451] [Worker-Main-109/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-109 shutdown
+[06Dec2024 18:04:21.451] [Worker-Main-116/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-116 shutdown
+[06Dec2024 18:05:03.793] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-119
+[06Dec2024 18:05:03.794] [IO-Worker-119/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-120
+[06Dec2024 18:05:03.800] [IO-Worker-119/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-121
+[06Dec2024 18:05:03.800] [IO-Worker-119/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-122
+[06Dec2024 18:05:03.847] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 18:05:03.868] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
