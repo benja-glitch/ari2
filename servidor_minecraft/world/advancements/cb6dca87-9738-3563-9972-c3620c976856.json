@@ -802,12 +802,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2024-12-06 01:29:17 +0000"
-    },
-    "done": false
-  },
   "born_in_chaos_v1:charm_collector": {
     "criteria": {
       "charm_collector_1": "2024-12-06 00:57:58 +0000"
@@ -823,6 +817,12 @@
   "irons_spellbooks:irons_spellbooks/spell_book_netherite": {
     "criteria": {
       "requirement": "2024-12-06 01:26:58 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2024-12-06 01:34:47 +0000"
     },
     "done": true
   },

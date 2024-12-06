@@ -1613,3 +1613,35 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [06Dec2024 01:22:21.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Survival Mode]
 [06Dec2024 01:23:58.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Teleported 2 entities to Tomas_michele]
 [06Dec2024 01:25:07.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Teleported Tomas_michele to B3njaxx_11]
+[06Dec2024 01:30:11.857] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: B3njaxx_11 lost connection: Timed out
+[06Dec2024 01:30:11.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 left the game
+[06Dec2024 01:30:39.262] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: B3njaxx_11[/127.138.8.222:45339] logged in with entity id 31206 at (-8566.953736531785, 216.875, -6692.832888121642)
+[06Dec2024 01:30:39.264] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to B3njaxx_11
+[06Dec2024 01:30:39.265] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to B3njaxx_11
+[06Dec2024 01:30:39.265] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to B3njaxx_11
+[06Dec2024 01:30:39.266] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to B3njaxx_11
+[06Dec2024 01:30:39.269] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to B3njaxx_11
+[06Dec2024 01:30:39.272] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to B3njaxx_11
+[06Dec2024 01:30:39.272] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to B3njaxx_11
+[06Dec2024 01:30:39.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 joined the game
+[06Dec2024 01:30:39.407] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[06Dec2024 01:32:39.460] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: B3njaxx_11 lost connection: Timed out
+[06Dec2024 01:32:39.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 left the game
+[06Dec2024 01:32:49.797] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: B3njaxx_11[/127.138.8.222:45695] logged in with entity id 31432 at (-8573.358424156833, 216.0, -6697.323833404076)
+[06Dec2024 01:32:49.799] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to B3njaxx_11
+[06Dec2024 01:32:49.799] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to B3njaxx_11
+[06Dec2024 01:32:49.800] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to B3njaxx_11
+[06Dec2024 01:32:49.800] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to B3njaxx_11
+[06Dec2024 01:32:49.803] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to B3njaxx_11
+[06Dec2024 01:32:49.805] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to B3njaxx_11
+[06Dec2024 01:32:49.805] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to B3njaxx_11
+[06Dec2024 01:32:49.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 joined the game
+[06Dec2024 01:32:49.958] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[06Dec2024 01:34:47.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has made the advancement [Tools of the Trade]
+[06Dec2024 01:35:06.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Spectator Mode]
+[06Dec2024 01:35:28.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Creative Mode]
+[06Dec2024 01:35:33.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Survival Mode]
+[06Dec2024 01:35:33.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has completed the challenge [It's Purple!]
+[06Dec2024 01:35:38.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Spectator Mode]
+[06Dec2024 01:35:40.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Teleported Tomas_michele to B3njaxx_11]
+[06Dec2024 01:35:41.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Survival Mode]
