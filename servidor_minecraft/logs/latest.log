@@ -2027,3 +2027,13 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [06Dec2024 17:44:35.134] [Server thread/INFO] [spawnermod/]: Sending config to player.
 [06Dec2024 17:45:20.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Creative Mode]
 [06Dec2024 17:45:21.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Creative Mode]
+[06Dec2024 17:45:38.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
+[06Dec2024 17:47:26.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Survival Mode]
+[06Dec2024 17:48:03.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele was slain by B3njaxx_11
+[06Dec2024 17:48:03.723] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Tomas_michele with unique ID travelersbackpack.creeper_06.12.2024-17.48.03.dat
+[06Dec2024 17:48:25.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Teleported Tomas_michele to B3njaxx_11]
+[06Dec2024 17:50:25.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Gave 1 [Nether Star] to B3njaxx_11]
+[06Dec2024 17:50:42.938] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager MinerVillagerEntity['Miner'/35762, l='ServerLevel[world]', x=-2886.59, y=27.00, z=-847.83] died, message: 'Miner was slain by The Harbinger'
+[06Dec2024 17:50:49.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has completed the challenge [The Thing of Ancient Civilization]
+[06Dec2024 17:51:37.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Creative Mode]
+[06Dec2024 17:52:34.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Creative Mode]

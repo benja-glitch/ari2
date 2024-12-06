@@ -1399,5 +1399,11 @@
     },
     "done": true
   },
+  "cataclysm:kill_harbinger": {
+    "criteria": {
+      "theharbinger": "2024-12-06 17:50:49 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
