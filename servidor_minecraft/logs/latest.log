@@ -2059,3 +2059,18 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [06Dec2024 18:20:23.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
 [06Dec2024 18:21:53.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Spectator Mode]
 [06Dec2024 18:25:00.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
+[06Dec2024 18:26:13.639] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: B3njaxx_11 lost connection: Timed out
+[06Dec2024 18:26:13.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 left the game
+[06Dec2024 18:26:45.431] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: B3njaxx_11[/127.187.236.169:57695] logged in with entity id 44254 at (-2875.545962657258, 24.0, -824.2173682404244)
+[06Dec2024 18:26:45.433] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to B3njaxx_11
+[06Dec2024 18:26:45.433] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to B3njaxx_11
+[06Dec2024 18:26:45.434] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to B3njaxx_11
+[06Dec2024 18:26:45.434] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to B3njaxx_11
+[06Dec2024 18:26:45.436] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to B3njaxx_11
+[06Dec2024 18:26:45.437] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to B3njaxx_11
+[06Dec2024 18:26:45.438] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to B3njaxx_11
+[06Dec2024 18:26:45.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 joined the game
+[06Dec2024 18:26:45.479] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[06Dec2024 18:28:30.632] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3398ms or 67 ticks behind
+[06Dec2024 18:32:08.890] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: B3njaxx_11 lost connection: Timed out
+[06Dec2024 18:32:08.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 left the game
