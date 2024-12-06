@@ -2000,3 +2000,30 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [06Dec2024 17:33:07.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele has made the advancement [Look at my horse]
 [06Dec2024 17:35:08.790] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tomas_michele lost connection: Disconnected
 [06Dec2024 17:35:08.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele left the game
+[06Dec2024 17:42:20.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 was slain by Skeleton
+[06Dec2024 17:42:20.295] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for B3njaxx_11 with unique ID travelersbackpack.standard_06.12.2024-17.42.20.dat
+[06Dec2024 17:42:31.030] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tomas_michele[/127.78.17.184:33933] logged in with entity id 35667 at (-2878.6863452589528, 22.0, -823.6999999880791)
+[06Dec2024 17:42:31.032] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Tomas_michele
+[06Dec2024 17:42:31.032] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Tomas_michele
+[06Dec2024 17:42:31.033] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Tomas_michele
+[06Dec2024 17:42:31.033] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Tomas_michele
+[06Dec2024 17:42:31.035] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Tomas_michele
+[06Dec2024 17:42:31.037] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Tomas_michele
+[06Dec2024 17:42:31.037] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Tomas_michele
+[06Dec2024 17:42:31.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele joined the game
+[06Dec2024 17:42:31.078] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[06Dec2024 17:42:34.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Successfully restored B3njaxx_11's items]
+[06Dec2024 17:43:59.796] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: B3njaxx_11 lost connection: Timed out
+[06Dec2024 17:43:59.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 left the game
+[06Dec2024 17:44:35.088] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: B3njaxx_11[/127.187.236.169:42163] logged in with entity id 36296 at (-8577.31712149448, 216.0, -6691.300000011921)
+[06Dec2024 17:44:35.090] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to B3njaxx_11
+[06Dec2024 17:44:35.090] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to B3njaxx_11
+[06Dec2024 17:44:35.090] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to B3njaxx_11
+[06Dec2024 17:44:35.091] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to B3njaxx_11
+[06Dec2024 17:44:35.092] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to B3njaxx_11
+[06Dec2024 17:44:35.094] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to B3njaxx_11
+[06Dec2024 17:44:35.094] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to B3njaxx_11
+[06Dec2024 17:44:35.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 joined the game
+[06Dec2024 17:44:35.134] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[06Dec2024 17:45:20.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Creative Mode]
+[06Dec2024 17:45:21.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Creative Mode]
