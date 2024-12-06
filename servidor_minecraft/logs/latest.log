@@ -1541,3 +1541,18 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [06Dec2024 00:16:04.475] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to B3njaxx_11
 [06Dec2024 00:16:04.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 joined the game
 [06Dec2024 00:16:04.731] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[06Dec2024 00:34:59.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
+[06Dec2024 00:35:00.839] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tomas_michele[/127.78.17.184:51149] logged in with entity id 2312 at (-8572.288792390264, 215.0, -6680.699999988079)
+[06Dec2024 00:35:00.842] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Tomas_michele
+[06Dec2024 00:35:00.843] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Tomas_michele
+[06Dec2024 00:35:00.843] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Tomas_michele
+[06Dec2024 00:35:00.844] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Tomas_michele
+[06Dec2024 00:35:00.847] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Tomas_michele
+[06Dec2024 00:35:00.852] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Tomas_michele
+[06Dec2024 00:35:00.852] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Tomas_michele
+[06Dec2024 00:35:00.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tomas_michele joined the game
+[06Dec2024 00:35:01.006] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[06Dec2024 00:36:39.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Gave 64 [Obsidian] to B3njaxx_11]
+[06Dec2024 00:37:31.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Gave 1 [Flint and Steel] to B3njaxx_11]
+[06Dec2024 00:38:20.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Hellish Paradise]
+[06Dec2024 00:38:20.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Strange Biomes]
