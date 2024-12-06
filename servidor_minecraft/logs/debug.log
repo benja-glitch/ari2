@@ -19245,3 +19245,35 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [06Dec2024 02:09:29.346] [Worker-Main-78/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-78 shutdown
 [06Dec2024 02:09:43.504] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
 [06Dec2024 02:09:50.702] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[06Dec2024 02:10:29.346] [Worker-Main-53/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-53 shutdown
+[06Dec2024 02:11:14.455] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-106
+[06Dec2024 02:11:14.456] [IO-Worker-106/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-107
+[06Dec2024 02:11:29.346] [Worker-Main-86/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-86 shutdown
+[06Dec2024 02:12:58.654] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-108
+[06Dec2024 02:12:58.655] [IO-Worker-108/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-109
+[06Dec2024 02:13:44.310] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: B3njaxx_11 lost connection: Timed out
+[06Dec2024 02:13:44.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 left the game
+[06Dec2024 02:13:44.361] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-110
+[06Dec2024 02:13:44.361] [Worker-Main-110/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-111
+[06Dec2024 02:13:44.362] [Worker-Main-110/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-112
+[06Dec2024 02:14:28.812] [IO-Worker-109/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-113
+[06Dec2024 02:14:28.818] [IO-Worker-109/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-114
+[06Dec2024 02:14:28.818] [IO-Worker-109/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-115
+[06Dec2024 02:14:28.877] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 02:14:28.909] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 02:14:44.377] [Worker-Main-112/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-112 shutdown
+[06Dec2024 02:15:36.104] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-116
+[06Dec2024 02:15:36.104] [IO-Worker-116/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-117
+[06Dec2024 02:15:44.377] [Worker-Main-111/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-111 shutdown
+[06Dec2024 02:16:44.377] [Worker-Main-110/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-110 shutdown
+[06Dec2024 02:17:22.804] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-118
+[06Dec2024 02:17:22.804] [IO-Worker-118/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-119
+[06Dec2024 02:19:28.809] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-120
+[06Dec2024 02:19:28.810] [IO-Worker-120/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-121
+[06Dec2024 02:19:28.815] [IO-Worker-120/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-122
+[06Dec2024 02:19:28.818] [IO-Worker-122/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-123
+[06Dec2024 02:19:28.818] [IO-Worker-122/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-124
+[06Dec2024 02:19:28.818] [IO-Worker-122/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-125
+[06Dec2024 02:19:28.819] [IO-Worker-122/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-126
+[06Dec2024 02:19:28.873] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 02:19:28.905] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -1733,3 +1733,5 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [06Dec2024 02:07:43.460] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=60, z=0}
 [06Dec2024 02:07:51.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Survival Mode]
 [06Dec2024 02:08:30.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Creative Mode]
+[06Dec2024 02:13:44.310] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: B3njaxx_11 lost connection: Timed out
+[06Dec2024 02:13:44.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 left the game
