@@ -272,6 +272,7 @@
   },
   "mores:obtain_all": {
     "criteria": {
+      "obtain_onyx_gem": "2024-12-06 16:42:52 +0000",
       "obtain_topaz_gem": "2024-12-04 23:35:30 +0000",
       "obtain_sapphire_gem": "2024-12-05 00:45:18 +0000",
       "obtain_steel_ingot": "2024-12-03 22:25:15 +0000"
@@ -915,6 +916,24 @@
       "in_mineshaft_end": "2024-12-06 02:47:44 +0000"
     },
     "done": false
+  },
+  "dungeons_arise:find_aviary": {
+    "criteria": {
+      "location0": "2024-12-06 16:49:20 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:pyramids": {
+    "criteria": {
+      "in_pyramid_end": "2024-12-06 16:42:22 +0000"
+    },
+    "done": false
+  },
+  "mores:obtain_onyx": {
+    "criteria": {
+      "obtain_onyx_gem": "2024-12-06 16:42:52 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
