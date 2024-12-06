@@ -1645,3 +1645,7 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [06Dec2024 01:35:38.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Spectator Mode]
 [06Dec2024 01:35:40.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Teleported Tomas_michele to B3njaxx_11]
 [06Dec2024 01:35:41.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Set own game mode to Survival Mode]
+[06Dec2024 01:41:09.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Gave 100 experience points to Tomas_michele]
+[06Dec2024 01:43:21.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Contained Nebula]
+[06Dec2024 01:46:46.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has completed the challenge [Heat Death of the Universe]
+[06Dec2024 01:48:28.615] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8886, y=78, z=-6448} BlockPos{x=-8888, y=79, z=-6451}

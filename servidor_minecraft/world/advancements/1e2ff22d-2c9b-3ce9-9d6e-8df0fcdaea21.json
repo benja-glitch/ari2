@@ -317,6 +317,7 @@
       "minecraft:spider": "2024-12-03 20:34:25 +0000",
       "minecraft:creeper": "2024-12-03 23:01:23 +0000",
       "minecraft:slime": "2024-12-06 00:41:30 +0000",
+      "minecraft:phantom": "2024-12-06 01:45:29 +0000",
       "minecraft:zombified_piglin": "2024-12-06 00:46:21 +0000",
       "minecraft:wither_skeleton": "2024-12-05 00:19:54 +0000",
       "minecraft:husk": "2024-12-03 20:36:34 +0000",
@@ -567,6 +568,7 @@
   "soulsweapons:all_weapons": {
     "criteria": {
       "leviathan_axe": "2024-12-03 21:32:43 +0000",
+      "soul_reaper": "2024-12-06 01:46:38 +0000",
       "darkin_blade": "2024-12-05 20:31:33 +0000",
       "draugr": "2024-12-05 02:02:31 +0000",
       "nightfall": "2024-12-05 20:18:38 +0000"
@@ -985,6 +987,7 @@
   },
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
+      "phantom": "2024-12-06 01:45:29 +0000",
       "warden": "2024-12-05 16:58:28 +0000"
     },
     "done": false
@@ -1158,9 +1161,21 @@
     },
     "done": true
   },
+  "soulsweapons:chaos_orb": {
+    "criteria": {
+      "items": "2024-12-06 01:43:21 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/make_arcane_anvil": {
     "criteria": {
       "arcane_anvil": "2024-12-06 01:35:33 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:kill_day_night_boss": {
+    "criteria": {
+      "soul": "2024-12-06 01:46:46 +0000"
     },
     "done": true
   },
