@@ -729,6 +729,7 @@
   },
   "mores:obtain_all": {
     "criteria": {
+      "obtain_onyx_gem": "2024-12-06 02:35:19 +0000",
       "obtain_cobalt_ingot": "2024-12-05 16:12:33 +0000",
       "obtain_topaz_gem": "2024-12-04 23:35:33 +0000",
       "obtain_tourmaline": "2024-12-04 23:49:25 +0000",
@@ -1214,6 +1215,18 @@
   "minecraft:end/kill_dragon": {
     "criteria": {
       "killed_dragon": "2024-12-06 02:07:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2024-12-06 02:35:11 +0000"
+    },
+    "done": true
+  },
+  "mores:obtain_onyx": {
+    "criteria": {
+      "obtain_onyx_gem": "2024-12-06 02:35:19 +0000"
     },
     "done": true
   },

@@ -1760,3 +1760,37 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [06Dec2024 02:26:20.186] [Server thread/INFO] [spawnermod/]: Sending config to player.
 [06Dec2024 02:26:58.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
 [06Dec2024 02:27:04.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> aconteta
+[06Dec2024 02:33:02.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Teleported B3njaxx_11 to Tomas_michele]
+[06Dec2024 02:33:45.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Spectator Mode]
+[06Dec2024 02:33:58.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
+[06Dec2024 02:34:25.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Adventure Mode]
+[06Dec2024 02:34:26.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Spectator Mode]
+[06Dec2024 02:34:57.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Adventure Mode]
+[06Dec2024 02:34:58.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
+[06Dec2024 02:35:00.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Creative Mode]
+[06Dec2024 02:35:11.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Remote Getaway]
+[06Dec2024 02:35:14.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
+[06Dec2024 02:35:19.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [This Is The End]
+[06Dec2024 02:36:20.911] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: B3njaxx_11 lost connection: Timed out
+[06Dec2024 02:36:20.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 left the game
+[06Dec2024 02:36:47.646] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: B3njaxx_11[/127.138.8.222:56609] logged in with entity id 54462 at (-574.9540878442043, 57.0, -748.8569112589228)
+[06Dec2024 02:36:47.648] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to B3njaxx_11
+[06Dec2024 02:36:47.648] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to B3njaxx_11
+[06Dec2024 02:36:47.648] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to B3njaxx_11
+[06Dec2024 02:36:47.649] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to B3njaxx_11
+[06Dec2024 02:36:47.651] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to B3njaxx_11
+[06Dec2024 02:36:47.652] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to B3njaxx_11
+[06Dec2024 02:36:47.653] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to B3njaxx_11
+[06Dec2024 02:36:47.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 joined the game
+[06Dec2024 02:36:47.741] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[06Dec2024 02:37:25.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Teleported Tomas_michele to B3njaxx_11]
+[06Dec2024 02:37:32.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tomas_michele> mr bin
+[06Dec2024 02:38:08.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tomas_michele: Teleported B3njaxx_11 to Tomas_michele]
+[06Dec2024 02:39:19.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> ok mister vin
+[06Dec2024 02:39:20.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> suerte
+[06Dec2024 02:39:30.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> yo estoy ayyudando a fede cib natenatuca
+[06Dec2024 02:39:34.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> mantecaaaaa
+[06Dec2024 02:39:51.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tomas_michele> en matematica?
+[06Dec2024 02:40:19.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tomas_michele> preguntale a ese pj si no pasa nada si no doy mañana la prueba
+[06Dec2024 02:40:24.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tomas_michele> :V
+[06Dec2024 02:40:30.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> meta gil
